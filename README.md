@@ -1,4 +1,4 @@
-Русская локализация Millennium Dawn: Modern Day Mod версия 0.13(в разработке)
+Русская локализация Millennium Dawn: Modern Day Mod версия 0.12.1(в разработке)
 
 Необходимая версия HOI4 (1.10+)
 
