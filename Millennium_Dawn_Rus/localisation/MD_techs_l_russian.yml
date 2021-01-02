@@ -264,7 +264,7 @@
  D_att_sub_displacement:0 "Водоизмещение"
  D_att_sub_displacement_desc:0 "Больше места для ракет и торпед."
  
- Early_APC:0 "Проект бронеавтомобиля"
+ Early_APC:0 "Проект бронетехники"
  
  early_bomber:0 "Проект бомбардировщика"
  early_bomber_desc:0 "Проект раннего бомбардировщика"
@@ -565,7 +565,7 @@
  INFANTRY_TITLE_DRONES: "ДРОНЫ"
  INFANTRY_TITLE_COMMAND: "КОМАНДНО-УПРАВЛЯЮЩЕЕ СНАРЯЖЕНИЕ"
  INFANTRY_TITLE_COMBAT_ENGI: "БОЕВАЯ ИНЖЕНЕРИЯ\nСНАРЯЖЕНИЕ"
- Armour_TITLE_WEAPONS: "БРОНЕАВТОМОБИЛИ"
+ Armour_TITLE_WEAPONS: "БРОНЕТЕХНИКА"
  Armour_TITLE_IFV: "БМП"
  Armour_TITLE_APC: "БТР"
  Armour_TITLE_MBT: "ОСНОВНЫЕ БОЕВЫЕ ТАНКИ"

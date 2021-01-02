@@ -8,10 +8,10 @@
  ### End Test ###
 
  ### Tutorial ###
- EU_HELP_BUTTON_TT: "Click to open the browser window to view the EU Tutorial there."
- EU_HELP_BUTTON_TT_delayed: "Its on the discord server of Millennium Dawn, so you have to be logged in."
+ EU_HELP_BUTTON_TT: "Щелкните, чтобы открыть окно браузера для просмотра руководства ЕС."
+ EU_HELP_BUTTON_TT_delayed: "Это на сервере дискорда "Рассвета Тысячелетия", так что вы должны войти в систему."
  EU_Voting_tutorial:0 "Руководство ЕС"
- EU_Voting_tutorial_desc:0 "Руководство о том, как §Y[EUU.GetFlag] Европейский союз§! смоделирован и работает в Millennium Dawn."
+ EU_Voting_tutorial_desc:0 "Руководство о том, как работает §Y[EUU.GetFlag] Европейский союз§! в Millennium Dawn."
  
  EU_tutorial.1.t:0 "Введение - Главное меню"
  EU_tutorial.1.d:0 "Введение - Главное меню\nГлава 1 - Европейский союз\nГлава 2 - Фокусное дерево ЕС\nГлава 3 - Голосование в ЕС\n\nВведение - Главное меню - Страница 2\nГлава 4 - Законы и идеи ЕС\nГлава 5 - Офисы ЕС\nГлава 6 - Евроскептицизм\n\nВведение - Главное меню - Страница 3\nГлава 7 - Уход из ЕС\nГлава 8 - Расширение и вступление в ЕС\nГлава 9 - События в ЕС\n\nВведение - Главное меню - Страница 4\nГлава 10 - Объединение ЕС\nГлава 11 - ИИ ЕС\nГлава 12 - Подсказки и читы\nКонец руководства"
@@ -738,11 +738,11 @@
  EU_voting_category_desc:0 "[ROOT.GetFlag] Евроскептицизм: [?ROOT.eurosceptic|§%R1]\nЕвроскептицизм, также известный как ЕС-скептицизм, означает критику Европейского союза (ЕС) и европейской интеграции. Согласно опросам общественного мнения, это соотношение представляет собой огромное количество людей, которые скорее всего, проголосуют за выход из Европейского Союза в случае проведения референдума о членстве своей страны в Европейском Союзе.\n[EUU.GetFlag] Европеизм: [?global.var_europeanism|§%G1]\nЕвропеизм, также известный как проевропейский, иногда называемый Европейским Юнионизмом, - это политическая позиция, которая выступает за европейскую интеграцию и членство в Европейском союзе (ЕС). Она включает в себя более радикальных европейских федералистов, которые стремятся создать единую сверхдержаву, неофициально известную как Соединенные Штаты Европы. Родственный термин - "Еврофил". Это соотношение представляет еврофилов по всему Союзу."
 
  ### EU Decisions ###
- show_EU_values: "Show the system of EU values"
- show_EU_values_desc: "Show the system of EU values"
+ show_EU_values: "Показать систему ценностей ЕС"
+ show_EU_values_desc: "Показать систему ценностей ЕС"
 
  ### EU Info ###
- EU_info.1.t: "System of EU values"
+ EU_info.1.t: "Система ценностей ЕС"
  EU_info.1.d: "EU value:\nissue of breach - level of breach\n\nRule of Law:\nParalyzing Corruption - 5\nCrippling Corruption - 4\nRampant Corruption - 3\nUnrestrained Corruption - 2\nSystematic Corruption - 1\n\nRespect for human dignity and freedom:\nhas offensive war with EU member state - 10\nhas communist government - 2\nhas reactionary government - 2\nhas communist in coalition - 1\nhas reactionary in coalition - 1\n\nDemocracy:\nNo elections - 5\nDictatorship - 5\nCommunist Dictatorship - 5\nFascist Dictatorship - 5\nis puppet - 4\nNeo-Imperialism - 1\n\nWomen and Minority Rights:\nProhibited Service for Women - 1\nElection Threshold 10% - 1\n\nNo Bailout clause:\nBankrupcy - 1\nBailout given - 1"
  EU_info.1.a: "Okay"
  EU_SOTEU_category:0 "Государства Европейского Союза"
@@ -4104,8 +4104,8 @@
 
  ### EU_defense_category & Decisions ###
 
- EU_defense_category: "Defense Policies of the EU"
- EU_defense_category_desc: "In the 1950s the idea of the European Defence Community collapsed when it failed to obtain ratification in the French Parliament. Its successor became the Common Security and Defence Policy of the European Union. With the majority of European Nations beeing members of the North Atlantic Treaty Organization (NATO) there wasn't seen the need of an own European Defense Organization throughout the 20th centrury. But with rising world tensions in the 21st centruy this is changing..."
+ EU_defense_category: "Оборонная политика ЕС"
+ EU_defense_category_desc: "В 1950-х годах идея Европейского оборонного сообщества провалилась, когда она не получила ратификации во французском парламенте. Ее преемником стала общая политика безопасности и обороны Европейского Союза. Поскольку большинство европейских стран были членами организации Североатлантического договора (НАТО), необходимость в создании собственной Европейской организации обороны не возникала на протяжении всего ХХ века. Но с ростом мировой напряженности в 21 веке ситуация изменится."
  EU_Frontex_take_control: "Take control of the Frontex Forces"
  EU_Frontex_take_control_desc: "Europe’s external borders have seen an unprecedented rise in the number of migrants and refugees wishing to enter the EU in recent years. Countries that have an external border have sole responsibility for border control. But Frontex can provide additional technical support for EU countries facing severe migratory pressure.\n It does this by coordinating the deployment of additional technical equipment (e.g. aircraft and boats) and specially-trained border staff."
  EU_EuroNavy_take_control: "Take control of the EuroNavy"
@@ -4115,10 +4115,10 @@
  EU_create_EDU: "Form the European Defence Union (EDU)"
  EU_create_EDU_desc: "In order to attain the necessary strategic autonomy to defend their collective interests, respond to external conflicts and crises, and project security in our neighbourhood the member states have decided to form the §YEuropean Defence Union (EDU)§! as military alliance and to collectivly leave §YNATO§!."
 
- EU_military_exercise: "Prepare Military Exercise at [FROM.GetAdjective] border"
- EU_military_exercise_desc: "Prepare Military Exercise at [FROM.GetAdjective] border"
- EU_ask_to_host_military_exercise: "Ask to host a Military Exercise at border"
- EU_ask_to_host_military_exercise_desc: "Ask [FROM.GetNameWithFlag] to host a Military Exercise at border"
+ EU_military_exercise: "Подготовка военных учений на [FROM.GetAdjective] границе"
+ EU_military_exercise_desc: "Подготовка военных учений на [FROM.GetAdjective] границе"
+ EU_ask_to_host_military_exercise: "Попросить провести учения на границе"
+ EU_ask_to_host_military_exercise_desc: "Попросить [FROM.GetNameWithFlag] провести военные учения на границе."
 
  EU_military_exercise_mission: "Execute Military Exercise"
  EU_military_exercise_mission_desc: "Execute Military Exercise"
@@ -4136,16 +4136,16 @@
 
   ### EU_apply_for_membership_category & Decisions ###
 
- EU_apply_for_membership_category: "Joining the EU"
- EU_apply_for_membership_category_desc: "Becoming a member of the EU is a complex procedure which does not happen overnight. Once an applicant country meets the conditions for membership, it must implement EU rules and regulations in all areas.\nAny country that satisfies the conditions for membership can apply. These conditions are known as the ‘Copenhagen criteria’ and include a free-market economy, a stable democracy and the rule of law, and the acceptance of all EU legislation, including of the euro."
- EU_apply_for_membership: "Joining the EU"
- EU_apply_for_membership_desc: "§Y[ROOT.GetNameWithFlag]§! can join the §Y[EUU.GetFlag] The European Union§! lets sing the Ode to Joy:\nJoy, beautiful spark of Divinity,\nDaughter of Elysium,\nWe enter, drunk with fire,\nHeavenly One, thy sanctuary!\nYour magic binds again\nWhat custom strictly divided;\nAll people become brothers,\nWhere your gentle wing abides. "
- EU_adopt_EU_law: "Adopt the EU law"
+ EU_apply_for_membership_category: "Вступление в ЕС"
+ EU_apply_for_membership_category_desc: "Стать членом ЕС - не простая задача, которая не пройдет в одночасье. Как только страна-заявитель выполнит условия членства, она должна будет соблюдать правила и нормы ЕС во всех его сферах. \nЛюбая страна, соответствующая условиям членства, может подать заявку на вступление. Сами эти условия известны как «Копенгагенские критерии», которые включают в себя свободную рыночную экономику, стабильную демократию и верховенство закона, а также принятие всего законодательства ЕС, включая евро."
+ EU_apply_for_membership: "Вступление в ЕС"
+ EU_apply_for_membership_desc: "§Y[ROOT.GetNameWithFlag]§! может присоединиться к §Y[EUU.GetFlag] Европейскому союзу§!. Давайте споем Оду радости:\nРадость, прекрасная искра божественности,\nДочь из Элизиума,\nМы входим, пылая огнем,\nНебесное существо, в твое святилище!\nТвоя магия снова связывает\nКаждый случай строго разделен;\nВсе люди становятся братьями,\nГде обитает твое нежное крыло."
+ EU_adopt_EU_law: "Принять законодательство ЕС"
  EU_adopt_EU_law_desc: "Due to the huge volume of EU rules and regulations each candidate country must adopt as national law, the negotiations take time to complete. The candidates are supported financially, administratively and technically during this pre-accession period."
- EU_join_the_Euro: "Joining the Euro"
+ EU_join_the_Euro: "Принять евро"
  EU_join_the_Euro_desc: "In order to adopt the euro, EU countries have to bring their national legislation in line with relevant EU law and meet specific conditions designed to ensure economic convergence. These requirements, agreed by the EU Member States in Maastricht in 1991, are known as the convergence criteria."
- USoE_integrate_new_members: "Integrate new member states"
- USoE_integrate_new_members_desc: "Integrate new member states in the United States of Europe"
+ USoE_integrate_new_members: "Интеграция новых стран-членов"
+ USoE_integrate_new_members_desc: "Интеграция новых стран-членов в Соединенные Штаты Европы"
 
  ###################################
  ###################################
@@ -7553,3 +7553,12 @@ EU_parliament_focus_EU001_loc_key: "\n[EU_council_focus_name_EU001]: [?global.fo
 
 
 # [EU_parliament_PG_Nat_Populism_icon] [EU_parliament_PG_Nat_Populism_short_name], [EU_parliament_PG_Nat_Fascism_icon] [EU_parliament_PG_Nat_Fascism_short_name], [EU_parliament_PG_Nat_Autocracy_icon] [EU_parliament_PG_Nat_Autocracy_short_name] and [EU_parliament_PG_Monarchist_icon] [EU_parliament_PG_Monarchist_short_name]
+
+
+
+
+
+
+# localisation by Alfabet
+EU_potential: "Потенциал ЕС"
+EU_candidate: "Кандидат ЕС"
