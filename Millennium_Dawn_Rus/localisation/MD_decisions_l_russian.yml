@@ -404,7 +404,7 @@
  EP_small_arms_close:0 "Закрыть стрелковое оружие"
  
  EP_cc_equi_open:0 "Открытое C&C оборудование"
- EP_cc_equi_close:0 "Close C&C equipment"
+ EP_cc_equi_close:0 "Закрыть снаряжение C&C"
  
  EP_anti_air_open:0 "Открыть ПЗРК"
  EP_anti_air_close:0 "Закрыть ПЗРК"
@@ -419,29 +419,29 @@
  EP_transport_helicopters_close:0 "Закрыть вертолетный транспорт"
  
  #Air tab
- EP_air_cat:0 "Купить иностранный самолет"
- EP_air_close:0 "Закройте вкладку Air"
+ EP_air_cat:0 "Купить иностранный самолеты"
+ EP_air_close:0 "Закройте вкладку самолеты"
  
  EP_ASF_open:0 "Открыть ASF"
  EP_ASF_close:0 "Закройте ASF"
  
- EP_MR_open:0 "Открыть мультироль"
- EP_MR_close:0 "Закройте мультироль"
+ EP_MR_open:0 "Открыть многоцелевые"
+ EP_MR_close:0 "Закройте многоцелевые"
  
- EP_interceptor_open:0 "Открыть Interceptors"
- EP_interceptor_close:0 "Закройте Interceptors"
+ EP_interceptor_open:0 "Открыть перехватчики"
+ EP_interceptor_close:0 "Закройте перехватчики"
  
- EP_CAS_open:0 "Открыть CAS"
- EP_CAS_close:0 "Закройте CAS"
+ EP_CAS_open:0 "Открыть штурмовики"
+ EP_CAS_close:0 "Закройте штурмовики"
  
- EP_strike_fighter_open:0 "Открыть Strike Fighters"
- EP_strike_fighter_close:0 "Закройте Strike Fighters"
+ EP_strike_fighter_open:0 "Открыть ударные истребители"
+ EP_strike_fighter_close:0 "Закройте ударные истребители"
  
- EP_attack_helicopters_open:0 "Открыть Attack Helicopters"
- EP_attack_helicopters_close:0 "Закройте Attack Helicopters"
+ EP_attack_helicopters_open:0 "Открыть штурмовые вертолеты"
+ EP_attack_helicopters_close:0 "Закройте штурмовые вертолеты"
  
- EP_trainer_open:0 "Открыть Trainers"
- EP_trainer_close:0 "Закройте Trainers"
+ EP_trainer_open:0 "Открыть тренеры"
+ EP_trainer_close:0 "Закройте тренеры"
  
  EP_UAV_open:0 "Открыть UAVs"
  EP_UAV_close:0 "Закройте UAVs"
@@ -471,8 +471,8 @@
  EP_APC_open:0 "Открыть APCs"
  EP_APC_close:0 "Закройте APCs"
  
- EP_IFV_open:0 "Открыть IFVs"
- EP_IFV_close:0 "Закройте IFVs"
+ EP_IFV_open:0 "Открыть БМП"
+ EP_IFV_close:0 "Закройте БМП"
  EP_rec_open:0 "Открыть Recon/Light Tanks"
  EP_rec_close:0 "Закройте Recon/Light Tanks" 
  EP_utility_open: "Открыть Utility Vehicles"
