@@ -1478,13 +1478,13 @@
 
  isis.3.t: "Истребители дезертируют к Дэшу"
  isis.3.d: "[Root.GetLeader]! The so-called "Islamic" State have infiltrated us, and managed to sway some of our best fighters to join their ridiculous excuse of an caliphate. We should not let this go unanswered, we should fight back and defeat these kharijites who make takfir left and right while using the Holy Qur'an as toilet paper."
- isis.3.a: "We, the righteous jihadis, will slaughter them like dogs!"
- isis.3.a: "No, we cannot afford another front in this war"
+ isis.3.a: "Мы, праведные джихадисты, зарежем их, как собак!"
+ isis.3.a: "Нет, мы не можем позволить себе другой фронт в этой войне."
 
  isis.4.t: "Дефект отрядов Тахрир аш-Шам"
  isis.4.d: "О халиф, многие справедливые и храбрые братья муваххиды дезертировали из злого Фронта Тахрир аш-Шам и вместо этого присоединились к нашему делу!"
  isis.4.a: "Такбир! Исламское государство Такбир!"
- isis.4.a_tt: "Добавляет 2 §HБригады Джабат ан-Нусра§! in §HRaqqa§!"
+ isis.4.a_tt: "Добавит 2 §Hбригады Джабат ан-Нусра§! в §HРакка§!"
 
  isis.5.t: "Признак слабости от Тахрир аль-Шама"
  isis.5.d: "О халиф, отвратительный Тахрир аль-Шам-фронт слабее, чем мы думали, ничего не делая против нашего проникновения в них и недавних дезертирства. Военный совет Шуры рекомендует нам зарезать их гниющие останки, как собак, и забрать их территорию, добавив ее в наш славный Халиф!"
@@ -1499,9 +1499,9 @@
  isisNews.1.d: "В условиях растущего давления на сирийских исламистов Тахрир-эш-Шама их оставшиеся силы в последний момент заявили о своей преданности ИГИЛ в попытке навязать Сирии свою фундаменталистскую идеологию."
  isisNews.1.a: "Боже, помоги нам всем!"
 
- isis.7.t: "Скрытый"
- isis.7.d: "Скрытый"
- isis.7.a: "Скрытый"
+ isis.7.t: "Скрыто"
+ isis.7.d: "Скрыто"
+ isis.7.a: "Скрыто"
 
  isis.1301.t: "Abu Fatima Martyred in Coalition Airstrike"
  isis.1301.d: "Bad news, Caliph! Your good friend and fellow Iraqi deputy, Abu Fatima al-Jaheishi was bravely martyred in an cowardly airstrike by the Americans.\n\n                                               He killed many apostates.\n\n                                         May Allah accept his martyrdom."
