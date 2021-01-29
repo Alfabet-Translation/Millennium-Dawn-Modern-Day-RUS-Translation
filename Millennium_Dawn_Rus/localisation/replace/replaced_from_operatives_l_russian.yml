@@ -142,7 +142,7 @@
  OPERATIVE_MISSION_QUIET_INTEL_NETWORK_TITLE:0 "Перевести разведывательную сеть в режим скрытности"
  OPERATIVE_MISSION_QUIET_INTEL_NETWORK_ACTION:2 "Разведывательная сеть региона заляжет на дно"
  OPERATIVE_MISSION_QUIET_INTEL_NETWORK_TT:0 "Разведсеть региона $STATE|H$ заляжет на дно в государстве $FLAG$ $COUNTRY_DEF|H$"
- OPERATIVE_MISSION_QUIET_INTEL_NETWORK_ASSIGNMENT_DESC:1 "§GЩелчок мышью§! выделит подходящие регионы. Повторный §Gщелчок мышью§! на регионе начнёт задание."
+ OPERATIVE_MISSION_QUIET_INTEL_NETWORK_ASSIGNMENT_DESC:1 "§GКлик мышью§! выделит подходящие регионы. Повторный §Gщелчок мышью§! на регионе начнёт задание."
  OPERATIVE_MISSION_QUIET_INTEL_NETWORK_DESC:3 "§LПоддерживать сеть из местных информаторов и других связных, минимизируя риск обнаружения.§!\nПредотвращает потерю §YУсиления разведсети§!, пока сеть не активна."
  OPERATIVE_MISSION_QUIET_INTEL_NETWORK_VALID_TARGET:1 "Назначить агента $CODENAME$ на задание: £operative_mission_icons_small|2£ Скрыть разведывательную сеть в регионе $STATE|H$"
  OPERATIVE_MISSION_QUIET_INTEL_NETWORK_INVALID_TARGET:0 "Невозможно назначить на скрытие разведывательной сети в государстве $STATE|H$\n\n$REASON|R$"
