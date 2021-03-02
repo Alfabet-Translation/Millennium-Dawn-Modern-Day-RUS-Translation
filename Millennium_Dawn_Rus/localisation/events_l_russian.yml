@@ -1503,9 +1503,9 @@
  isis.7.d: "Скрыто"
  isis.7.a: "Скрыто"
 
- isis.1301.t: "Abu Fatima Martyred in Coalition Airstrike"
+ isis.1301.t: "Абу Фатима погиб во время авиаудара коалиции"
  isis.1301.d: "Bad news, Caliph! Your good friend and fellow Iraqi deputy, Abu Fatima al-Jaheishi was bravely martyred in an cowardly airstrike by the Americans.\n\n                                               He killed many apostates.\n\n                                         May Allah accept his martyrdom."
- isis.1301.a: "We shall avenge him when we conquer Washington DC!"
+ isis.1301.a: "Мы отомстим за него, когда завоюем Вашингтон!"
 
  isisNews.1301.t: "ISIS Commander Killed in Coalition Airstrike"
  isisNews.1301.d: "Iraqi terrorist and senior ISIS-commander Abu Fatima al-Jaheishi was killed today in a US-coalition airstrike. Abu Fatima was part of al-Baghdadi's inner circle and served as deputy leader of ISIS-controlled parts of Iraq."
@@ -1615,13 +1615,13 @@
  isisNews.11305.t: "ISIS Commander Killed in Russian Airstrike"
  isisNews.11305.d: "Iraqi terrorist and senior ISIS-commander Abdullah Ahmed al-Mashadani was killed today in a Russian airstrike. al-Mashadani was key to the ISIS war effort by leading the suicide-bombing operations and training foreign jihadis."
 
- isis.11306.t: "Commander Martyred in Russian Airstrike"
+ isis.11306.t: "Командир погиб при русском авиаударе"
  isis.11306.d: "O Caliph, bad news! Our govenor of the Central Euphrates region, Ahmed Khalal al-Juhayshi, has been martyred in a airstrike by the Russian dogs.\n\n                                                He killed many apostates.\n\n                                         May Allah accept his martyrdom."
 
- isisNews.11306.t: "ISIS Commander Killed in Russian Airstrike"
+ isisNews.11306.t: "Командир ИГИЛ убит при русском авиаударе"
  isisNews.11306.d: "Iraqi terrorist and senior ISIS-member, Ahmed Khalal al-Juhayshi, was killed today in a Russian airstrike. al-Juhayshi was not an prominent military commander, but an administrator and governor of the key Central Euphrates region for the Islamic State."
 
- isis.11307.t: "Commander Martyred in Russian Airstrike"
+ isis.11307.t: "Командир погиб при русском авиаударе"
  isis.11307.d: "O Caliph, bad news! Your good friend and Chief of Logistics and Supplies, Fares Reif al-Naima, has been martyred in a airstrike by the Russian dogs. He was a longtime brave and loyal mujahid, fighting against the infidels and apostates since 2003.\n\n                             He killed many for the glory of the Caliphate.\n\n                                         May Allah accept his martyrdom."
 
  isisNews.11307.t: "ISIS Commander Killed in Russian Airstrike"
@@ -1660,7 +1660,7 @@
  isis.11313.t: "Commander Martyred in Russian Airstrike"
  isis.11313.d: "O Caliph, horrible news! Our senior commander, Abu Jihad Shishani, has been martyred in an airstrike by the Russian infidel dogs. He came to us from the lands of the Chechens, and fought bravely for the glory of Allah until the end.\n\n                                               He killed many apostates.\n\n                                         May Allah accept his martyrdom."
 
- isisNews.11313.t: "ISIS Commander Killed in Russian Airstrike"
+ isisNews.11313.t: "Командир ИГИЛ убит при русском авиаударе"
  isisNews.11313.d: "Chechen terrorist and senior ISIS-commander, Abu Jihad Shishani, was killed today in a Russian airstrike. Shishani, a Russian citizen, was second-in-command of the Caucasus Emirate terror group under the leadership of Umar Shishani. After Umar traveled to Syria and joined ISIS, Abu Jihad tried to take over the Caucasus Emirate in order to pledge it's allegiance to ISIS, but ended up travelling to Syria to fight for ISIS as an senior commander too."
 
  #Civil War
@@ -2452,13 +2452,13 @@
  India.2.b: "Mobilize all available helpers."
 
  #Libya
- LibyaNews.1.t: "Second Libyan Civil War Comes to an End"
+ LibyaNews.1.t: "Вторая ливийская гражданская война подходит к концу"
  LibyaNews.1.GNA.d: "The Second Libyan Civil War started in 2014, after the Libyan military under General Khalifa Haftar ousted the ruling government when they refused to step down after losing the elections of 2014. The supporters of the government formed a new faction, the National Salvation Government, sparking a new civil war. In 2015, the UN brokered a truce between the two factions, forming a new joint-government called the Government of National Accord. However, only a year later the peace was shattered, plunging the country into a three-way civil war.\n\nIt seems that the internationally backed Government of National Accord has managed to overcome the rebellious factions and unite the country, despite lacking the backing of the Libyan military. Being recognized by the EU and much of the Western world, this is a vast shift of balance in the region."
  LibyaNews.1.HOR.d: "The Second Libyan Civil War started in 2014, after the Libyan military under General Khalifa Haftar ousted the ruling government when they refused to step down after losing the elections of 2014. The supporters of the government formed a new faction, the National Salvation Government, sparking a new civil war. In 2015, the UN brokered a truce between the two factions, forming a new joint-government called the Government of National Accord. However, only a year later the peace was shattered, plunging the country into a three-way civil war.\n\nIt seems that the House of Representatives with the support of General Haftar, the Libyan military and many Gaddafi-loyalists have managed to legitimize their rule over the country. Supplied and backed by Russia, Haftar has promised land for two Russian military bases in the country. This will see an increase of Russian influence in North Africa."
  LibyaNews.1.GNC.d: "The Second Libyan Civil War started in 2014, after the Libyan military under General Khalifa Haftar ousted the ruling government when they refused to step down after losing the elections of 2014. The supporters of the government formed a new faction, the National Salvation Government, sparking a new civil war. In 2015, the UN brokered a truce between the two factions, forming a new joint-government called the Government of National Accord. However, only a year later the peace was shattered, plunging the country into a three-way civil war.\n\nIt seems that against all odds, the National Salvation Government has emerged victorious. Composed mainly of Islamists and members of the Muslim Brotherhood, many experts claim that this victory could've only achieved by serious backing from foreign actors. Who those actors were remains unclear."
 
 #Norway
- Norway.1.t: "Åsta Train Collision"
+ Norway.1.t: "Столкновение поезда Аста"
  Norway.1.d: "At [GetDateText], the Åsta railway accident in the district of Østerdalen saw a local train on the Røros Line collide with a national train coming from Trondheim.\n\n19 people were killed, marking the first major catastrophe on Norwegian soil in [GetYear]. 67 passengers survived the crash.\n\nThe accident is blamed on the government and the Norwegian National Rail Administration, which lowered requirements to make sure that the railways are actually clear before going ahead to travel."
  Norway.1.o1: "Launch a Full Investigation"
  Norway.1.o2: "Remain Silent"
@@ -2478,7 +2478,7 @@
  Norway.3.a: "Congratulations!"
 
  #Sierra Leone
- SierraLeoneNews.1.t: "Sierra Leonean Civil War Ends"
+ SierraLeoneNews.1.t: "Гражданская война в Сьерра-Леоне"
  SierraLeoneNews.1.SIE.d: "The Sierra Leonean government announced an official victory over the rebels today. With support from Guinea, United Kingdom and the UNAMSIL forces, the rebels of RUF and AFRC have either surrendered or fled to neighbouring Liberia. The leader of RUF, [AFR.GetLeader], was found in a hideout and arrested, and was handed to the custody of the British SAS.\n\nHe is currently awaiting his trial, being charged of multiple accounts of war crimes by the UN."
  SierraLeoneNews.1.AFR.d: "Despite help from the British and UN troops, the governmental forces of Sierra Leone have been completely driven out of the capital Freetown. Some members of the government had time to evacuate to Nigeria. Others unfortunate enough to be captured by the rebels were promptly gunned down and paraded through the streets of Freetown.\n\nSeveral days of looting has occurred after the fall of the government, as rebels across the country celebrate their victory.\n\nThe country will most likely fall to anarchy and chaos as the militias no longer have any other enemies apart from the local populace."
  SierraLeoneNews.1.a: "Interesting development"
@@ -2498,7 +2498,7 @@
  SierraLeone.5.a: "Damn"
 
  #Sweden
- Sweden.1.t: "The End of the State Church of Sweden"
+ Sweden.1.t: "Конец государственной церкви Швеции"
  Sweden.1.d: "The Church of Sweden is the largest Christian church community in Sweden and the second largest Lutheran community in the world as well as the third-largest protestant church, smaller only than Ethiopia's Lutheran Mekane Yesus and the UK's Anglican Church of England.\n\nThe tight connection between state and the Church of Sweden has been constantly called into question recently, with the Church of Sweden designated the state church of the Swedish government and monarchy. Many other European nations do not give such a position to a particular church body. This, in the eyes of critics, does not only discriminate against foreigners of non-Christian belief, but also the small catholic and orthodox communities of Sweden.\n\nThere is no real power held by the Church of Sweden anymore. Should we not abolish our ties to them? Or stick to them for the sake of tradition?\n\nHistorically, Sweden cut its ties to its state church on January 1st, 2000."
  Sweden.1.o1: "We need to get rid of it!"
  Sweden.1.o2: "Lutheranism is important! Keep it!"
@@ -2959,33 +2959,33 @@
  #Overlord News/Country Events
  overlord.1.t: "Integration of [FROM.GetName]"
  overlord.1.d: "[FROM.GetName] has been our puppet state for far too long. It is no longer a viable partnership to allow them to have autonomy. On this day in [GetYear] marks a day we have long desired. [FROM.GetName] has been integrated into our great nation. They will now become [ROOT.GetAdjective] citizens and recieve the same care and treatment as any other citizen in our nation. It is a glorious day for us and the people of [FROM.GetName].\nNOTE: Annexing another soverign nation forces us to assume all of their debt, treasury, and international investments as they merge with us.\n\nYou gain the following: [?ROOT.treasury|Y] Treasury, [?ROOT.debt|R] Debt, [?ROOT.int_investments] International Investments"
- overlord.1.a: "Wonderful"
+ overlord.1.a: "Замечательно"
  overlord.1.a_tt: "We gain §YCores§! on §B[FROM.GetName]§!\n"
 
- overlord_news.1.t: "[ROOT.GetName] Integrates [FROM.GetName]"
- overlord_news.1.d: "Delegations from [ROOT.GetName] and [FROM.GetName] have annouced today that [FROM.GetName] will be integrated into [ROOT.GetName]. [FROM.GetName] has been a autonomous state for quite some time and has become incresingly reliant on [ROOT.GetName] in the past months. It is quoted as 'It only makes sense!' from the two parties involved.\n\nThe truth in that statment is yet to be seen.."
- overlord_news.1.a: "Interesting.."
+ overlord_news.1.t: "[ROOT.GetName] интегрирует [FROM.GetName]"
+ overlord_news.1.d: "Сегодня делегации [ROOT.GetName] и [FROM.GetName] объявили, что [FROM.GetName] будет интегрирован в [ROOT.GetName]. [FROM.GetName] в течение довольно долгого времени являлась автономным государством и в последние месяцы стала невероятно зависимой от [ROOT.GetName]. Оно цитируется как "Это только имеет смысл!" от двух вовлеченных сторон.\n\nПравду в этом уставе еще предстоит увидеть..."
+ overlord_news.1.a: "Интересно.."
 
  #Test/Debug Events
- debug_money.1.t: "Resource Sale Rate Calculator"
+ debug_money.1.t: "Калькулятор стоимости продажи ресурсов"
  debug_money.1.d: "[?percentage_of_resource_exports|%1]"
 
  # Cartel Events
- cartel_event.1.t: "End of the Cartels"
- cartel_event.1.d: "The influence of the cartels has been dwindiling and thorugh our efforts to reduce corruption within our own government, we are now powerfull enough to take the cartels head on"
- cartel_event.1.a: "Los Narcos will pay for their crimes"
+ cartel_event.1.t: "Конец картелей"
+ cartel_event.1.d: "Влияние картелей уменьшается, и наши усилия по снижению уровня коррупции в нашем собственном правительстве нелегки, мы теперь достаточно сильны, чтобы взять картели в свои руки."
+ cartel_event.1.a: "Лос-Наркос заплатит за свои преступления"
 
- cartel_event.3.t: "Fate of Mexico"
- cartel_event.3.d: "Our efforts to rid the cartels hasn't gone unnoticed and they have taken up arms against the Mexican government. The War on Drugs has entered its final stage"
- cartel_event.3.a: "Join the Sinola Cartel"
- cartel_event.3.b: "Join the Tierra Caliente"
- cartel_event.3.c: "Join the Tamaulpas Cartel"
- cartel_event.3.e: "Mexico Forever!"
+ cartel_event.3.t: "Судьба Мексики"
+ cartel_event.3.d: "Наши усилия по избавлению от картелей не остались незамеченными, и они взялись за оружие против мексиканского правительства. Война с наркотиками вступила в завершающую стадию"
+ cartel_event.3.a: "Присоединиться к картелю Синола"
+ cartel_event.3.b: "Присоединиться к огненной коалиции"
+ cartel_event.3.c: "Присоединиться к картелю Тамаулпас"
+ cartel_event.3.e: "Мексика навсегда!"
 
- cartel_event.10.t: "End of The War on Drugs"
- cartel_event.10.d: "The last of those wretched Narcos have been elimitated. Mexico is finally drug free"
- cartel_event.10.a: "The Narco Nightmare is over"
+ cartel_event.10.t: "Конец войны с наркотиками"
+ cartel_event.10.d: "Последний из этих жалких наркоманов был уничтожен. Мексика наконец-то освободилась от наркотиков"
+ cartel_event.10.a: "Нарко-кошмар закончился"
 
- cartel_event.12.t: "The Cartel fights back!"
- cartel_event.12.d: "The cartel refuses to sit idle while we undermine thier operations. Our civilian industrial complex has been targeted and bombed as retribution"
- cartel_event.12.a: "Blasted Narcos"
+ cartel_event.12.t: "Картель отбивается!"
+ cartel_event.12.d: "Картель отказывается сидеть сложа руки, пока мы подрываем их операции. Наш гражданский промышленный комплекс стал мишенью и подвергся бомбардировке в качестве возмездия."
+ cartel_event.12.a: "Проклятый наркоман"

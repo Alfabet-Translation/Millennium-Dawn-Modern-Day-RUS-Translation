@@ -4,27 +4,27 @@
  ### focus ###
  #############
 
- POTEF001: "President of the  European Federation"
+ POTEF001: "Президент Европейской Федерации"
  POTEF001_desc: "The §YPresident of the European Federation (POTEF)§! is the paramount leader of Europe. Therefore the President of the European Federation has the power to make the decisive strategic decisions for the whole Federation."
- POTEF100: "Alpine Doctrine"
+ POTEF100: "Альпийская доктрина"
  POTEF100_desc: "The Alpine nations of §Y[AUS.GetNameWithFlag]§! and §Y[SWI.GetNameWithFlag]§! have a long tradition of mountain warfare. With the Alpine Doctrine all member state can adopt this tradition and tactics."
- POTEF101: "The Integrity of Creation"
+ POTEF101: "Целостность творения"
  POTEF101_desc: "To save and conserve the Integrity of Creation the European Federation adapts its policies."
- POTEF102: "Environmental Imperialism"
+ POTEF102: "Экологический империализм"
  POTEF102_desc: "Europe is green, but the world is still dark and grey. Europe needs to spread its policies and technologies throughout the globe and fight back the fossil energy empires that are destroying the planet."
- POTEF103: "North America"
+ POTEF103: "Северная Америка"
  POTEF103_desc: "Europe is green, but North America is still dark and grey. Europe needs to spread its policies and technologies throughout the globe and fight back the fossil energy empires that are destroying the planet."
- POTEF104: "South America"
+ POTEF104: "Южная Америка"
  POTEF104_desc: "Europe is green, but South America is still dark and grey. Europe needs to spread its policies and technologies throughout the globe and fight back the fossil energy empires that are destroying the planet."
- POTEF105: "Europe"
+ POTEF105: "Европа"
  POTEF105_desc: "Europe is green, but the other European countries are still dark and grey. Europe needs to spread its policies and technologies throughout the globe and fight back the fossil energy empires that are destroying the planet."
- POTEF106: "Africa"
+ POTEF106: "Африка"
  POTEF106_desc: "Europe is green, but Africa is still dark and grey. Europe needs to spread its policies and technologies throughout the globe and fight back the fossil energy empires that are destroying the planet."
- POTEF107: "Middle East"
+ POTEF107: "Ближний Восток"
  POTEF107_desc: "Europe is green, but the Middle East is still dark and grey. Europe needs to spread its policies and technologies throughout the globe and fight back the fossil energy empires that are destroying the planet."
- POTEF108: "Asia"
+ POTEF108: "Азия"
  POTEF108_desc: "Europe is green, but Asia is still dark and grey. Europe needs to spread its policies and technologies throughout the globe and fight back the fossil energy empires that are destroying the planet."
- POTEF109: "Oceania"
+ POTEF109: "Океания"
  POTEF109_desc: "Europe is green, but Oceania is still dark and grey. Europe needs to spread its policies and technologies throughout the globe and fight back the fossil energy empires that are destroying the planet."
  POTEF110: "Pacific"
  POTEF110_desc: "Europe is green, but the Pacific is still dark and grey. Europe needs to spread its policies and technologies throughout the globe and fight back the fossil energy empires that are destroying the planet."
@@ -227,36 +227,36 @@
  ### events ###
  ##############
 
- EU_POTEF.1.t: "Alpinic Doctrine"
- EU_POTEF.1.d: "Due to the recent savage winters in the Alp Mountain range, the EU decided to conduct alpinic training in the european armies. This will make the european armies prepared for fighting in winter and mountain enviroment."
- EU_POTEF.1.a: "We must be prepared to fight in any enviroment!"
+ EU_POTEF.1.t: "Альпинская доктрина"
+ EU_POTEF.1.d: "В связи с недавними дикими зимами в Альпийских горах ЕС принял решение о проведении альпинистских тренировок в европейских армиях. Это сделает европейские армии готовыми к боям в зимний период и горной обстановке."
+ EU_POTEF.1.a: "Мы должны быть готовы сражаться в любой обстановке!"
  ### not actice atm ###
- EU_POTEF_news.3.t: "Break the Wall!"
- EU_POTEF_news.3.d: "Officially - Today the European Federation together with Mexico stationed their armies on the American border. We can expect "Trump's wall" to be broken soon."
- EU_POTEF_news.3.a: "We must get rid of this American Giant!"
- EU_POTEF_news.4.t: "Buster's Ressurection"
- EU_POTEF_news.4.d: "Officially - Today the European Federation together with Canada stationed their armies on the American border. We can expect a breakthrough by the European and Canadian armies in the North to be happening soon."
- EU_POTEF_news.4.a: "We must get rid of this American Giant!"
+ EU_POTEF_news.3.t: "Ломай стену!"
+ EU_POTEF_news.3.d: "Официально - Сегодня Европейская федерация вместе с Мексикой разместили свои армии на американской границе. Можно ожидать, что "стена Трампа" скоро будет сломана."
+ EU_POTEF_news.3.a: "Мы должны избавиться от этого американского гиганта!"
+ EU_POTEF_news.4.t: "Страховка Бастера"
+ EU_POTEF_news.4.d: "Официально - Сегодня Европейская федерация вместе с Канадой разместила свои армии на американской границе. Можно ожидать, что прорыв европейских и канадских армий на Севере произойдет в ближайшее время."
+ EU_POTEF_news.4.a: "Мы должны избавиться от этого американского гиганта!"
 
 
  #######################
  ### POTEF Decisions ###
  #######################
 
- EU_POTEF_environmental_imperialism_decision: "Demand Environmental Reforms"
+ EU_POTEF_environmental_imperialism_decision: "Спрос экологические реформы"
  EU_POTEF_environmental_imperialism_decision_desc: "We need to save the planet. If §Y[FROM.GetNameWithFlag]§! doesn't do the neccessary §GEnvironmental Reforms§! by themself, we need to force them to do so. They need to have at least one §YBiofuel Refinery§! for every state they own. If §Y[FROM.GetNameWithFlag]§! doesn't fulfill our demands within a month, we will impose §REnvironmental Sanctions§! on them."
 
- EU_POTEF_environmental_imperialism_mission: "Environmental Reforms"
+ EU_POTEF_environmental_imperialism_mission: "Экологические реформы"
  EU_POTEF_environmental_imperialism_mission_desc: "§YEurope§! demands §GEnvironmental Reforms§! from us to save the planet. If we don't build or reconstruct at least one §YBiofuel Refinery§! for every state we own within a month, they will impose §REnvironmental Sanctions§! on us."
- EU_POTEF_environmental_imperialism_restructure_industry_decision: "Green Energy Reconstruction"
+ EU_POTEF_environmental_imperialism_restructure_industry_decision: "Реконструкция зеленой энергии"
  EU_POTEF_environmental_imperialism_restructure_industry_decision: "To fulfil the European §GEnvironmental Reform§! demands we need to reconstruct some of our §Civilian Industry§! to renewable energy producer (§YBiofuel Refinery§!)."
- EU_POTEF_break_environmental_sanctions_decision: "Break the Environmental Sanctions"
+ EU_POTEF_break_environmental_sanctions_decision: "Нарушить экологические санкции"
  EU_POTEF_break_environmental_sanctions_decision_desc: "Europe has imposed Environmental Sanctions on us. We need to break them with all means - political and military. But this will give [FROM.GetNameWithFlag] a wargoal on us. So we need to ally with other countries sanctioned from [FROM.GetNameWithFlag]."
 
- EU_POTEF_call_all_major_non_EU_ally: "Call all major non-EU EDU allies"
- EU_POTEF_call_all_major_non_EU_ally_desc: "The EDU is attacked. Time to actived the defensive alliance and call all non-EU EDU allies."
- EU_POTEF_call_major_non_EU_ally: "Call [FROM.GetName] to EDU"
- EU_POTEF_call_major_non_EU_ally_desc: "Call the major non-EU EDU ally §Y[FROM.GetNameWithFlag]§!."
+ EU_POTEF_call_all_major_non_EU_ally: "Вызвать всех основных союзников, не входящим в ЕС."
+ EU_POTEF_call_all_major_non_EU_ally_desc: "На EDU напали. Пора активировать оборонительный альянс и призвать всех союзников EDU, не входящих в ЕС."
+ EU_POTEF_call_major_non_EU_ally: "Вызовите [FROM.GetName] в EDU."
+ EU_POTEF_call_major_non_EU_ally_desc: "Позвоните главному союзнику EDU не из стран ЕС §Y[FROM.GetNameWithFlag]§!."
 
  ################
  ### tooltips ###
@@ -279,76 +279,76 @@
  tooltip_POTEF_is_baltic: "when §Y[EST.GetNameWithFlag]§!, §Y[LAT.GetNameWithFlag]§! or §Y[LIT.GetNameWithFlag]§! is §YPresident of the European Federation (POTEF)§!"
 
  ### trigger tooltips ###
- tooltip_focus_POTEF203_trigger: "Is in faction §YEuropean Defense Union§!"
- tooltip_focus_POTEF205_trigger: "[USA.conservatism_L] ruling party"
- tooltip_focus_POTEF206_trigger: "Focus §YMexico§! has been completed"
+ tooltip_focus_POTEF203_trigger: "Находится во фракции §YЕвропейский Союз Обороны§!"
+ tooltip_focus_POTEF205_trigger: "[USA.conservatism_L] правящая партия"
+ tooltip_focus_POTEF206_trigger: "Фокус §YМексика§! завершен"
 
  #################
  ### modifiers ###
  #################
 
- EU_annexed_SOV_minion: "European Federation annexed Russian Minion"
- CSCE_peace_talks: "CSCE Peace Talks"
- commonwealth_legacy: "Commonwealth Legacy"
- contest_silk_road: "Contest the Silk Road"
- latin_cousins: "Latin Cousins"
- historical_friends_HKG: "British Overseas citizen"
- breach_of_Sino_British_Joint_Declaration: "Breach of Sino-British Joint Declaration"
+ EU_annexed_SOV_minion: "Европейская Федерация аннексировала Российского Миниона"
+ CSCE_peace_talks: "Мирные переговоры СБСЕ"
+ commonwealth_legacy: "Наследие Содружества"
+ contest_silk_road: "Конкурс "Шелковый путь""
+ latin_cousins: "Латинские кузены"
+ historical_friends_HKG: "Гражданин Британских заморских стран"
+ breach_of_Sino_British_Joint_Declaration: "Нарушение китайско-британской совместной декларации"
 
  #######################
  ### POTEF Elections ###
  #######################
 
  ### decisions ###
- EU_POTEF_call_election: "Call POTEF elections"
- EU_POTEF_call_election_desc: "With the formation of the European Federation the office of the President of the European Federation (POTEF) evolved out of the rotating Presidency of the Council of the European Union. To give the POTEF more democratic legitimation than the rotating Presidency it was constituted in the treaties, that the POTEF needs to be elected by the people and that the term depends on the aquired majority.\n\nThere is no acting President of the European Federation (POTEF) at the moment, so we need to call an election to end the vacancy."
+ EU_POTEF_call_election: "Созвать выборы ПОТЕФ"
+ EU_POTEF_call_election_desc: "С образованием Европейской федерации канцелярия Президента Европейской федерации (ПОТЕФ) эволюционировала из ротационного председательства в Совете Европейского союза. Чтобы придать ПОТЕФ более демократическую легитимность, чем ротационное председательство, которое он образовал в договорах, чтобы ПОТЕФ был избран народом и чтобы срок его полномочий зависел от требуемого большинства.\n\nВ настоящее время нет действующего Президента Европейской Федерации (ПОТЕФ), поэтому мы должны созвать выборы, чтобы закрыть эту вакансию."
 
- EU_POTEF_nominee: "Declare [ROOT.GetLeader] as nominee for POTEF elections"
- EU_POTEF_nominee_desc: "Declare [ROOT.GetLeader] as for President of the European Federation (POTEF) elections."
+ EU_POTEF_nominee: "Объявляем [ROOT.GetLeader] кандидатом на выборы ПОТЕФ."
+ EU_POTEF_nominee_desc: "Объявить [ROOT.GetLeader] выборы Президента Европейской Федерации (ПОТЕФ)."
 
- EU_POTEF_election_campaign: "POTEF election campaign"
- EU_POTEF_election_campaign_desc: "The race for the Presidency of the European Federation has started. The nominees are campaigning in the member state to get elected as the next President of the European Federation (POTEF)."
+ EU_POTEF_election_campaign: "Предвыборная кампания ПОТЕФ"
+ EU_POTEF_election_campaign_desc: "Началась гонка за председательство в Европейской федерации. Номинанты ведут агитационную кампанию в стране-члене для избрания следующим Президентом Европейской Федерации (ПОТЕФ)."
 
- EU_POTEF_term: "Time to next POTEF election campaign"
- EU_POTEF_term_desc: "Time to next President of the European Federation (POTEF) election campaign."
+ EU_POTEF_term: "Время до следующей предвыборной кампании ПОТЕФ"
+ EU_POTEF_term_desc: "Время до следующей избирательной кампании Президента Европейской Федерации (ПОТЕФ)."
 
- EU_POTEF_show_election_polls: "Show POTEF election polls"
- EU_POTEF_show_election_polls_desc: "Show polls for the next President of the European Federation (POTEF) elections."
+ EU_POTEF_show_election_polls: "Показать избирательные участки ПОТЕФ"
+ EU_POTEF_show_election_polls_desc: "Показать результаты голосования на выборах следующего президента Европейской Федерации (ПОТЕФ)."
 
- EU_POTEF_hide_election_polls: "Hide POTEF election polls"
- EU_POTEF_hide_election_polls_desc: "Hide polls for the next President of the European Federation (POTEF) elections."
+ EU_POTEF_hide_election_polls: "Скрыть избирательные участки ПОТЕФ"
+ EU_POTEF_hide_election_polls_desc: "Скрыть выборы следующего президента Европейской Федерации (POTEF)."
 
- EU_POTEF_campaign_in_member_state: "POTEF election campaign in [FROM.GetName]"
- EU_POTEF_campaign_in_member_state_desc: "[ROOT.GetLeader] will start a POTEF election campaign in [FROM.GetNameWithFlag]."
+ EU_POTEF_campaign_in_member_state: "Предвыборная кампания ПОТЕФ в [FROM.GetName]"
+ EU_POTEF_campaign_in_member_state_desc: "[ROOT.GetLeader] начнет предвыборную кампанию ПОТЕФ в [FROM.GetNameWithFlag]."
 
  ### for testing ###
  EU_POTEF_test_elect_desc: "[EU_POTEF_Western_Autocracy_nominee]\n[EU_POTEF_conservatism_nominee]\n[EU_POTEF_liberalism_nominee]\n[EU_POTEF_socialism_nominee]\n[EU_POTEF_Communist-State_nominee]\n[EU_POTEF_anarchist_communism_nominee]\n[EU_POTEF_Conservative_nominee]\n[EU_POTEF_Autocracy_nominee]\n[EU_POTEF_Mod_Vilayat_e_Faqih_nominee]\n[EU_POTEF_Vilayat_e_Faqih_nominee]\n[EU_POTEF_Kingdom_nominee]\n[EU_POTEF_Caliphate_nominee]\n[EU_POTEF_Neutral_Muslim_Brotherhood_nominee]\n[EU_POTEF_Neutral_Autocracy_nominee]\n[EU_POTEF_Neutral_conservatism_nominee]\n[EU_POTEF_oligarchism_nominee]\n[EU_POTEF_Neutral_Libertarian_nominee]\n[EU_POTEF_Neutral_green_nominee]\n[EU_POTEF_neutral_Social_nominee]\n[EU_POTEF_Neutral_Communism_nominee]\n[EU_POTEF_Nat_Populism_nominee]\n[EU_POTEF_Nat_Fascism_nominee]\n[EU_POTEF_Nat_Autocracy_nominee]\n[EU_POTEF_Monarchist_nominee]\n"
 
 
  ### news events ###
- EU_POTEF_news.1.t: "[FROM.GetLeader] is nominee for POTEF elections"
- EU_POTEF_news.1.d: "[FROM.GetLeader] leader of [FROM.GetNameWithFlag] has been declared as nominee for President of the European Federation (POTEF) elections."
- EU_POTEF_news.1.a: "Okay."
+ EU_POTEF_news.1.t: "[FROM.GetLeader] является кандидатом на выборы ПОТЕФ"
+ EU_POTEF_news.1.d: "[FROM.GetLeader] лидер [FROM.GetNameWithFlag] был объявлен кандидатом на выборы Президента Европейской Федерации (POTEF)."
+ EU_POTEF_news.1.a: "Хорошо."
 
- EU_POTEF_news.2.t: "Result of the [GetYear] POTEF elections"
+ EU_POTEF_news.2.t: "Результат выборов в [GetYear] ПОТЕФ"
  EU_POTEF_news.2.d: "The leader of [FROM.GetNameWithFlag] [FROM.GetLeader] has won the President of the European Federation (POTEF) elections. As POTEF [FROM.GetLeader] will lead the European Federation for the next [?FROM.POTEF_years|0] year(s)."
- EU_POTEF_news.2.a: "Okay."
+ EU_POTEF_news.2.a: "Хорошо."
  ### EU_POTEF_news.3 and EU_POTEF_news.4 used as focus events
 
  EU_POTEF_news.5.t: "[FROM.GetLeader] campaing in [FROM.FROM.GetName] was successful"
  EU_POTEF_news.5.d: "[FROM.GetLeader] campaigned successful in [FROM.FROM.GetNameWithFlag] for President of the European Federation (POTEF) elections."
- EU_POTEF_news.5.a: "Okay."
+ EU_POTEF_news.5.a: "Хорошо."
 
  EU_POTEF_news.6.t: "[FROM.GetLeader] campaing in [FROM.FROM.GetName] was unsuccessful"
  EU_POTEF_news.6.d: "[FROM.GetLeader] campaigned unsuccessful in [FROM.FROM.GetNameWithFlag] for President of the European Federation (POTEF) elections."
- EU_POTEF_news.6.a: "Okay."
+ EU_POTEF_news.6.a: "Хорошо."
 
  #EU_POTEF_trigger_test_1_desc: "[?global.POTEF_pop_vote_total|0]\n[?THIS.POTEF_winner_value|3]\n[?THIS.POTEF_winner|0]\n[?POTEF_winner_array^0|0]\n[?POTEF_winner_array^1|0]\n[?POTEF_winner_array^2|0]\n[?POTEF_winner_array^3|0]"
  EU_POTEF_trigger_test_1_desc: "[POTEF_polls_loc]"
 
  ### tooltips ###
- tooltip_EU_POTEF_nominee_trigger: "[ROOT.GetNameWithFlag] is top 3 influencer in all member states with the same ruling party."
- tooltip_EU_POTEF_nominee_trigger_2: "The party of [ROOT.GetLeader] has §YNOT declared a nominee§! for President of the European Federation (POTEF) elections."
+ tooltip_EU_POTEF_nominee_trigger: "[ROOT.GetNameWithFlag] входит в тройку влиятельных лиц во всех государствах-членах с одной и той же правящей партией."
+ tooltip_EU_POTEF_nominee_trigger_2: "У партии [ROOT.GetLeader] §YНЕ объявлялся кандидат§! на выборы президента Европейской федерации (ПОТЕФ)."
 
  tooltip_EU_POTEF_campaign_in_member_state_effect: "Chance to raise the popularity of the political group supporting [ROOT.GetLeader] about 5% in [FROM.GetNameWithFlag]. The chance depends on the §Yinfluence§! of [ROOT.GetNameWithFlag] on [FROM.GetNameWithFlag], §YEuroscepticism§!, the §Yruling party§! and the §YPOTEF nominee§! of [FROM.GetNameWithFlag]."
 
@@ -411,7 +411,7 @@
 ### European Federation Flag Change ###
 #######################################
 
-EFS_flag_category: "European Federation Flag Change"
-EFS_flag_category_desc: "With the foundation of the European Federation the member states decided to adopt new flags with a common European pattern."
-EFS_flag_change: "European Federation Flag Change"
-EFS_flag_change_desc: "Change the flags to a common European pattern as European Federal State."
+EFS_flag_category: "Смена флага Европейской Федерации"
+EFS_flag_category_desc: "С созданием Европейской федерации государства-члены решили принять новые флаги с общим европейским образцом."
+EFS_flag_change: "Смена флага Европейской Федерации"
+EFS_flag_change_desc: "Поменяйте флаги на общеевропейские, как европейское федеральное государство."

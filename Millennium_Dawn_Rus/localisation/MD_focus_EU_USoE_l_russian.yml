@@ -5,380 +5,380 @@
  #############
 
  ### Constitute the new European Nation ###
- USoE001: "Constitute the new European Nation"
- USoE001_desc: "The unified European Union needs to constitute itself as a new nation. The Constitution and the Unification Treaties are one thing, but now the people need to fulfill that legal framework with life."
+ USoE001: "Создать новую европейскую нацию"
+ USoE001_desc: "Объединенный Европейский Союз должен сформироваться как новая нация. Конституция и договоры об объединении - это одно, но сейчас народ должен воплотить в жизнь эти правовые рамки."
  ### A European Officer Corps ###
- USoE002: "A European Officer Corps"
- USoE002_desc: "In the Union, every member state had its own army and later there was the EuroArmy. We need to create a European Officer Corps with common doctrine and training."
+ USoE002: "Корпус европейских офицеров"
+ USoE002_desc: "В Союзе каждая страна-участница имела свою армию, а позже появилась Евроармия. Нужно создать европейский офицерский корпус с общей доктриной и подготовкой."
  ### European Political Parties ###
- USoE003: "European Political Parties"
- USoE003_desc: "A new nation needs new political parties. The former political parties of the member states have to unify."
+ USoE003: "Европейские политические партии"
+ USoE003_desc: "Новому государству нужны новые политические партии. Бывшие политические партии стран-участниц должны объединиться."
  ### European Patriotism ###
- USoE004: "European Patriotism"
- USoE004_desc: "A new nation needs its own patriotism and national symbols."
+ USoE004: "Европейский патриотизм"
+ USoE004_desc: "Новое государство нуждается в собственном патриотизме и национальных символах."
  ### The New Great Game ###
- USoE005: "The New Great Game"
- USoE005_desc: "The New Great Game has just begun and Europe is late, while the US, China and Russia already made their first moves."
+ USoE005: "Новая великая игра"
+ USoE005_desc: "Новая большая игра только началась, Европа опаздывает, а США, Китай и Россия уже сделали свои первые ходы."
  ### Europe's Heart and Soul ###
- USoE006: "Europe's Heart and Soul"
- USoE006_desc: "The new nation needs to define its values and standards. Europe needs a Heart and Soul!"
+ USoE006: "Сердце и душа Европы"
+ USoE006_desc: "Новое государство должно определить свои ценности и стандарты. Европе нужны Сердце и Душа!"
  ### A Game of Spheres ###
- USoE100: "A Game of Spheres"
- USoE100_desc: "When you play the game of spheres, you win or you die. There is no middle ground."
+ USoE100: "Игра сфер"
+ USoE100_desc: "Когда вы играете в игру сфер, вы выигрываете или умираете. Нет никакой средней позиции."
  ### Engage the Eagle ###
- USoE101: "Engage the Eagle"
- USoE101_desc: "The American Eagle needs to be grounded! It has flown far too long over European skies."
+ USoE101: "Привлечь орла"
+ USoE101_desc: "Американский орел должен быть наказан! Он пролетел слишком долго над европейским небом."
  ### Brawl with the Bear ###
- USoE102: "Brawl with the Bear"
- USoE102_desc: "We need to strike the Bear before he strikes us."
+ USoE102: "Сражаться с медведем"
+ USoE102_desc: "Мы должны ударить Медведя, пока он не ударил нас."
  ### Dance with the Dragon ###
- USoE103: "Dance with the Dragon"
- USoE103_desc: "The Dance with the Dragon is a dangerous game."
+ USoE103: "Танец с Драконом"
+ USoE103_desc: "Танец с Драконом - опасная игра."
  ### A Heart of Iron ###
- USoE104: "A Heart of Iron"
- USoE104_desc: "In ancient times, the blacksmiths would forge an iron throne out of the weapons of the beaten villains. In our days, we just declare Europe has proven its heart of iron and is now the uncontested world ruler! "
+ USoE104: "Железное сердце"
+ USoE104_desc: "В древности кузнецы выковыривали из оружия избитых злодеев железный трон. В наши дни мы только заявляем, что Европа доказала свое железное сердце и теперь является бесспорным мировым правителем! "
  ### Peaceful Coexistence ###
- USoE200: "Peaceful Coexistence"
- USoE200_desc: "There are sharper swords than those of iron. Why pay with blood if you can pay with money?"
+ USoE200: "Мирное сосуществование"
+ USoE200_desc: "Есть более острые мечи, чем железные. Зачем платить кровью, если можно платить деньгами?"
  ### America First ###
- USoE201: "America First"
- USoE201_desc: "We need to respect the America First doctrine if we want that our doctrines are respected."
+ USoE201: "Америка прежде всего"
+ USoE201_desc: "Мы должны уважать доктрину "Америка прежде всего", если мы хотим, чтобы наши доктрины соблюдались."
  ### Russosphere ###
- USoE202: "Russosphere"
- USoE202_desc: "Russia is the protector of all Russian people. That's their sphere of influence, which we need to respect."
+ USoE202: "Руссосфера"
+ USoE202_desc: "Россия - защитник всего русского народа. Это их сфера влияния, которую мы должны уважать."
  ### Shinosphere ###
- USoE203: "Shinosphere"
- USoE203_desc: "China's sphere of influence covers southeast Asia and doesn't bother us. China is our trade partner, not our rival."
+ USoE203: "Шиносфера"
+ USoE203_desc: "Сфера влияния Китая охватывает юго-восточную Азию и нас не беспокоит. Китай - наш торговый партнер, а не соперник."
  ### Eurosphere ###
- USoE204: "Eurosphere"
- USoE204_desc: "We appeased all superpowers of the 21st century, now we have free hands to establish the Eurosphere in Europe, Levant and North Africa."
+ USoE204: "Евросфера"
+ USoE204_desc: "Мы успокоили все сверхдержавы 21 века, теперь у нас есть свободные руки для создания Евросферы в Европе, Леванте и Северной Африке."
  ### Clash of Civilizations ###
- USoE300: "Clash of Civilizations"
- USoE300_desc: "The Clash of Civilizations was a thesis from American political scientist Samuel P. Huntington, that people's cultural and religious identities will be the primary source of conflict in the post-Cold War world. The future wars will be fought not between countries, but between cultures."
+ USoE300: "Столкновение цивилизаций"
+ USoE300_desc: "Столкновение цивилизаций - это тезис американского политолога Сэмюэла П. Хантингтона о том, что культурная и религиозная идентичность людей будет основным источником конфликтов в мире после окончания "холодной войны". Будущие войны будут вестись не между странами, а между культурами."
  ### The Rest of the West ###
- USoE301: "The Rest of the West"
- USoE301_desc: "Europe is the rest of the west. America has left us alone and isolated in the America First doctrine."
+ USoE301: "Остаток Запада"
+ USoE301_desc: "Европа - это остальная часть запада. Америка оставила нас одних и изолировала в доктрине Америка прежде всего."
  ### Cross and Crescent ###
- USoE302: "Cross and Crescent"
- USoE302_desc: "At Europe's southeast border, the cross clashes with the crescent. Who will prevail: the Western or the Islamic civilization?"
+ USoE302: "Крест и Полумесяц"
+ USoE302_desc: "На юго-восточной границе Европы крест конфликтует с полумесяцем. Кто победит: западная или исламская цивилизация?"
  ### The Pope and the Patriarch ###
- USoE303: "The Pope and the Patriarch"
- USoE303_desc: "Since the Great Schism of 1054, the pope and the Orthodox patriarch have gone different paths. It's time to unite again to defend the Western civilization."
+ USoE303: "Папа Римский и Патриарх"
+ USoE303_desc: "Со времен Великого раскола 1054 года папа и православный патриарх шли разными путями. Пришло время снова объединиться, чтобы защитить западную цивилизацию."
  ### Two Crosses ###
- USoE304: "Two Crosses"
- USoE304_desc: "Eastern and Western Christianity need to unite against Islam."
+ USoE304: "Два креста"
+ USoE304_desc: "Восточное и западное христианство должны объединиться против ислама."
  ### Eurasian Alliance ###
- USoE305: "Eurasian Alliance"
- USoE305_desc: "After the dissolution of NATO, Europe can form a new great alliance with its Russian neighbour."
+ USoE305: "Евразийский союз"
+ USoE305_desc: "После распада НАТО Европа может сформировать новый большой альянс со своим российским соседом."
  ### Constantinople ###
- USoE306: "Constantinople"
- USoE306_desc: "Constantinople is part of the West. Europe needs to free it form the Islamic influence."
+ USoE306: "Константинополь"
+ USoE306_desc: "Константинополь - часть Запада. Европа должна освободить его от исламского влияния."
  ### Antioch ###
- USoE307: "Antioch"
- USoE307_desc: "The Principality of Antioch was one of the crusader states created during the First Crusade. It belongs to the West and shall be free from Islam once again."
+ USoE307: "Антиохия"
+ USoE307_desc: "Антиохийское княжество было одним из государств крестоносцев, созданных во время Первого крестового похода. Оно принадлежит Западу и снова будет свободным от ислама."
  ### Tripoli ###
- USoE308: "Tripoli"
- USoE308_desc: "The County of Tripoli (1109–1289) was the last of the crusader states. It shall rise again. Europe needs to free the Levant from Islam."
+ USoE308: "Триполи"
+ USoE308_desc: "Округ Триполи (1109-1289) был последним из штатов крестоносцев. Он восстанет снова. Европа должна освободить Леванта от ислама."
  ### Jerusalem ###
- USoE309: "Jerusalem"
- USoE309_desc: "Europe needs to save the Holy City from Islamic influence. The Kingdom of Jerusalem shall guard the holy sites once again."
+ USoE309: "Иерусалим"
+ USoE309_desc: "Европа должна спасти Святой город от исламского влияния. Иерусалимское царство должно вновь охранять святые места."
  ### Knights of Malta ###
- USoE310: "Knights of Malta"
- USoE310_desc: "Europe needs to free Northern Africa from Islamic influence. Europe will follow the example of Knights of Malta."
+ USoE310: "Рыцари Мальты"
+ USoE310_desc: "Европе необходимо освободить Северную Африку от исламского влияния. Европа будет следовать примеру рыцарей Мальты."
  ### Arabian Westernization ###
- USoE311: "Arabian Westernization"
- USoE311_desc: "Some countries on the Arabian Peninsula already have close ties to the West. Europe needs to fully westernize the Arabian Peninsula to have a safe neighbourhood."
+ USoE311: "Арабская вестернизация"
+ USoE311_desc: "Некоторые страны Аравийского полуострова уже имеют тесные связи с Западом. Европа должна полностью освоить Аравийский полуостров в западном направлении, чтобы иметь безопасное соседство."
  ### Indian Westernization ###
- USoE312: "Indian Westernization"
- USoE312_desc: "With the colonial legacy, India has traditionally close ties to the West. Europe should deepen this relation to fully westernize India."
+ USoE312: "Индийская вестернизация"
+ USoE312_desc: "С колониальным наследием Индия традиционно имеет тесные связи с Западом. Европа должна углубить эти связи, чтобы полностью вестернизировать Индию."
  ### The Republic of Persia ###
- USoE313: "The Republic of Persia"
- USoE313_desc: "Iran is one of the major rivals of the West in the Middle East. Europe can stop Iran's conquest for regional hegemony when Europe westernizes Iran to the Republic of Persia."
+ USoE313: "Республика Персия"
+ USoE313_desc: "Иран является одним из главных соперников Запада на Ближнем Востоке. Европа может остановить завоевание Ирана для региональной гегемонии, когда Европа вестернизирует Иран в Республику Персия."
  ### The West vs the Rest ###
- USoE320: "The West vs the Rest"
- USoE320_desc: "Europe and America are the western superpowers that can match every enemy in the world. With NATO as a base, the West can enforce its global dominance."
+ USoE320: "Запад против отдыха"
+ USoE320_desc: "Европа и Америка - это западные супердержавы, способные противостоять любым врагам в мире. Имея НАТО в качестве базы, Запад может усилить свое глобальное господство."
  ### Asian Westernization ###
- USoE321: "Asian Westernization"
- USoE321_desc: "The West needs to focus on the emerging powers in Asia. The West should fight or westernize them."
+ USoE321: "Азиатская вестернизация"
+ USoE321_desc: "Западу необходимо сосредоточиться на развивающихся державах в Азии. Запад должен бороться с ними или вестернизировать их."
  ### The Four Tigers ###
- USoE322: "The Four Tigers"
- USoE322_desc: "The Four Asian Tigers of Hong Kong, Singapore, South Korea and Taiwan always had close ties to the West and fear the emerging Chinese dragon. They could be viable allies of the West in Asia."
+ USoE322: "Четыре Тигра"
+ USoE322_desc: "Четыре азиатских тигра Гонконга, Сингапура, Южной Кореи и Тайваня всегда имели тесные связи с Западом и опасались появления китайского дракона. Они могли бы стать жизнеспособными союзниками Запада в Азии."
  ### Japan ###
- USoE323: "Japan"
- USoE323_desc: "After the end of the World War II, Japan was an important ally of the West in Asia. The West needs to continue this close partnership."
+ USoE323: "Япония"
+ USoE323_desc: "После окончания Второй мировой войны Япония стала важным союзником Запада в Азии. Западу необходимо продолжать это тесное партнерство."
  ### China ###
- USoE324: "China"
- USoE324_desc: "China is the major rival of the West in Asia. If the West can westernize China, there will be no contender for Western hegemony in Asia."
+ USoE324: "Китай"
+ USoE324_desc: "Китай - главный соперник Запада в Азии. Если Запад сможет вестернизировать Китай, то в Азии не будет претендентов на западную гегемонию."
  ### Operation Unthinkable 2.0 ###
- USoE325: "Operation Unthinkable 2.0"
- USoE325_desc: "Operation Unthinkable was a war plan of the British Chiefs of Staff against the Soviet Union ordered by Winston Churchill in May 1945. Together with the former German Wehrmacht, the western allies should launch a surprise attack on the Soviet Union. The West needs to revise that plan to fit the current setup and act in preemptive self-defense against Russia to prevent Russian hegemony in Europe."
+ USoE325: "Операция "Немыслимо" 2.0"
+ USoE325_desc: "Операция "Немыслимо" была военным планом британских начальников штабов против Советского Союза, приказанным Уинстоном Черчиллем в мае 1945 года. Вместе с бывшим немецким вермахтом западные союзники должны были начать внезапное нападение на Советский Союз. Запад должен пересмотреть этот план, чтобы он соответствовал нынешним установкам и действовать в упреждающей самообороне против России, чтобы предотвратить русскую гегемонию в Европе."
  ### The Torch of Freedom ###
- USoE400: "The Torch of Freedom"
- USoE400_desc: "Europe needs to carry on the Torch of Freedom! The United States of Europe are a democratic republic which respects the human rights and the rule of law."
+ USoE400: "Факел свободы"
+ USoE400_desc: "Европа должна нести Факел Свободы! Соединенные Штаты Европы - демократическая республика, уважающая права человека и верховенство закона."
  ### Digital Democracy ###
- USoE401: "Digital Democracy"
- USoE401_desc: "Europe needs to reform its democratic institutions for the digital age. With social media and social networks, the people can directly participate in legislation and government."
+ USoE401: "Цифровая демократия"
+ USoE401_desc: "Европе необходимо реформировать свои демократические институты в цифровую эпоху. С помощью социальных сетей и социальных сетей люди могут напрямую участвовать в законотворческой деятельности и в работе правительства."
  ### Hammer and Sickle ###
- USoE402: "Hammer and Sickle"
- USoE402_desc: "Karl Marx and Friedrich Engels, the fathers of Socialism and Marxism, were Europeans. Europe needs to carry on that legacy."
+ USoE402: "Молот и Серп"
+ USoE402_desc: "Карл Маркс и Фридрих Энгельс, отцы социализма и марксизма, были европейцами. Европа должна продолжать это наследие."
  ### EUSSR ###
- USoE403: "EUSSR"
- USoE403_desc: "The European left trapped the capitalists in the European Union, now the spiritual heir of Karl Marx and Friedrich Engels have the power to establish the EUSSR: the European Union of Soviet Socialist Republics."
+ USoE403: "ЕСССР"
+ USoE403_desc: "Европейские левые оказались в ловушке капиталистов в Европейском Союзе, теперь духовный наследник Карла Маркса и Фридриха Энгельса имеет власть учредить ЕСССР: Европейский Союз Советских Социалистических Республик."
  ### AI Government ###
- USoE404: "AI Government"
- USoE404_desc: "Artificial intelligence has evolved enough to govern a country more efficiently than inefficient and possibly corrupt human politicians. The AI agent of the ruling party will take control and rule the country based on the values of the ruling party."
+ USoE404: "AI Правительство"
+ USoE404_desc: "Искусственный интеллект достаточно развит, чтобы управлять страной более эффективно, чем неэффективные и, возможно, коррумпированные человеческие политики. Агент ИИ правящей партии возьмет под свой контроль и будет править страной, основываясь на ценностях правящей партии."
  ### The Green Future ###
- USoE500: "The Green Future"
- USoE500_desc: "With the undeniable climate change, there is no future but a green future for Europe."
+ USoE500: "Зеленое будущее"
+ USoE500_desc: "В условиях неоспоримого изменения климата для Европы нет другого будущего, кроме "зеленого"."
  ### Environmental Empire ###
- USoE501: "Environmental Empire"
- USoE501_desc: "Europe needs to become an Environmental Empire where economy and environment are no contradiction."
+ USoE501: "Экологическая империя"
+ USoE501_desc: "Европа должна стать экологической империей, где экономика и окружающая среда не противоречат друг другу."
  ### Environmental Imperialism ###
- USoE502: "Environmental Imperialism"
- USoE502_desc: "Europe is green, but the world is still dark and grey. Europe needs to spread its policies and technologies throughout the globe and fight back the fossil energy empires that are destroying the planet."
+ USoE502: "Экологический империализм"
+ USoE502_desc: "Европа зеленая, но мир все еще темный и серый. Европе необходимо распространить свою политику и технологии по всему миру и дать отпор империи ископаемых энергоносителей, которые разрушают планету."
  ### North America ###
- USoE503: "North America"
- USoE503_desc: "Europe is green, but North America is still dark and grey. Europe needs to spread its policies and technologies throughout the globe and fight back the fossil energy empires that are destroying the planet."
+ USoE503: "Северная Америка"
+ USoE503_desc: "Европа зеленая, но Северная Америка все еще темная и серая. Европе необходимо распространить свою политику и технологии по всему миру и бороться с империей ископаемого топлива, которая разрушает планету."
  ### South America ###
- USoE504: "South America"
- USoE504_desc: "Europe is green, but South America is still dark and grey. Europe needs to spread its policies and technologies throughout the globe and fight back the fossil energy empires that are destroying the planet."
+ USoE504: "Южная Америка"
+ USoE504_desc: "Европа зеленая, но Южная Америка все еще темная и серая. Европе необходимо распространить свою политику и технологии по всему миру и дать отпор империи ископаемых энергоносителей, которые разрушают планету."
  ### Europe ###
- USoE505: "Europe"
- USoE505_desc: "Europe is green, but the other European countries are still dark and grey. Europe needs to spread its policies and technologies throughout the globe and fight back the fossil energy empires that are destroying the planet."
+ USoE505: "Европа"
+ USoE505_desc: "Европа зеленая, но другие европейские страны все еще темные и серые. Европе необходимо распространить свою политику и технологии по всему миру и бороться с империей ископаемого топлива, которая разрушает планету."
  ### Africa ###
- USoE506: "Africa"
- USoE506_desc: "Europe is green, but Africa is still dark and grey. Europe needs to spread its policies and technologies throughout the globe and fight back the fossil energy empires that are destroying the planet."
+ USoE506: "Африка"
+ USoE506_desc: "Европа зеленая, но Африка все еще темная и серая. Европе необходимо распространить свою политику и технологии по всему миру и дать отпор империи ископаемых энергоносителей, которые разрушают планету."
  ### Middle East ###
- USoE507: "Middle East"
- USoE507_desc: "Europe is green, but the Middle East is still dark and grey. Europe needs to spread its policies and technologies throughout the globe and fight back the fossil energy empires that are destroying the planet."
+ USoE507: "Ближний Восток"
+ USoE507_desc: "Европа зеленая, но Ближний Восток все еще темный и серый. Европе необходимо распространить свою политику и технологии по всему миру и дать отпор империи ископаемых энергоносителей, которые разрушают планету."
  ### Asia ###
- USoE508: "Asia"
- USoE508_desc: "Europe is green, but Asia is still dark and grey. Europe needs to spread its policies and technologies throughout the globe and fight back the fossil energy empires that are destroying the planet."
+ USoE508: "Азия"
+ USoE508_desc: "Европа зеленая, но Азия все еще темная и серая. Европе необходимо распространить свою политику и технологии по всему миру и дать отпор империи ископаемых энергоносителей, которые разрушают планету."
  ### Oceania ###
- USoE509: "Oceania"
- USoE509_desc: "Europe is green, but Oceania is still dark and grey. Europe needs to spread its policies and technologies throughout the globe and fight back the fossil energy empires that are destroying the planet."
+ USoE509: "Океания"
+ USoE509_desc: "Европа зеленая, но Океания все еще темная и серая. Европе необходимо распространить свою политику и технологии по всему миру и дать отпор империи ископаемых энергоносителей, которые разрушают планету."
  ### Pacific ###
- USoE510: "Pacific"
- USoE510_desc: "Europe is green, but the Pacific is still dark and grey. Europe needs to spread its policies and technologies throughout the globe and fight back the fossil energy empires that are destroying the planet."
+ USoE510: "Тихоокеанский регион"
+ USoE510_desc: "Европа зеленая, но Тихий океан все еще темный и серый. Европе необходимо распространить свою политику и технологии по всему миру и бороться с империей ископаемого топлива, которая разрушает планету."
  ### The Cross and the Crown ###
- USoE600: "The Cross and the Crown"
- USoE600_desc: "Europe need to fulfill its legacy and become an empire once again."
+ USoE600: "Крест и Корона"
+ USoE600_desc: "Европа должна выполнить свое наследие и снова стать империей."
  ### The New Knights ###
- USoE601: "The New Knights"
- USoE601_desc: "In a hostile world, the military has taken control in Europe to save its people from corrupt politicians and foreign powers."
+ USoE601: "Новые рыцари"
+ USoE601_desc: "Во враждебном мире военные взяли под контроль Европу, чтобы спасти свой народ от коррумпированных политиков и иностранных держав."
  ### General of the European Armies ###
- USoE602: "General of the European Armies"
- USoE602_desc: "The general staff has decided that Europe will be led by an army general. He will be awarded with the rank of the General of the European Armies."
+ USoE602: "Генерал европейских армий"
+ USoE602_desc: "Генеральный штаб решил, что Европой будет руководить армейский генерал. Ему будет присвоено звание генерала европейских армий."
  ### Air Marshal of Europe ###
- USoE603: "Air Marshal of Europe"
- USoE603_desc: "The general staff has decided that Europe will be led by an air force general. He will be awarded with the rank of the Air Marshal of Europe."
+ USoE603: "Маршал авиации Европы"
+ USoE603_desc: "Генеральный штаб решил, что Европой будет руководить генерал ВВС. Ему будет присвоено звание Маршала авиации Европы."
  ### Fleet Admiral of Europe ###
- USoE604: "Fleet Admiral of Europe"
- USoE604_desc: "The general staff has decided that Europe will be led by an admiral. He will be awarded with the rank of the Fleet Admiral of Europe."
+ USoE604: "Адмирал флота Европы"
+ USoE604_desc: "С колониальным наследием Индия традиционно имеет тесные связи с Западом. Европа должна углубить эти связи, чтобы полностью вестернизировать Индию."
  ### European Empire ###
- USoE605: "European Empire"
- USoE605_desc: "Once again Europe has become an Empire and can defend the interests of its people on global level."
+ USoE605: "Европейская империя"
+ USoE605_desc: "Европа вновь стала империей и может защищать интересы своих народов на глобальном уровне."
  ### The New Emperor ###
- USoE620: "The New Emperor"
- USoE620_desc: "Europe needs a new emperor who leads the continent through the 21st century."
+ USoE620: "Новый император"
+ USoE620_desc: "Европе нужен новый император, который поведет континент через 21 век."
  ### Choose a House ###
- USoE621: "Choose a House"
- USoE621_desc: "Europe has many great houses with a long and glorious history. United for the first time, the continent needs to decide which house should rule in the 21st century."
+ USoE621: "Выберите дом"
+ USoE621_desc: "В Европе много великих домов с длинной и славной историей. Впервые объединившись, континент должен решить, какой дом должен править в 21 веке."
  ### House of Savoy ###
- USoE622: "House of Savoy"
- USoE622_desc: "The House of Savoy is a royal dynasty that was established in 1003 in the historical Savoy region. Through gradual expansion, the family grew in power from ruling a small Alpine county north-west of Italy to absolute rule of the Kingdom of Sicily. Members of the house ruled Sardinia, Italy, Albania, Ethiopia and, for a short period, Spain. The house also claims the titles of Kings of Cyprus, Jerusalem and Armenia."
+ USoE622: "Дом Савой"
+ USoE622_desc: "Дом Савой - это королевская династия, основанная в 1003 году в историческом Савойском крае. Благодаря постепенному расширению, семья выросла во власти от правления небольшого альпийского графства на северо-западе Италии до абсолютного правления Сицилийского королевства. Члены семьи правили Сардинией, Италией, Албанией, Эфиопией и, на короткий период, Испанией. Дом также претендует на титулы Царей Кипра, Иерусалима и Армении."
  ### House of Wittelsbach ###
- USoE623: "House of Wittelsbach"
- USoE623_desc: "The House of Wittelsbach is a German-Bavarian dynasty, with branches that have ruled over territories including: Bavaria, Holland, Zeeland, Cologne, Sweden, Romania, Bohemia, Hungary, Denmark, Norway, Greece and the Holy Roman Empire. The line of Jacobite succession, which recognises the right for a Catholic monarch, acknowledges Franz, Hereditary Prince of Bavaria to be the rightful heir as Francis II."
+ USoE623: "Дом Виттельсбаха"
+ USoE623_desc: "Дом Виттельсбахов - немецко-баварская династия с ветвями, которые правили, в том числе, и на территории: Бавария, Голландия, Зееланд, Кельн, Швеция, Румыния, Богемия, Венгрия, Дания, Норвегия, Греция и Священная Римская империя. Якобитская линия наследования, признающая право католического монарха, признает Франца, наследного принца Баварии, законным наследником, как Франциска II."
  ### House of Borbón-Anjou ###
- USoE624: "House of Borbón-Anjou"
- USoE624_desc: "The House of Borbón-Anjou is the reigning royal house of the Kingdom of Spain. By the 18th century, members of the Spanish Bourbon dynasty held thrones in Spain, Naples, Sicily, and Parma."
+ USoE624: "Дом Борбон-Анжу"
+ USoE624_desc: "Дом Борбон-Анжу - царствующий королевский дом Королевства Испании. К 18 веку члены испанской династии Бурбонов занимали престолы в Испании, Неаполе, Сицилии и Парме."
  ### House of Bourbon ###
- USoE625: "House of Bourbon"
- USoE625_desc: "The House of Bourbon is a European dynasty of French origin, a branch of the Capetian dynasty, the royal House of France. Bourbon kings first ruled France and Navarre in the 16th century."
+ USoE625: "Дом Бурбона"
+ USoE625_desc: "Дом Бурбонов - европейская династия французского происхождения, ветвь каптанской династии, королевский дом Франции. Впервые бурбонские короли правили Францией и Наварром в 16 веке."
  ### House of Hanover ###
- USoE626: "House of Hanover"
- USoE626_desc: "The House of Hanover is a German royal house that ruled Hanover, Great Britain, and Ireland at various times during the 17th to 20th centuries. The house originated in 1635 as a cadet branch of the House of Brunswick-Lüneburg, growing in prestige until Hanover became an Electorate in 1692."
+ USoE626: "Дом Ганновера"
+ USoE626_desc: "Ганноверский дом - это немецкий королевский дом, который правил Ганновером, Великобританией и Ирландией в разное время в течение 17-20 веков. Дом возник в 1635 году как кадетский филиал Дома Брауншвейга-Люнебурга, и пользовался все большим авторитетом до тех пор, пока в 1692 году Ганновер не стал курфюрстом."
  ### House of Glücksburg ###
- USoE627: "House of Glücksburg"
- USoE627_desc: "The House of Glücksburg, shortened from House of Schleswig-Holstein-Sonderburg-Glücksburg, is a Dano-German branch of the House of Oldenburg, members of which have reigned at various times in Denmark, Norway, Greece and several northern German states."
+ USoE627: "Дом Глюксбурга"
+ USoE627_desc: "Дом Глюксбурга, сокращенный от "Дом Шлезвиг-Гольштейна-Зондербурга-Глюксбурга", является датско-немецким филиалом "Дома Ольденбурга", члены которого правили в разное время в Дании, Норвегии, Греции и нескольких северных германских государствах."
  ### House of Windsor ###
- USoE628: "House of Windsor"
- USoE628_desc: "The House of Windsor is the reigning royal house of the United Kingdom and the other Commonwealth realms. In 1901, the House of Saxe-Coburg and Gotha succeeded the House of Hanover in the British monarchy. In 1917, the name of the royal house was changed from the German Saxe-Coburg and Gotha to the English Windsor (from Windsor Castle) because of World War I."
+ USoE628: "Дом Виндзора"
+ USoE628_desc: "Дом Виндзора является царствующим королевским домом Великобритании и других стран Содружества. В 1901 году Дом Сакс-Кобург и Гота сменил Дом Ганновера в британской монархии. В 1917 году из-за Первой мировой войны название королевского дома было изменено с немецкого Сакс-Кобург и Гота на английский Виндзор (от Виндзорского замка)."
  ### House of Orange-Nassau ###
- USoE629: "House of Orange-Nassau"
- USoE629_desc: "The House of Orange-Nassau is the current reigning house of the Netherlands. A branch of the European House of Nassau, the house has played a central role in the politics and government of the Netherlands and Europe, especially since William the Silent organized the Dutch revolt against Spanish rule, which after the Eighty Years' War (1568–1648) led to an independent Dutch state. "
+ USoE629: "Дом Оранж-Нассау"
+ USoE629_desc: "Дом Оранж-Нассау - нынешний правящий дом Нидерландов. Являясь филиалом Европейского Дома Нассау, Дом играл центральную роль в политике и правительстве Нидерландов и Европы, особенно после того, как Вильгельм Молчаливый организовал голландское восстание против испанского владычества, которое после Восьмидесятилетней войны (1568-1648 гг.) привело к созданию независимого нидерландского государства."
  ### House of Habsburg-Lorraine ###
- USoE630: "House of Habsburg-Lorraine"
- USoE630_desc: "The House of Habsburg-Lorraine originated from the marriage in 1736 of Francis III, Duke of Lorraine and Bar, and Maria Theresa of Austria, later successively Queen of Bohemia, Queen of Hungary and Archduchess of Austria. Its members are the legitimate surviving line of the House of Habsburg and the House of Lorraine, inheriting their patrimonial possessions and vocation to the Empire."
+ USoE630: "Дом Габсбурга-Лотарингии"
+ USoE630_desc: "Дом Габсбургов Лотарингии возник в результате брака в 1736 году Франциска III, герцога Лотарингии и Бара, и Марии Терезы Австрийской, впоследствии сменявшей друг друга чешской королевой, королевой Венгрии и эрцгерцогиней Австрии. Ее члены являются законной наследницей Дома Габсбургов и Дома Лотарингии, унаследовавших свои родовые владения и призвание в Империю."
  ### House of Bonaparte ###
- USoE631: "House of Bonaparte"
- USoE631_desc: "The House of Bonaparte is a former imperial and royal European dynasty of Italian origin. It was founded in 1804 by Napoleon I. Napoleon turned the Grande Armée against every major European power and dominated continental Europe through a series of military victories. He installed members of his family on the thrones of client states, extending the power of the dynasty."
+ USoE631: "Дом Бонапарта"
+ USoE631_desc: "Дом Бонапарта - бывшая императорская и королевская европейская династия итальянского происхождения. Он был основан в 1804 году Наполеоном И. Наполеоном, который превратил Великую армию против каждой крупной европейской державы и господствовал над континентальной Европой посредством серии военных побед. Он посадил членов своей семьи на престолы государств-клиентов, расширив власть династии."
  ### House of Hohenzollern ###
- USoE632: "House of Hohenzollern"
- USoE632_desc: "The House of Hohenzollern is a German former royal dynasty whose members were variously princes, electors, kings and emperors of Hohenzollern, Brandenburg, Prussia, the German Empire, and Romania. The family arose in the area around the town of Hechingen in Swabia during the 11th century and took their name from Hohenzollern Castle."
+ USoE632: "Дом Гогенцоллернов"
+ USoE632_desc: "Дом Гогенцоллернов - это немецкая бывшая королевская династия, членами которой были различные принцы, курфюрсты, короли и императоры Гогенцоллернов, Бранденбургов, Пруссии, Германской империи и Румынии. Семья возникла в окрестностях города Хечинген в Швабии в 11 веке и получила свое название от замка Гогенцоллерн."
  ### Choose a Palace  ###
- USoE633: "Choose a Palace "
- USoE633_desc: "The new Emperor of Europe needs a representative palace to rule."
+ USoE633: "Выберите дворец"
+ USoE633_desc: "Новому императору Европы нужен представительный дворец для управления."
  ### Quirinal Palace ###
- USoE634: "Quirinal Palace"
- USoE634_desc: "The Quirinal Palace is a historic building in Rome, Italy, and serves as one of the three current official residences of the President of the Italian Republic. The Quirinal Palace was selected by Napoleon to be his residence par excellence as Emperor. However, its permanence never took place because of the French defeat in 1814 and the subsequent European Restoration."
+ USoE634: "Квиринальский дворец"
+ USoE634_desc: "Квиринальский дворец является историческим зданием в Риме, Италия, и служит одной из трех нынешних официальных резиденций президента Итальянской Республики. Квириональный дворец был выбран Наполеоном в качестве своей резиденции на правах императора. Однако его неизменность так и не состоялась из-за поражения Франции в 1814 году и последовавшей за этим реставрации в Европе."
  ### Neuschwanstein Castle ###
- USoE635: "Neuschwanstein Castle"
- USoE635_desc: "Neuschwanstein Castle is a 19th-century Romanesque Revival palace on a rugged hill in southwest Bavaria, Germany. The palace was commissioned by King Ludwig II of Bavaria. The castle was intended as a home for the King, until he died in 1886. It was open to the public shortly after his death. Since then, more than 61 million people have visited Neuschwanstein Castle."
+ USoE635: "Замок Нойшванштайн"
+ USoE635_desc: "Замок Нойшванштайн - это дворец эпохи Возрождения в романском стиле, построенный в 19 веке на изрезанном холме в юго-западной Баварии (Германия). Дворец был построен по заказу баварского короля Людвига II. Замок служил домом для короля, пока он не умер в 1886 году. Он был открыт для публики вскоре после его смерти. С тех пор замок Нойшванштайн посетили более 61 миллиона человек."
  ### Royal Palace of Madrid ###
- USoE636: "Royal Palace of Madrid"
- USoE636_desc: "The Royal Palace of Madrid is the official residence of the Spanish royal family at the city of Madrid, although now used only for state ceremonies. The palace has 135,000 square metres of floor space and contains 3,418 rooms. It is the largest functioning royal palace and the largest by floor area in Europe."
+ USoE636: "Королевский дворец в Мадриде"
+ USoE636_desc: "Королевский дворец в Мадриде является официальной резиденцией испанской королевской семьи в городе Мадрид, хотя в настоящее время используется только для государственных церемоний. Площадь дворца составляет 135 000 квадратных метров, во дворце 3 418 комнат. Это самый большой действующий королевский дворец и самый большой по площади в Европе."
  ### Palace of Versailles ###
- USoE637: "Palace of Versailles"
- USoE637_desc: "The Palace of Versailles was the principal royal residence of France from 1682, under Louis XIV, until the start of the French Revolution in 1789, under Louis XVI. The palace is now a historical monument and UNESCO World Heritage site, notable especially for the ceremonial Hall of Mirrors and the vast Gardens of Versailles with fountains, canals, and geometric flower beds and groves."
+ USoE637: "Версальский дворец"
+ USoE637_desc: "Версальский дворец был главной королевской резиденцией Франции с 1682 года, при Людовике XIV, до начала Французской революции в 1789 году, при Людовике XVI. В настоящее время дворец является историческим памятником и объектом Всемирного наследия ЮНЕСКО, примечательным, в частности, является церемониальный Зеркальный зал и обширные Версальские сады с фонтанами, каналами и геометрическими клумбами и рощами."
  ### Buckingham Palace ###
- USoE638: "Buckingham Palace"
- USoE638_desc: "Buckingham Palace is the London residence and administrative headquarters of the monarch of the United Kingdom. Located in the City of Westminster, the palace is often at the centre of state occasions and royal hospitality. It has been a focal point for the British people at times of national rejoicing and mourning."
+ USoE638: "Букингемский дворец"
+ USoE638_desc: "Букингемский дворец является лондонской резиденцией и административной штаб-квартирой монарха Великобритании. Расположенный в городе Вестминстер, дворец часто является центром государственных мероприятий и королевского гостеприимства. Он был центром внимания британского народа во времена национального ликования и траура."
  ### Hofburg ###
- USoE639: "Hofburg"
- USoE639_desc: "The Hofburg is the former principal imperial palace of the Habsburg dynasty rulers and today serves as the official residence and workplace of the President of Austria. It is located in the centre of Vienna and was built in the 13th century and expanded several times afterwards."
+ USoE639: "Хофбург"
+ USoE639_desc: "Хофбург является бывшим главным императорским дворцом правителей династии Габсбургов и сегодня служит официальной резиденцией и местом работы президента Австрии. Он расположен в центре Вены и был построен в 13 веке, после чего несколько раз расширялся."
  ### Sanssouci ###
- USoE640: "Sanssouci"
- USoE640_desc: "Sanssouci was the summer palace of Frederick the Great, King of Prussia, in Potsdam, near Berlin. It is often counted among the German rivals of Versailles. While Sanssouci is in the more intimate Rococo style and is far smaller than its French Baroque counterpart, it too is notable for the numerous temples and follies in the park."
+ USoE640: "Сансучи"
+ USoE640_desc: "Сансучи был летним дворцом Фридриха Великого, короля Пруссии, в Потсдаме, недалеко от Берлина. Его часто считают одним из немецких соперников Версаля. Несмотря на то, что Сансучи выполнен в более интимном стиле рококо и намного меньше своего французского аналога в стиле барокко, он также примечателен многочисленными храмами и глупостями в парке."
  ### A New Palace ###
- USoE641: "A New Palace"
- USoE641_desc: "A new emperor needs an new palace, not a historic monument. Let's build a new palace with modern architecture in Brussels."
+ USoE641: "Новый дворец"
+ USoE641_desc: "Новому императору нужен новый дворец, а не исторический памятник. Давайте построим в Брюсселе новый дворец с современной архитектурой."
  ### Coronation ###
- USoE642: "Coronation"
- USoE642_desc: "Europe needs to prepare for the coronation of the new Emperor. But first, it needs to decide which crown the emperor should wear and who should do the coronation."
+ USoE642: "Коронация"
+ USoE642_desc: "Европе нужно готовиться к коронации нового императора. Но сначала ей нужно решить, какую корону император должен носить и кто должен проводить коронацию."
  ### The Imperial Crown ###
- USoE643: "The Imperial Crown"
- USoE643_desc: "The new empire is the continuation and the legacy of the Holy Roman Empire, so the emperor needs to wear the Crown of the Holy Roman Empire."
+ USoE643: "Императорская корона"
+ USoE643_desc: "Новая империя является продолжением и наследием Священной Римской империи, поэтому императору необходимо носить корону Священной Римской империи."
  ### A New Ecumenical Crown ###
- USoE644: "A New Ecumenical Crown"
- USoE644_desc: "A new empire and a new emperor need a new crown and not a historic relict."
+ USoE644: "Новая экуменическая корона"
+ USoE644_desc: "Новой империи и новому императору нужна новая корона, а не историческая реликвия."
  ### By the Pope ###
- USoE645: "By the Pope"
- USoE645_desc: "The new emperor by the grace of god needs to be crowned by the pope."
+ USoE645: "Папа Римский"
+ USoE645_desc: "Новый император по милости Божьей должен быть увенчан Папой Римским."
  ### By the People ###
- USoE646: "By the People"
- USoE646_desc: "The new Emperor needs to be crowned by the people, so let's call for an election to legitimate His Majesty's rule."
+ USoE646: "От народа"
+ USoE646_desc: "Новый Император должен быть увенчан народом, поэтому давайте призовем к выборам, чтобы узаконить правление Его Величества."
  ### The Holy European Empire ###
- USoE647: "The Holy European Empire"
- USoE647_desc: "The emperor is crowned and the Holy European Empire is established."
+ USoE647: "Священная Европейская империя"
+ USoE647_desc: "Император коронован и установлена Святая европейская империя."
  ### Pax Occidentalis ###
- USoE700: "Pax Occidentalis"
- USoE700_desc: "Europe has acquired global dominance and can enforce world peace. This era will be called Pax Occidentalis."
+ USoE700: "Пакс-Оксиденталис"
+ USoE700_desc: "Европа приобрела глобальное господство и может обеспечить мир во всем мире. Эту эпоху назовут Пакс Оксиденталис."
  ### Guardians of World Peace ###
- USoE701: "Guardians of World Peace"
- USoE701_desc: "Europe, America, Russia and China have settled their spheres of influence. Every superpower enforces peace in their sphere and so they are the guardians of world peace."
+ USoE701: "Хранители мира во всем мире"
+ USoE701_desc: "Европа, Америка, Россия и Китай урегулировали свои сферы влияния. Каждая сверхдержава навязывает мир в своей сфере, поэтому они являются гарантами мира во всем мире."
 
 
  ##############################
  ### military leaders trait ###
  ##############################
 
- military_reorganization: "Military Reorganization"
- military_reorganization_desc: "Reorganization of the military makes the leaders inefficient till the process is completed and new doctrines are applied."
+ military_reorganization: "Реорганизация армии"
+ military_reorganization_desc: "Реорганизация армии делает руководителей неэффективными до тех пор, пока процесс не будет завершен и не будут применены новые доктрины."
 
  ###############
  ### threats ###
  ###############
 
- USoE_clash_of_civilizations: "Clash of Civilizations"
- USoE_asian_westernization: "Asian Westernization"
+ USoE_clash_of_civilizations: "Столкновение цивилизаций"
+ USoE_asian_westernization: "Азиатская вестернизация"
 
  #############
  ### ideas ###
  #############
 
- USoE_heart_of_iron: "A Heart of Iron"
- USoE_heart_of_iron_desc: "In ancient times the blacksmiths would forge an Iron Throne out of the weapons of the beaten villains. In our days, we just declare Europe has proven it's Heart of Iron and is now the uncontested world ruler!"
- USoE_digital_democracy: "Digital Democracy"
- USoE_digital_democracy_desc: "Europe needs to reform it's democratic institutions for the digital age. With social media and social networks the people can directly participate in legislation and government."
- USoE_AI_government: "AI Government"
- USoE_AI_government_desc: "Artificial intelligence has evolved enough to govern a country more efficient than inefficient and possibly corrupt human politician. The AI agent of the ruling party will take control and rule the country base on the values of the ruling party."
- USoE_knights_of_the_new_empire: "Knights of the new Empire"
- USoE_knights_of_the_new_empire_desc: "In a hostile world the military has taken control in Europe to save it's people from corrupt politician and foreign powers."
- USoE_knights_of_the_new_empire_army: "Knights of the new Empire - General of the European Armies"
- USoE_knights_of_the_new_empire_army_desc: "The general staff has decided that Europe will be lead by an army general. He will be awarded with the rank of the General of the European Armies."
- USoE_knights_of_the_new_empire_air_force: "Knights of the new Empire - Air Marshal of Europe"
- USoE_knights_of_the_new_empire_air_force_desc: "The general staff has decided that Europe will be lead by an air force general. He will be awarded with the rank of the Air Marshal of Europe."
- USoE_knights_of_the_new_empire_navy: "Knights of the new Empire - Fleet Admiral of Europe"
- USoE_knights_of_the_new_empire_navy_desc: "The general staff has decided that Europe will be lead by an admiral. He will be awarded with the rank of the Fleet Admiral of Europe."
- USoE_holy_european_empire: "Holy European Empire"
- USoE_holy_european_empire_desc: "The Emperor is crowned and the Holy European Empire is established."
- USoE_pax_occidentalis: "Pax Occidentalis"
- USoE_pax_occidentalis_desc: "Europe has acquired global dominance and can enforce world peace. This era will be called Pax Occidentalis."
- USoE_guardians_of_world_peace: "Guardians of World Peace"
- USoE_guardians_of_world_peace_desc: "Europe, America, Russia and China have settled there sphere of influence. Every superpower enforces peace in their sphere and so they are the Guardians of World Peace."
- USoE_environmental_sanctions: "Environmental Sanctions"
- USoE_environmental_sanctions_desc: "Environmental Sanctions from Europe."
+ USoE_heart_of_iron: "Железное сердце"
+ USoE_heart_of_iron_desc: "В древности кузнецы выковыривали Железный Трон из оружия избитых злодеев. В наши дни мы только заявляем, что Европа доказала, что это Железное Сердце и теперь является бесспорным мировым правителем!"
+ USoE_digital_democracy: "Цифровая демократия"
+ USoE_digital_democracy_desc: "Европа должна реформировать свои демократические институты в цифровую эпоху. С помощью социальных сетей и социальных сетей люди могут напрямую участвовать в законотворческой деятельности и в работе правительства."
+ USoE_AI_government: "AI Правительство"
+ USoE_AI_government_desc: "Искусственный интеллект достаточно развит, чтобы управлять страной более эффективно, чем неэффективный и, возможно, коррумпированный человеческий политик. Агент ИИ правящей партии возьмет под свой контроль и будет править страной, основываясь на ценностях правящей партии."
+ USoE_knights_of_the_new_empire: "Рыцари новой империи"
+ USoE_knights_of_the_new_empire_desc: "Во враждебном мире военные взяли под контроль Европу, чтобы спасти свой народ от коррумпированных политиков и иностранных держав."
+ USoE_knights_of_the_new_empire_army: "Рыцари новой империи - генерал европейских армий"
+ USoE_knights_of_the_new_empire_army_desc: "Генеральный штаб решил, что Европой будет руководить армейский генерал. Ему будет присвоено звание генерала европейских армий."
+ USoE_knights_of_the_new_empire_air_force: "Рыцари новой империи - маршал авиации Европы"
+ USoE_knights_of_the_new_empire_air_force_desc: "Генеральный штаб решил, что Европой будет руководить генерал ВВС. Ему будет присвоено звание Маршала авиации Европы."
+ USoE_knights_of_the_new_empire_navy: "Рыцари новой империи - Адмирал флота Европы"
+ USoE_knights_of_the_new_empire_navy_desc: "Генеральный штаб решил, что Европой будет руководить адмирал. Ему будет присвоено звание Адмирала флота Европы."
+ USoE_holy_european_empire: "Священная Европейская империя"
+ USoE_holy_european_empire_desc: "Император коронован и установлена Святая европейская империя."
+ USoE_pax_occidentalis: "Пакс-Оксиденталис"
+ USoE_pax_occidentalis_desc: "Европа приобрела глобальное господство и может обеспечить мир во всем мире. Эту эпоху назовут Пакс Оксиденталис."
+ USoE_guardians_of_world_peace: "Хранители мира во всем мире"
+ USoE_guardians_of_world_peace_desc: "Европа, Америка, Россия и Китай осели в этой сфере влияния. Каждая сверхдержава навязывает мир в своей сфере, поэтому они - Хранители мира во всем мире."
+ USoE_environmental_sanctions: "Экологические санкции"
+ USoE_environmental_sanctions_desc: "Экологические санкции из Европы."
 
  ##############
  ### events ###
  ##############
 
- USoEevent.1.t: "[FROM.GetName] offers a non-aggression pact"
- USoEevent.1.d: "[FROM.GetName] offers a non-aggression pact."
- USoEevent.1.a: "Okay!"
- USoEevent.1.b: "No!" 
+ USoEevent.1.t: "[FROM.GetName] предлагает пакт о ненападении"
+ USoEevent.1.d: "[FROM.GetName] предлагает пакт о ненападении."
+ USoEevent.1.a: "Хорошо!"
+ USoEevent.1.b: "Нет!" 
 
- USoEevent.2.t: "[FROM.GetName] offers a alliance"
- USoEevent.2.d: "[FROM.GetName] offers a alliance."
- USoEevent.2.a: "Okay!"
- USoEevent.2.b: "No!"
+ USoEevent.2.t: "[FROM.GetName] предлагает альянс"
+ USoEevent.2.d: "[FROM.GetName] предлагает альянс."
+ USoEevent.2.a: "Хорошо!"
+ USoEevent.2.b: "Нет!"
  
- USoEevent.3.t: "[FROM.GetName] offers alliance or attack"
- USoEevent.3.d: "[FROM.GetName] offers a alliance or they will attack us."
- USoEevent.3.a: "Okay, let's ally!"
- USoEevent.3.b: "No, let's fight!"
+ USoEevent.3.t: "[FROM.GetName] предлагает союз или нападение"
+ USoEevent.3.d: "[FROM.GetName] предлагает союз, или они нападут на нас."
+ USoEevent.3.a: "Ладно, давай!"
+ USoEevent.3.b: "Нет, давайте сражаться!"
 
- USoEevent.4.t: "[FROM.GetName] offers alliance or attack"
- USoEevent.4.d: "[FROM.GetName] offers a alliance or they will attack us."
- USoEevent.4.a: "Okay, let's ally!"
- USoEevent.4.b: "No, let's fight!"
+ USoEevent.4.t: "[FROM.GetName] предлагает союз или нападение"
+ USoEevent.4.d: "[FROM.GetName] предлагает союз, или они нападут на нас."
+ USoEevent.4.a: "Ладно, давай!"
+ USoEevent.4.b: "Нет, давайте сражаться!"
 
- USoEevent.5.t: "Environmental Imperialism in [FROM.GetName] - Success!"
- USoEevent.5.d: "[FROM.GetName] has accepted our environmental demands."
- USoEevent.5.a: "Okay!"
+ USoEevent.5.t: "Экологический империализм в [FROM.GetName] - Успех!"
+ USoEevent.5.d: "[FROM.GetName] принял наши экологические требования."
+ USoEevent.5.a: "Хорошо!"
 
- USoEevent.6.t: "Environmental Imperialism in [FROM.GetName] - Sanctions Imposed!"
- USoEevent.6.d: "[FROM.GetName] has not accepted our environmental demands. Sanctions are imposed!"
- USoEevent.6.a: "Okay!" 
+ USoEevent.6.t: "Экологический империализм в [FROM.GetName] - Санкции введены!"
+ USoEevent.6.d: "[FROM.GetName] не принял наши экологические требования. Санкции введены!"
+ USoEevent.6.a: "Хорошо!" 
 
- USoEevent.7.t: "Environmental Sanctions broken by [FROM.GetName]!"
- USoEevent.7.d: "[FROM.GetName] has broken our sanctions."
- USoEevent.7.a: "Okay!" 
+ USoEevent.7.t: "Экологические санкции, нарушенные [FROM.GetName]!"
+ USoEevent.7.d: "[FROM.GetName] нарушил наши санкции."
+ USoEevent.7.a: "Хорошо!" 
 
  ######################
  ### USoE Decisions ###
  ######################
 
  ### USoE Decision Category ###
- EU_USoE_category: "The United States of Europe"
- EU_USoE_category_desc: "The member states of the European Union have unified in one single superstate."
+ EU_USoE_category: "Соединенные Штаты Европы"
+ EU_USoE_category_desc: "Государства-члены Европейского Союза объединились в одно супергосударство."
 
- EU_USoE_capital_of_europe: "Capital of Europe"
- EU_USoE_capital_of_europe_desc: "Brussels has been considered the de facto capital of the European Union, having a long history of hosting a number of principal EU institutions within its European Quarter. The EU had no official capital, but Brussels hosted the official seats of the European Commission, Council of the European Union, and European Council, as well as a seat (officially the second seat but de facto the most important one) of the European Parliament. Let's make Brussels to the capital of the new nation."
+ EU_USoE_capital_of_europe: "Европейская столица"
+ EU_USoE_capital_of_europe_desc: "Брюссель де-факто считается столицей Европейского Союза, в течение долгого времени принимавшей у себя ряд основных институтов ЕС в рамках своего Европейского квартала. У ЕС не было официальной столицы, но Брюссель принимал официальные места Европейской Комиссии, Совета Европейского Союза и Европейского Совета, а также место (официально второе, но де-факто самое важное) в Европейском парламенте. Давайте сделаем Брюссель столицей нового государства."
 
- EU_USoE_westernize_decision: "Westernize [FROM.GetName]"
- EU_USoE_westernize_decision_desc: "Westernize [FROM.GetName] by diplomacy or force, it depends on [FROM.GetName]."
+ EU_USoE_westernize_decision: "Вестернизация [FROM.GetName]"
+ EU_USoE_westernize_decision_desc: "Вестернизация [FROM.GetName] дипломатией или силой, зависит от [FROM.GetName]."
 
- EU_USoE_create_eurosphere_decision: "Create the Euroshpere"
- EU_USoE_create_eurosphere_decision_desc: "[ROOT.GetNameWithFlag] will spread its influence to create the Euroshpere."
+ EU_USoE_create_eurosphere_decision: "Создать Евросоюз"
+ EU_USoE_create_eurosphere_decision_desc: "[ROOT.GetNameWithFlag] распространит свое влияние на создание Евросоюза."
  
  ### Environmental Imperialism ###
 
  ### Environmental Imperialism ###
- EU_environmental_imperialism_category: "Environmental Imperialism"
- EU_environmental_imperialism_category_desc: "Europe is green, but the world is still dark and grey. Europe needs to spread its policies and technologies throughout the globe and fight back the fossil energy empires that are destroying the planet." 
+ EU_environmental_imperialism_category: "Экологический империализм"
+ EU_environmental_imperialism_category_desc: "Европа зеленая, но мир все еще темный и серый. Европе необходимо распространить свою политику и технологии по всему миру и дать отпор империи ископаемых энергоносителей, которые разрушают планету." 
 
 
- EU_USoE_environmental_imperialism_decision: "Demand Environmental Reforms"
+ EU_USoE_environmental_imperialism_decision: "Спрос экологические реформы"
  EU_USoE_environmental_imperialism_decision_desc: "We need to save the planet. If §Y[FROM.GetNameWithFlag]§! doesn't do the neccessary §GEnvironmental Reforms§! by themself, we need to force them to do so. They need to have at least one §YBiofuel Refinery§! for every state they own. If §Y[FROM.GetNameWithFlag]§! doesn't fulfill our demands within a month, we will impose §REnvironmental Sanctions§! on them."
 
- EU_USoE_environmental_imperialism_mission: "Environmental Reforms"
+ EU_USoE_environmental_imperialism_mission: "Экологические реформы"
  EU_USoE_environmental_imperialism_mission_desc: "§YEurope§! demands §GEnvironmental Reforms§! from us to save the planet. If we don't build or reconstruct at least one §YBiofuel Refinery§! for every state we own within a month, they will impose §REnvironmental Sanctions§! on us."
  EU_USoE_environmental_imperialism_restructure_industry_decision: "Green Energy Reconstruction"
  EU_USoE_environmental_imperialism_restructure_industry_decision: "To fulfil the European §GEnvironmental Reform§! demands we need to reconstruct some of our §Civilian Industry§! to renewable energy producer (§YBiofuel Refinery§!)."
- EU_USoE_break_environmental_sanctions_decision: "Break the Environmental Sanctions"
+ EU_USoE_break_environmental_sanctions_decision: "Нарушить экологические санкции"
  EU_USoE_break_environmental_sanctions_decision_desc: "Europe has imposed Environmental Sanctions on us. We need to break them with all means - political and military. But this will give [FROM.GetNameWithFlag] a wargoal on us. So we need to ally with other countries sanctioned from [FROM.GetNameWithFlag]."
 
  #Europe
