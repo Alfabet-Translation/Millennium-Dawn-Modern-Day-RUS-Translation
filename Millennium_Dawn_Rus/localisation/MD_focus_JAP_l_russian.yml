@@ -119,6 +119,8 @@
  JAP_fortification_focus_desc:0 "We need to construct new bunkers and defenses to protect our island even if it is in the gravest of danger."
  JAP_defense_through_friendship:0 "Защита через дружбу"
  JAP_defense_through_friendship_desc:0 "There are powerful threats out there in the world, but they will always stand on their own thanks to their crimes against humanity. If we, the alliance of free peoples, find enough allies, we will be able to stand against the totalitarian forces."
+ JAP_defensive_arms_industry: "Оборонная промышленность"
+ JAP_defensive_arms_industry_desc: "In order to ensure our defensive stature is mantained against our foes we should maintain larger domestic industrial production for military equipment."
  JAP_democratic_state:0 "Демократическое государство"
  JAP_democratic_state_desc:0 "Демократия - это фундамент нашего общества, от которого мы не должны отказываться. Мы должны быть факелоносцем нового поколения демократической агрессии, чтобы защитить себя и другие демократические страны от тоталитарной угрозы."
  JAP_popular_state:0 "Народное государство"

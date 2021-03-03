@@ -847,7 +847,7 @@
  CHI.conservatism:0 "£CHI_conservative Союз китайских националистов"
  CHI.conservatism_icon:0 "£CHI_conservative"
  CHI.conservatism_desc:0 ""
- CHI.liberalism:0 "£CHI_liberal Democracy Партия Китая"
+ CHI.liberalism:0 "£CHI_liberal Демократическая партия Китая"
  CHI.liberalism_icon:0 "£CHI_liberal"
  CHI.liberalism_desc:0 ""
  CHI.socialism:0 "£CHI_social_democrat Федерация за демократический Китай"
@@ -1585,7 +1585,7 @@
  JAP.socialism_icon:0 "£JAP_socialism"
  JAP.socialism_desc:0 ""
  ###emerging
- JAP.Communist-State:0 "£JAP_Communist_State Japanese Коммунистическая партия"
+ JAP.Communist-State:0 "£JAP_Communist_State Японская коммунистическая партия"
  JAP.Communist-State_icon:0 "£JAP_Communist_State"
  JAP.Communist-State_desc:0 ""
  ###non-aligned
