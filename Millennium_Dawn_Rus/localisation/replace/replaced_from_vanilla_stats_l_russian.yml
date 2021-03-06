@@ -15,5 +15,5 @@
  STAT_NAVY_ANTI_AIR_ATTACK_DESC:0 "Сколько и какой мощности у нас зенитные ракеты."
  STAT_NAVY_ANTI_AIR_TARGETTING_DESC:0 "Насколько хорошо радар корабля может находить и отслеживать самолеты противника."
  STAT_AIR_RANGE:0 "Диапазон действия авиации: "
- STAT_NAVY_RAIDING_COORDINATION:0 "Координатыя рейдов: "
+ STAT_NAVY_RAIDING_COORDINATION:0 "Координация рейдов: "
  STAT_NAVY_PATROL_COORDINATION:0 "Координация патрулирования: "
