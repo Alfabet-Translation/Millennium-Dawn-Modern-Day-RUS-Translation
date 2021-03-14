@@ -30,7 +30,7 @@
 #    # #  #   #  #  #    # 
 ###   #   ### #  #  #  ##  
  md4_border_conflict_won_attacker.1.t:0 "Победа в [their_state.GetName]"
- md4_border_conflict_won_attacker.1.desc:0 "Столкновение на границе между [our_state.GetName] а также [their_state.GetName] видел, как наши силы одержали полную победу над силами [their_country.GetLeader]. Силы[their_country.GetAdjective] отступили, чтобы перегруппироваться, и наши силы взяли под свой контроль спорный район."
+ md4_border_conflict_won_attacker.1.desc:0 "Столкновение на границе между [our_state.GetName] а также [their_state.GetName] видел, как наши силы одержали полную победу над силами [their_country.GetLeader]. Силы [their_country.GetAdjective] отступили, чтобы перегруппироваться, и наши силы взяли под свой контроль спорный район."
  md4_border_conflict_won_attacker.1.a:0 "Мы показали им нашу силу!"
  md4_border_conflict_won_defender.1.t:0 "Победа в [their_state.GetName]"
  md4_border_conflict_won_defender.1.desc:0 "Столкновение на границе между [our_state.GetName] а также [their_state.GetName] видел, как наши силы одержали полную победу над силами [their_country.GetLeader]. Силы [their_country.GetAdjective] отступили, чтобы перегруппироваться, и наши силы взяли под свой контроль спорный район."
