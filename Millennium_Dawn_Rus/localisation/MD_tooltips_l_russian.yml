@@ -6,69 +6,69 @@
  TT_JOIN_NATO: "Вступаем в НАТО"
  TT_LEAVE_NATO: "Выходим из НАТО"
  TT_NATO_DISBANDED: "Фракция НАТО расформирована"
- TT_NO_MILITARY_INTERNAL_FACTION: "§HВоенные§! не являются одним из наших активных §HВнутренних Фракций§!"
+ TT_NO_MILITARY_INTERNAL_FACTION: "§HВоенные§! не являются одной из наших активных §Hвнутренних фракций§!"
  TT_AT_LEAST_SMALL_MILITARY_SPENDING: "Мы должны иметь как минимум §HМалые военные расходы§!"
  TT_AT_LEAST_BASIC_POLICE: "Мы должны иметь как минимум §HБазовое финансирование полиции и безопасности§!"
- TT_SECRET_BALLOTS: "Нам нужны §HСправедливые выборы§!"
+ TT_SECRET_BALLOTS: "Нам нужны §Hсправедливые выборы§!"
  TT_NOT_CENSORED_PRESS: "Мы не можем допустить цензуру прессы"
  TT_RELIGIOUS_FREEDOM: "Мы должны гарантировать свободу вероисповедания"
  TT_FAIR_JUSTICE_SYSTEM: "Нам нужна справедливая система правосудия"
- TT_OKAY_CORRUPTION: "Наш §HУровень коррупции§! должен быть лучше, чем §H(6) Систематическая коррупция§!"
+ TT_OKAY_CORRUPTION: "Наш §Hуровень коррупции§! должен быть лучше, чем §H(6) Систематическая коррупция§!"
  TT_ALL_NATO_MEMBERS_RATIFIED: "Все члены НАТО должны ратифицировать наше присоединение!"
  TT_ATTACKER_CONTROLS_OUR_STATES: "Наши враги должны контролировать хотя бы одно из наших государств."
 
  ### Nukes
  LAUNCH_NUKE_TOOLTIP: "§GНажмите,§! чтобы сбросить ядерную бомбу"
  LAUNCH_NUKE_TOOLTIP_DELAYED: "Требования:\n[GetNukeStatus]\n[GetNuclearStatus]\n[GerWarStatus]\n[GetBomberStatus]\n[GetPPStatus]\n\n§YБоеприпасы пока недоступны.§!"
- #§YNOTE: Due to PDX modding limitations, nuking specific provinces is not possible. The game will decide a random province within [This.GetName]§!
+ #§YNOTE: Из-за ограничений моддинга PDX ядерная бомбардировка определенных провинций невозможна. Игра будет решать и выбирать случайную провинцию внутри [This.GetName]§!
  has_nukes_yes_TT: "£trigger_yes  ядерное оружие на складе"
  has_nukes_no_TT: "£trigger_no  ядерное оружие на складе"
- has_nuclear_idea: "£trigger_yes  Есть идея: §YNuclear Power§!"
- not_has_nuclear_idea: "£trigger_no  Есть идея: §YNuclear Power§!"
+ has_nuclear_idea: "£trigger_yes  Есть идея: §YЯдерная мощь§!"
+ not_has_nuclear_idea: "£trigger_no  Есть идея: §YЯдерная мощь§!"
  has_war_TT: "£trigger_yes  §Y[This.GetName]§! контролируется вражеской нацией"
  not_has_war_TT: "£trigger_no  §Y[This.GetName]§! контролируется вражеской нацией"
- has_bombers_TT: "£trigger_yes  At least §Y1 Strategic Bomber§! in reserve"
- not_has_bombers_TT: "£trigger_no  At least §Y1 Strategic Bomber§! in reserve"
+ has_bombers_TT: "£trigger_yes  По крайней мере §Y1 стратегический бомбардировщик§! в резерве"
+ not_has_bombers_TT: "£trigger_no  По крайней мере §Y1 стратегический бомбардировщик§! в резерве"
  has_pp: "£trigger_yes  Как минимум £pol_power_icon §Y100 Политическая власть§!"
  not_has_pp: "£trigger_no  Как минимум £pol_power_icon §Y100 Политическая власть§!"
  TT_game_over_warning: "§RИгра закончится при выборе этого§!\n"
 
  ##Custom Triggers for Scripted file -- common/scripted_triggers/01_political_triggers.txt
- ruling_party_popularity_change_focus_TT: "Изменение популярности, вызванное этим эффектом, будет распространяться на правящую партию."
+ ruling_party_popularity_change_focus_TT: "Изменение популярности, вызванное этим эффектом, будет применено к правящей партии."
  #Has X government - For Custom Triggers
- has_pro_western_autocrat_government_TT: "§Y[Western_Autocracy_L]§! во власти." #0
- has_conservatism_government_TT: "§Y[conservatism_L]§! во власти." #1
- has_liberalism_government_TT: "§Y[liberalism_L]§! во власти." #2
- has_socialism_government_TT: "§Y[socialism_L]§! во власти." #3
- has_communist_state_government_TT: "§Y[Communist-State_L]§! во власти." #4
- has_anarchist_communism_government_TT: "§Y[anarchist_communism_L]§! во власти." #5
- has_conserv_reactionary_government_TT: "§Y[Conservative_L]§! во власти." #6
- has_autocracy_government_TT: "§Y[Autocracy_L]§! is in Power." #7
- has_mod_vilayat_e_faqih_government_TT: "§Y[Mod_Vilayat_e_Faqih_L]§! во власти." #8
- has_vilayat_e_faqih_government_TT: "§Y[Vilayat_e_Faqih_L]§! во власти." #9
- has_kingdom_government_TT: "§Y[Kingdom_L]§! во власти." #10
- has_caliphate_government_TT: "§Y[Caliphate_L]§! во власти." #11
- has_neutral_muslim_brotherhood_government_TT: "§Y[Neutral_Muslim_Brotherhood_L]§! во власти." #12
- has_neutral_autocracy_government_TT: "§Y[Neutral_Autocracy_L]§! во власти." #13
- has_neutral_conservatism_government_TT: "§Y[Neutral_conservatism_L]§! во власти." #14
- has_oligarchism_government_TT: "§Y[oligarchism_L]§! во власти." #15
- has_neutral_libertarian_government_TT: "§Y[Neutral_Libertarian_L]§! во власти." #16
- has_neutral_green_government_TT: "§Y[Neutral_green_L]§! во власти." #17
- has_neutral_social_government_TT: "§Y[neutral_Social_L]§! во власти." #18
- has_neutral_communism_government_TT: "§Y[Neutral_Communism_L]§! во власти." #19
- has_nat_populism_TT: "§Y[Nat_Populism_L]§! во власти." #20
- has_fascist_government_TT: "§Y[Nat_Fascism_L]§! во власти." #21
- has_nat_autocracy_government_TT: "§Y[Nat_Autocracy_L]§! во власти." #22
- has_monarchist_government_TT: "§Y[Monarchist_L]§! во власти." #23
+ has_pro_western_autocrat_government_TT: "§Y[Western_Autocracy_L]§! находится у власти." #0
+ has_conservatism_government_TT: "§Y[conservatism_L]§! находится у власти." #1
+ has_liberalism_government_TT: "§Y[liberalism_L]§! находится у власти." #2
+ has_socialism_government_TT: "§Y[socialism_L]§! находится у власти." #3
+ has_communist_state_government_TT: "§Y[Communist-State_L]§! находится у власти." #4
+ has_anarchist_communism_government_TT: "§Y[anarchist_communism_L]§! находится у власти." #5
+ has_conserv_reactionary_government_TT: "§Y[Conservative_L]§! находится у власти." #6
+ has_autocracy_government_TT: "§Y[Autocracy_L]§! находится у власти." #7
+ has_mod_vilayat_e_faqih_government_TT: "§Y[Mod_Vilayat_e_Faqih_L]§! находится у власти." #8
+ has_vilayat_e_faqih_government_TT: "§Y[Vilayat_e_Faqih_L]§! находится у власти." #9
+ has_kingdom_government_TT: "§Y[Kingdom_L]§! находится у власти." #10
+ has_caliphate_government_TT: "§Y[Caliphate_L]§! находится у власти." #11
+ has_neutral_muslim_brotherhood_government_TT: "§Y[Neutral_Muslim_Brotherhood_L]§! находится у власти." #12
+ has_neutral_autocracy_government_TT: "§Y[Neutral_Autocracy_L]§! находится у власти." #13
+ has_neutral_conservatism_government_TT: "§Y[Neutral_conservatism_L]§! находится у власти." #14
+ has_oligarchism_government_TT: "§Y[oligarchism_L]§! находится у власти." #15
+ has_neutral_libertarian_government_TT: "§Y[Neutral_Libertarian_L]§! находится у власти." #16
+ has_neutral_green_government_TT: "§Y[Neutral_green_L]§! находится у власти." #17
+ has_neutral_social_government_TT: "§Y[neutral_Social_L]§! находится у власти." #18
+ has_neutral_communism_government_TT: "§Y[Neutral_Communism_L]§! находится у власти." #19
+ has_nat_populism_TT: "§Y[Nat_Populism_L]§! находится у власти." #20
+ has_fascist_government_TT: "§Y[Nat_Fascism_L]§! находится у власти." #21
+ has_nat_autocracy_government_TT: "§Y[Nat_Autocracy_L]§! находится у власти." #22
+ has_monarchist_government_TT: "§Y[Monarchist_L]§! находится у власти." #23
 
  ### Has Government
  has_socialist_government_TT: "Социалистическая правящая партия"
  has_communist_government_TT: "Коммунистическая правящая партия"
- has_environmentalist_government_TT: "Экологическая правящая партия"
+ has_environmentalist_government_TT: "Правящая партия экологов"
  has_liberal_government_TT: "Либеральная правящая партия"
  has_conservative_government_TT: "Консервативная правящая партия"
  has_reactionary_government_TT: "Реакционная правящая партия"
- has_autocratic_government_TT: "Автократическая правящая партия"
+ has_autocratic_government_TT: "Автократичная правящая партия"
  has_totalitarian_government_TT: "Тоталитарная правящая партия"
 
  has_socialist_in_coalition_TT: "Социалисты в коалиции"
@@ -85,111 +85,111 @@
  has_environmentalist_government_or_in_coalition_TT: "Экологическая коалиция или правящая партия"
  has_liberal_government_or_in_coalition_TT: "Либеральная коалиция или правящая партия"
  has_conservative_governemnt_or_in_coalition_TT: "Иметь консервативную правящую партию"
- has_reactionary_governemnt_or_in_coalition_TT: "Иметь реакционную правящую партию"
- has_autocratic_governemnt_or_in_coalition_TT: "Авторитарная коалиция или правящая партия"
+ has_reactionary_governemnt_or_in_coalition_TT: "Имеет реакционную правящую партию"
+ has_autocratic_governemnt_or_in_coalition_TT: "Автократическая коалиция или правящая партия"
  has_totalitarian_government_or_in_coalition_TT: "Тоталитаристы в коалиции"
  #Not has X government - For Custom Triggers
- not_has_pro_western_autocrat_government_TT: "§Y[Western_Autocracy_L]§! is Not in Power." #0
- not_has_conservatism_government_TT: "§Y[conservatism_L]§! is Not in Power." #1
- not_has_liberalism_government_TT: "§Y[liberalism_L]§! is Not in Power." #2
- not_has_socialism_government_TT: "§Y[socialism_L]§! is Not in Power." #3
- not_has_communist_state_government_TT: "§Y[Communist-State_L]§! is Not in Power." #4
- not_has_anarchist_communism_government_TT: "§Y[anarchist_communism_L]§! is Not in Power." #5
- not_has_conservative_government_TT: "§Y[Conservative_L]§! is Not in Power." #6
- not_has_autocracy_government_TT: "§Y[Autocracy_L]§! is Not in Power." #7
- not_has_mod_vilayat_e_faqih_government_TT: "§Y[Mod_Vilayat_e_Faqih_L]§! is Not in Power." #8
- not_has_vilayat_e_faqih_government_TT: "§Y[Vilayat_e_Faqih_L]§! is Not in Power." #9
- not_has_kingdom_government_TT: "§Y[Kingdom_L]§! is Not in Power." #10
- not_has_caliphate_government_TT: "§Y[Caliphate_L]§! is Not in Power." #11
- not_has_neutral_muslim_brotherhood_government_TT: "§Y[Neutral_Muslim_Brotherhood_L]§! is Not in Power." #12
- not_has_neutral_autocracy_government_TT: "§Y[Neutral_Autocracy_L]§! is Not in Power." #13
- not_has_neutral_conservatism_government_TT: "§Y[Neutral_conservatism_L]§! is Not in Power." #14
- not_has_oligarchism_government_TT: "§Y[oligarchism_L]§! is Not in Power." #15
- not_has_neutral_libertarian_government_TT: "§Y[Neutral_Libertarian_L]§! is Not in Power." #16
- not_has_neutral_green_government_TT: "§Y[Neutral_green_L]§! is Not in Power." #17
- not_has_neutral_social_government_TT: "§Y[neutral_Social_L]§! is Not in Power." #18
- not_has_neutral_communism_government_TT: "§Y[Neutral_Communism_L]§! is Not in Power." #19
- not_has_nat_populism_TT: "§Y[Nat_Populism_L]§! is Not in Power." #20
- not_has_fascist_government_TT: "§Y[Nat_Fascism_L]§! is Not in Power." #21
- not_has_nat_autocracy_government_TT: "§Y[Nat_Autocracy_L]§! is Not in Power." #22
- not_has_monarchist_government_TT: "§Y[Monarchist_L]§! is Not in Power." #23
+ not_has_pro_western_autocrat_government_TT: "§Y[Western_Autocracy_L]§! не находится у власти." #0
+ not_has_conservatism_government_TT: "§Y[conservatism_L]§! не находится у власти." #1
+ not_has_liberalism_government_TT: "§Y[liberalism_L]§! не находится у власти." #2
+ not_has_socialism_government_TT: "§Y[socialism_L]§! не находится у власти." #3
+ not_has_communist_state_government_TT: "§Y[Communist-State_L]§! не находится у власти." #4
+ not_has_anarchist_communism_government_TT: "§Y[anarchist_communism_L]§! не находится у власти." #5
+ not_has_conservative_government_TT: "§Y[Conservative_L]§! не находится у власти." #6
+ not_has_autocracy_government_TT: "§Y[Autocracy_L]§! не находится у власти." #7
+ not_has_mod_vilayat_e_faqih_government_TT: "§Y[Mod_Vilayat_e_Faqih_L]§! не находится у власти." #8
+ not_has_vilayat_e_faqih_government_TT: "§Y[Vilayat_e_Faqih_L]§! не находится у власти." #9
+ not_has_kingdom_government_TT: "§Y[Kingdom_L]§! не находится у власти." #10
+ not_has_caliphate_government_TT: "§Y[Caliphate_L]§! не находится у власти." #11
+ not_has_neutral_muslim_brotherhood_government_TT: "§Y[Neutral_Muslim_Brotherhood_L]§! не находится у власти." #12
+ not_has_neutral_autocracy_government_TT: "§Y[Neutral_Autocracy_L]§! не находится у власти." #13
+ not_has_neutral_conservatism_government_TT: "§Y[Neutral_conservatism_L]§! не находится у власти." #14
+ not_has_oligarchism_government_TT: "§Y[oligarchism_L]§! не находится у власти." #15
+ not_has_neutral_libertarian_government_TT: "§Y[Neutral_Libertarian_L]§! не находится у власти." #16
+ not_has_neutral_green_government_TT: "§Y[Neutral_green_L]§! не находится у власти." #17
+ not_has_neutral_social_government_TT: "§Y[neutral_Social_L]§! не находится у власти." #18
+ not_has_neutral_communism_government_TT: "§Y[Neutral_Communism_L]§! не находится у власти." #19
+ not_has_nat_populism_TT: "§Y[Nat_Populism_L]§! не находится у власти." #20
+ not_has_fascist_government_TT: "§Y[Nat_Fascism_L]§! не находится у власти." #21
+ not_has_nat_autocracy_government_TT: "§Y[Nat_Autocracy_L]§! не находится у власти." #22
+ not_has_monarchist_government_TT: "§Y[Monarchist_L]§! не находится у власти." #23
  #add_2_5_popularity_sub in scripted_effects
- 2_5_increase_0_TT: "The §Y[Western_Autocracy_L]§! Gain §G2.5%§! Support.\n"
- 2_5_increase_1_TT: "The §Y[conservatism_L]§! Gain §G2.5%§! Support.\n"
- 2_5_increase_2_TT: "The §Y[liberalism_L]§! Gain §G2.5%§! Support.\n"
- 2_5_increase_3_TT: "The §Y[socialism_L]§! Gain §G2.5%§! Support.\n"
- 2_5_increase_4_TT: "The §Y[Communist-State_L]§! Gain §G2.5%§! Support.\n"
- 2_5_increase_5_TT: "The §Y[anarchist_communism_L]§! Gain §G2.5%§! Support.\n"
- 2_5_increase_6_TT: "The §Y[Conservative_L]§! Gain §G2.5%§! Support.\n"
- 2_5_increase_7_TT: "The §Y[Autocracy_L]§! Gain §G2.5%§! Support.\n"
- 2_5_increase_8_TT: "The §Y[Mod_Vilayat_e_Faqih_L]§! Gain §G2.5%§! Support.\n"
- 2_5_increase_9_TT: "The §Y[Vilayat_e_Faqih_L]§! Gain §G2.5%§! Support.\n"
- 2_5_increase_10_TT: "The §Y[Kingdom_L]§! Gain §G2.5%§! Support.\n"
- 2_5_increase_11_TT: "The §Y[Caliphate_L]§! Gain §G2.5%§! Support.\n"
- 2_5_increase_12_TT: "The §Y[Neutral_Muslim_Brotherhood_L]§! Gain §G2.5%§! Support.\n"
- 2_5_increase_13_TT: "The §Y[Neutral_Autocracy_L]§! Gain §G2.5%§! Support.\n"
- 2_5_increase_14_TT: "The §Y[Neutral_conservatism_L]§! Gain §G2.5%§! Support.\n"
- 2_5_increase_15_TT: "The §Y[oligarchism_L]§! Gain §G2.5%§! Support.\n"
- 2_5_increase_16_TT: "The §Y[Neutral_Libertarian_L]§! Gain §G2.5%§! Support.\n"
- 2_5_increase_17_TT: "The §Y[Neutral_green_L]§! Gain §G2.5%§! Support.\n"
- 2_5_increase_18_TT: "The §Y[neutral_Social_L]§! Gain §G2.5%§! Support.\n"
- 2_5_increase_19_TT: "The §Y[Neutral_Communism_L]§! Gain §G2.5%§! Support.\n"
- 2_5_increase_20_TT: "The §Y[Nat_Populism_L]§! Gain §G2.5%§! Support.\n"
- 2_5_increase_21_TT: "The §Y[Nat_Fascism_L]§! Gain §G2.5%§! Support.\n"
- 2_5_increase_22_TT: "The §Y[Nat_Autocracy_L]§! Gain §G2.5%§! Support.\n"
- 2_5_increase_23_TT: "The §Y[Monarchist_L]§! Gain §G2.5%§! Support.\n"
+ 2_5_increase_0_TT: "§Y[Western_Autocracy_L]§! получает §G2.5%§! поддержки.\n"
+ 2_5_increase_1_TT: "§Y[conservatism_L]§! получает §G2.5%§! поддержки.\n"
+ 2_5_increase_2_TT: "§Y[liberalism_L]§! получает §G2.5%§! поддержки.\n"
+ 2_5_increase_3_TT: "§Y[socialism_L]§! получает §G2.5%§! поддержки.\n"
+ 2_5_increase_4_TT: "§Y[Communist-State_L]§! получает §G2.5%§! поддержки.\n"
+ 2_5_increase_5_TT: "§Y[anarchist_communism_L]§! получает §G2.5%§! поддержки.\n"
+ 2_5_increase_6_TT: "§Y[Conservative_L]§! получает §G2.5%§! поддержки.\n"
+ 2_5_increase_7_TT: "§Y[Autocracy_L]§! получает §G2.5%§! поддержки.\n"
+ 2_5_increase_8_TT: "§Y[Mod_Vilayat_e_Faqih_L]§! получает §G2.5%§! поддержки.\n"
+ 2_5_increase_9_TT: "§Y[Vilayat_e_Faqih_L]§! получает §G2.5%§! поддержки.\n"
+ 2_5_increase_10_TT: "§Y[Kingdom_L]§! получает §G2.5%§! поддержки.\n"
+ 2_5_increase_11_TT: "§Y[Caliphate_L]§! получает §G2.5%§! поддержки.\n"
+ 2_5_increase_12_TT: "§Y[Neutral_Muslim_Brotherhood_L]§! получает §G2.5%§! поддержки.\n"
+ 2_5_increase_13_TT: "§Y[Neutral_Autocracy_L]§! получает §G2.5%§! поддержки.\n"
+ 2_5_increase_14_TT: "§Y[Neutral_conservatism_L]§! получает §G2.5%§! поддержки.\n"
+ 2_5_increase_15_TT: "§Y[oligarchism_L]§! получает §G2.5%§! поддержки.\n"
+ 2_5_increase_16_TT: "§Y[Neutral_Libertarian_L]§! получает §G2.5%§! поддержки.\n"
+ 2_5_increase_17_TT: "§Y[Neutral_green_L]§! получает §G2.5%§! поддержки.\n"
+ 2_5_increase_18_TT: "§Y[neutral_Social_L]§! получает §G2.5%§! поддержки.\n"
+ 2_5_increase_19_TT: "§Y[Neutral_Communism_L]§! получает §G2.5%§! поддержки.\n"
+ 2_5_increase_20_TT: "§Y[Nat_Populism_L]§! получает §G2.5%§! поддержки.\n"
+ 2_5_increase_21_TT: "§Y[Nat_Fascism_L]§! получает §G2.5%§! поддержки.\n"
+ 2_5_increase_22_TT: "§Y[Nat_Autocracy_L]§! получает §G2.5%§! поддержки.\n"
+ 2_5_increase_23_TT: "§Y[Monarchist_L]§! получает §G2.5%§! поддержки.\n"
 
  #add_5_popularity_sub in scripted_effects
- 5_increase_0_TT: "The §Y[Western_Autocracy_L]§! Gain §G5%§! Support.\n"
- 5_increase_1_TT: "The §Y[conservatism_L]§! Gain §G5%§! Support.\n"
- 5_increase_2_TT: "The §Y[liberalism_L]§! Gain §G5%§! Support.\n"
- 5_increase_3_TT: "The §Y[socialism_L]§! Gain §G5%§! Support.\n"
- 5_increase_4_TT: "The §Y[Communist-State_L]§! Gain §G5%§! Support.\n"
- 5_increase_5_TT: "The §Y[anarchist_communism_L]§! Gain §G5%§! Support.\n"
- 5_increase_6_TT: "The §Y[Conservative_L]§! Gain §G5%§! Support.\n"
- 5_increase_7_TT: "The §Y[Autocracy_L]§! Gain §G5%§! Support.\n"
- 5_increase_8_TT: "The §Y[Mod_Vilayat_e_Faqih_L]§! Gain §G5%§! Support.\n"
- 5_increase_9_TT: "The §Y[Vilayat_e_Faqih_L]§! Gain §G5%§! Support.\n"
- 5_increase_10_TT: "The §Y[Kingdom_L]§! Gain §G5%§! Support.\n"
- 5_increase_11_TT: "The §Y[Caliphate_L]§! Gain §G5%§! Support.\n"
- 5_increase_12_TT: "The §Y[Neutral_Muslim_Brotherhood_L]§! Gain §G5%§! Support.\n"
- 5_increase_13_TT: "The §Y[Neutral_Autocracy_L]§! Gain §G5%§! Support.\n"
- 5_increase_14_TT: "The §Y[Neutral_conservatism_L]§! Gain §G5%§! Support.\n"
- 5_increase_15_TT: "The §Y[oligarchism_L]§! Gain §G5%§! Support.\n"
- 5_increase_16_TT: "The §Y[Neutral_Libertarian_L]§! Gain §G5%§! Support.\n"
- 5_increase_17_TT: "The §Y[Neutral_green_L]§! Gain §G5%§! Support.\n"
- 5_increase_18_TT: "The §Y[neutral_Social_L]§! Gain §G5%§! Support.\n"
- 5_increase_19_TT: "The §Y[Neutral_Communism_L]§! Gain §G5%§! Support.\n"
- 5_increase_20_TT: "The §Y[Nat_Populism_L]§! Gain §G5%§! Support.\n"
- 5_increase_21_TT: "The §Y[Nat_Fascism_L]§! Gain §G5%§! Support.\n"
- 5_increase_22_TT: "The §Y[Nat_Autocracy_L]§! Gain §G5%§! Support.\n"
- 5_increase_23_TT: "The §Y[Monarchist_L]§! Gain §G5%§! Support.\n"
+ 5_increase_0_TT: "§Y[Western_Autocracy_L]§! получает §G5%§! поддержки.\n"
+ 5_increase_1_TT: "§Y[conservatism_L]§! получает §G5%§! поддержки.\n"
+ 5_increase_2_TT: "§Y[liberalism_L]§! получает §G5%§! поддержки.\n"
+ 5_increase_3_TT: "§Y[socialism_L]§! получает §G5%§! поддержки.\n"
+ 5_increase_4_TT: "§Y[Communist-State_L]§! получает §G5%§! поддержки.\n"
+ 5_increase_5_TT: "§Y[anarchist_communism_L]§! получает §G5%§! поддержки.\n"
+ 5_increase_6_TT: "§Y[Conservative_L]§! получает §G5%§! поддержки.\n"
+ 5_increase_7_TT: "§Y[Autocracy_L]§! получает §G5%§! поддержки.\n"
+ 5_increase_8_TT: "§Y[Mod_Vilayat_e_Faqih_L]§! получает §G5%§! поддержки.\n"
+ 5_increase_9_TT: "§Y[Vilayat_e_Faqih_L]§! получает §G5%§! поддержки.\n"
+ 5_increase_10_TT: "§Y[Kingdom_L]§! получает §G5%§! поддержки.\n"
+ 5_increase_11_TT: "§Y[Caliphate_L]§! получает §G5%§! поддержки.\n"
+ 5_increase_12_TT: "§Y[Neutral_Muslim_Brotherhood_L]§! получает §G5%§! поддержки.\n"
+ 5_increase_13_TT: "§Y[Neutral_Autocracy_L]§! получает §G5%§! поддержки.\n"
+ 5_increase_14_TT: "§Y[Neutral_conservatism_L]§! получает §G5%§! поддержки.\n"
+ 5_increase_15_TT: "§Y[oligarchism_L]§! получает §G5%§! поддержки.\n"
+ 5_increase_16_TT: "§Y[Neutral_Libertarian_L]§! получает §G5%§! поддержки.\n"
+ 5_increase_17_TT: "§Y[Neutral_green_L]§! получает §G5%§! поддержки.\n"
+ 5_increase_18_TT: "§Y[neutral_Social_L]§! получает §G5%§! поддержки.\n"
+ 5_increase_19_TT: "§Y[Neutral_Communism_L]§! получает §G5%§! поддержки.\n"
+ 5_increase_20_TT: "§Y[Nat_Populism_L]§! получает §G5%§! поддержки.\n"
+ 5_increase_21_TT: "§Y[Nat_Fascism_L]§! получает §G5%§! поддержки.\n"
+ 5_increase_22_TT: "§Y[Nat_Autocracy_L]§! получает §G5%§! поддержки.\n"
+ 5_increase_23_TT: "§Y[Monarchist_L]§! получает §G5%§! поддержки.\n"
 
  #add_10_popularity_sub in scripted_effects
- 10_increase_0_TT: "The §Y[Western_Autocracy_L]§! Gain §G10%§! Support.\n"
- 10_increase_1_TT: "The §Y[conservatism_L]§! Gain §G10%§! Support.\n"
- 10_increase_2_TT: "The §Y[liberalism_L]§! Gain §G10%§! Support.\n"
- 10_increase_3_TT: "The §Y[socialism_L]§! Gain §G10%§! Support.\n"
- 10_increase_4_TT: "The §Y[Communist-State_L]§! Gain §G10%§! Support.\n"
- 10_increase_5_TT: "The §Y[anarchist_communism_L]§! Gain §G10%§! Support.\n"
- 10_increase_6_TT: "The §Y[Conservative_L]§! Gain §G10%§! Support.\n"
- 10_increase_7_TT: "The §Y[Autocracy_L]§! Gain §G10%§! Support.\n"
- 10_increase_8_TT: "The §Y[Mod_Vilayat_e_Faqih_L]§! Gain §G10%§! Support.\n"
- 10_increase_9_TT: "The §Y[Vilayat_e_Faqih_L]§! Gain §G10%§! Support.\n"
- 10_increase_10_TT: "The §Y[Kingdom_L]§! Gain §G10%§! Support.\n"
- 10_increase_11_TT: "The §Y[Caliphate_L]§! Gain §G10%§! Support.\n"
- 10_increase_12_TT: "The §Y[Neutral_Muslim_Brotherhood_L]§! Gain §G10%§! Support.\n"
- 10_increase_13_TT: "The §Y[Neutral_Autocracy_L]§! Gain §G10%§! Support.\n"
- 10_increase_14_TT: "The §Y[Neutral_conservatism_L]§! Gain §G10%§! Support.\n"
- 10_increase_15_TT: "The §Y[oligarchism_L]§! Gain §G10%§! Support.\n"
- 10_increase_16_TT: "The §Y[Neutral_Libertarian_L]§! Gain §G10%§! Support.\n"
- 10_increase_17_TT: "The §Y[Neutral_green_L]§! Gain §G10%§! Support.\n"
- 10_increase_18_TT: "The §Y[neutral_Social_L]§! Gain §G10%§! Support.\n"
- 10_increase_19_TT: "The §Y[Neutral_Communism_L]§! Gain §G10%§! Support.\n"
- 10_increase_20_TT: "The §Y[Nat_Populism_L]§! Gain §G10%§! Support.\n"
- 10_increase_21_TT: "The §Y[Nat_Fascism_L]§! Gain §G10%§! Support.\n"
- 10_increase_22_TT: "The §Y[Nat_Autocracy_L]§! Gain §G10%§! Support.\n"
- 10_increase_23_TT: "The §Y[Monarchist_L]§! Gain §G10%§! Support.\n"
+ 10_increase_0_TT: "§Y[Western_Autocracy_L]§! получает §G10%§! поддержки.\n"
+ 10_increase_1_TT: "§Y[conservatism_L]§! получает §G10%§! поддержки.\n"
+ 10_increase_2_TT: "§Y[liberalism_L]§! получает §G10%§! поддержки.\n"
+ 10_increase_3_TT: "§Y[socialism_L]§! получает §G10%§! поддержки.\n"
+ 10_increase_4_TT: "§Y[Communist-State_L]§! получает §G10%§! поддержки.\n"
+ 10_increase_5_TT: "§Y[anarchist_communism_L]§! получает §G10%§! поддержки.\n"
+ 10_increase_6_TT: "§Y[Conservative_L]§! получает §G10%§! поддержки.\n"
+ 10_increase_7_TT: "§Y[Autocracy_L]§! получает §G10%§! поддержки.\n"
+ 10_increase_8_TT: "§Y[Mod_Vilayat_e_Faqih_L]§! получает §G10%§! поддержки.\n"
+ 10_increase_9_TT: "§Y[Vilayat_e_Faqih_L]§! получает §G10%§! поддержки.\n"
+ 10_increase_10_TT: "§Y[Kingdom_L]§! получает §G10%§! поддержки.\n"
+ 10_increase_11_TT: "§Y[Caliphate_L]§! получает §G10%§! поддержки.\n"
+ 10_increase_12_TT: "§Y[Neutral_Muslim_Brotherhood_L]§! получает §G10%§! поддержки.\n"
+ 10_increase_13_TT: "§Y[Neutral_Autocracy_L]§! получает §G10%§! поддержки.\n"
+ 10_increase_14_TT: "§Y[Neutral_conservatism_L]§! получает §G10%§! поддержки.\n"
+ 10_increase_15_TT: "§Y[oligarchism_L]§! получает §G10%§! поддержки.\n"
+ 10_increase_16_TT: "§Y[Neutral_Libertarian_L]§! получает §G10%§! поддержки.\n"
+ 10_increase_17_TT: "§Y[Neutral_green_L]§! получает §G10%§! поддержки.\n"
+ 10_increase_18_TT: "§Y[neutral_Social_L]§! получает §G10%§! поддержки.\n"
+ 10_increase_19_TT: "§Y[Neutral_Communism_L]§! получает §G10%§! поддержки.\n"
+ 10_increase_20_TT: "§Y[Nat_Populism_L]§! получает §G10%§! поддержки.\n"
+ 10_increase_21_TT: "§Y[Nat_Fascism_L]§! получает §G10%§! поддержки.\n"
+ 10_increase_22_TT: "§Y[Nat_Autocracy_L]§! получает §G10%§! поддержки.\n"
+ 10_increase_23_TT: "§Y[Monarchist_L]§! получает §G10%§! поддержки.\n"
 
  #remove_5_popularity_sub in scripted_effects
  5_decrease_0_TT: "The §Y[Western_Autocracy_L]§! Lose §R5%§! Support.\n"
@@ -689,9 +689,9 @@
  econvent.list.stagnation_tt: "§HСтагнация§!"
  econvent.list.recession_tt: "§HРецессия§!"
  econvent.list.depression_tt: "§HДепрессия§!"
- econvent.list.no_effect_tt: "§HБез изменений§!"
- econvent.voodoo_economics_tt: "By lowering interest rates, pushing banks to take greater risks and expanding the money supply we make it easier to get loans so the fall will be limited. This is called §H'Voodoo Economics'§! by critics, as it will cushion the blow to a collapsing market, but not fix the underlying issues\n"
- econvent.2.b_tt: "By doing nothing the crash will be much worse. However, the road to recovery may be faster - as the underlying cause of the crash in the first place was too much money flowing into the housing market\n"
+ econvent.list.no_effect_tt: "§HНет изменений§!"
+ econvent.voodoo_economics_tt: "Снижая процентные ставки, подталкивая банки к большему риску и расширяя денежную массу, мы облегчаем получение кредитов, поэтому падение будет ограниченным. Критиками это называется §H"Экономика Вуду"§!, так как это смягчит удар по рушащемуся рынку, но не исправит лежащие в его основе проблемы.\n"
+ econvent.2.b_tt: "Если ничего не делать, катастрофа будет намного хуже. Однако путь к восстановлению может быть более быстрым - поскольку основной причиной краха в первую очередь было слишком много денег, поступающих на рынок жилья.\n"
  econvent.debt_10p_tt: "Will §Rincrease§! the §HDebt Level§! equal to §H10%§! of §HGDP§!\n"
  econvent.debt_5p_tt: "Will §Rincrease§! the §HDebt Level§! equal to §H5%§! of §HGDP§!\n"
  econvent.debt_2_5p_tt: "Will §RIncrease§! the §HDebt Level§! equal to §H2.5%§! of §HGDP§!\n"
@@ -724,52 +724,52 @@
  possible2_tt: "§HФинансовый центр§!"
  TT_NO_BUILDING_SLOTS: "Во всех наших регионах 0 незанятых §Yячеек для строительства§!"
  TT_MAX_1_BUILDING_SLOTS: "Во всех наших регионах не больше 1 незанятой §Yячейки для строительства§!"
- cyber_gdp_requirement_0_tt: "Имеет §Y4.000$ ВВП§! или больше"
- cyber_gdp_requirement_1_tt: "Имеет §Y7.000$ ВВП§! или больше"
- cyber_gdp_requirement_2_tt: "Имеет §Y15.000$ ВВП§! или больше"
- cyber_gdp_requirement_3_tt: "Имеет §Y20.000$ ВВП§! или больше"
- cyber_gdp_requirement_4_tt: "Имеет §Y30.000$ ВВП§! или больше"
- gdp_requirement_10_tt: "Имеет §Y10.000$ ВВП§! или больше"
+ cyber_gdp_requirement_0_tt: "Имеет показатель §Y4.000$ GDP/C§! или выше"
+ cyber_gdp_requirement_1_tt: "Имеет показатель §Y7.000$ GDP/C§! или выше"
+ cyber_gdp_requirement_2_tt: "Имеет показатель §Y15.000$ GDP/C§! или выше"
+ cyber_gdp_requirement_3_tt: "Имеет показатель §Y20.000$ GDP/C§! или выше"
+ cyber_gdp_requirement_4_tt: "Имеет показатель §Y30.000$ GDP/C§! или выше"
+ gdp_requirement_10_tt: "Имеет показатель §Y10.000$ GDP/C§! или выше"
 
  #Tax Rate
  ##Reduce tax rate
- reduce_tax_rate_1_tt: "Будет снижена §Yналоговая ставка§! на §Y1%§!\n"
- reduce_tax_rate_2_tt: "Будет снижена §Yналоговая ставка§! на §Y2%§!\n"
- reduce_tax_rate_3_tt: "Будет снижена §Yналоговая ставка§! на §Y3%§!\n"
- reduce_tax_rate_4_tt: "Будет снижена §Yналоговая ставка§! на §Y4%§!\n"
- reduce_tax_rate_5_tt: "Будет снижена §Yналоговая ставка§! на §Y5%§!\n"
- reduce_tax_rate_10_tt: "Будет снижена §Yналоговая ставка§! на §Y10%§!\n"
- reduce_tax_rate_15_tt: "Будет снижена §Yналоговая ставка§! на §Y15%§!\n"
+ reduce_tax_rate_1_tt: "Reduce §YTax Rate§! by §Y1%§!\n"
+ reduce_tax_rate_2_tt: "Reduce §YTax Rate§! by §Y2%§!\n"
+ reduce_tax_rate_3_tt: "Reduce §YTax Rate§! by §Y3%§!\n"
+ reduce_tax_rate_4_tt: "Reduce §YTax Rate§! by §Y4%§!\n"
+ reduce_tax_rate_5_tt: "Reduce §YTax Rate§! by §Y5%§!\n"
+ reduce_tax_rate_10_tt: "Reduce §YTax Rate§! by §Y10%§!\n"
+ reduce_tax_rate_15_tt: "Reduce §YTax Rate§! by §Y15%§!\n"
 
  ##Increased tax rate
- add_tax_rate_1_tt: "Будет повышена §Yналоговая ставка§! на §Y1%§!\n"
- add_tax_rate_2_tt: "Будет повышена §Yналоговая ставка§! на §Y2%§!\n"
- add_tax_rate_3_tt: "Будет повышена §Yналоговая ставка§! на §Y3%§!\n"
- add_tax_rate_4_tt: "Будет повышена §Yналоговая ставка§! на §Y4%§!\n"
- add_tax_rate_5_tt: "Будет повышена §Yналоговая ставка§! на §Y5%§!\n"
- add_tax_rate_10_tt: "Будет повышена §Yналоговая ставка§! на §Y10%§!\n"
- add_tax_rate_15_tt: "Будет повышена §Yналоговая ставка§! на §Y15%§!\n"
+ add_tax_rate_1_tt: "Raise §YTax Rate§! by §Y1%§!\n"
+ add_tax_rate_2_tt: "Raise §YTax Rate§! by §Y2%§!\n"
+ add_tax_rate_3_tt: "Raise §YTax Rate§! by §Y3%§!\n"
+ add_tax_rate_4_tt: "Raise §YTax Rate§! by §Y4%§!\n"
+ add_tax_rate_5_tt: "Raise §YTax Rate§! by §Y5%§!\n"
+ add_tax_rate_10_tt: "Raise §YTax Rate§! by §Y10%§!\n"
+ add_tax_rate_15_tt: "Raise §YTax Rate§! by §Y15%§!\n"
 
  ##Has tax rate
- has_tax_rate_5_at_least_45_less_tt: "Имеет §Yналоговую ставку§! как минимум §Y5%§!\nИмеет §Yналоговую ставку§! менее чем §Y45%§!"
+ has_tax_rate_5_at_least_45_less_tt: "Имеет §Yналоговую ставку§! по крайней мере §Y5%§!\nИмеет §Yналоговую ставку§! менее чем §Y45%§!"
 
  ###Generic Treasury
- removes_8_from_treasury_TT: "§YRemoves $8 Billion from the Treasury§!\n"
- removes_6_from_treasury_TT: "§YRemoves $6 Billion from the Treasury§!\n"
- removes_5_from_treasury_TT: "§YRemoves $5 Billion from the Treasury§!\n"
- removes_1_5_from_treasury_TT: "§YRemoves $1.5 Billion from the Treasury§!\n"
- adds_4_to_treasury_TT: "§YAdds $4 Billion from the Treasury§!\n"
- add_5_5_to_treasury_TT: "§YAdds $5.5 Billion from the Treasury§!\n"
- add_13_5_to_treasury_TT: "§YAdds $13.5 Billion from the Treasury§!\n"
+ removes_8_from_treasury_TT: "§YБудет потрачено $8 млрд из казны§!\n"
+ removes_6_from_treasury_TT: "§YБудет потрачено $6 млрд из казны§!\n"
+ removes_5_from_treasury_TT: "§YБудет потрачено $5 млрд из казны§!\n"
+ removes_1_5_from_treasury_TT: "§YБудет потрачено $1.5 млрд из казны§!\n"
+ adds_4_to_treasury_TT: "§YДобавляет $4 млрд в казну§!\n"
+ add_5_5_to_treasury_TT: "§YДобавляет $5.5 млрд в казну§!\n"
+ add_13_5_to_treasury_TT: "§YДобавляет $13.5 млрд в казну§!\n"
 
  ###Ethiopia
  ETH_zera_yacob_returns_TT: "Зера Якоб возвращается в Эфиопию!\n"
- ETH_imperial_guard_TT: "§GКебур Забагна был официальной гвардией императора. Восстановив ее, мы обеспечим безопасность нового императора, а также его престиж.§!"
- ETH_request_loans_TT: "Добавьте к нашей казне и к нашему долгу §Y$25 миллиардов§!."
+ ETH_imperial_guard_TT: "§GКебур Забанья был официальной гвардией императора. Восстановив его, мы обеспечим безопасность нового императора, а также его престиже.§!"
+ ETH_request_loans_TT: "Прибавляет к нашей казне и к нашему долгу §Y$25 млрд§!."
 
  #Italy Tooltips - Effect
- ITA_draw_closer_to_east_TT: "Relations between Russia and Italy has caused influence to §YRise§!\n"
- ITA_draw_closer_to_far_east_TT: "Наше влияние на Дальнем Востоке растет.\n §YВсе страны упомянули рост влияния. Китай наиболее§!\n"
+ ITA_draw_closer_to_east_TT: "Отношения между Россией и Италией оказали влияние на §Yрост§!\n"
+ ITA_draw_closer_to_far_east_TT: "Наше влияние на Дальнем Востоке растет.\n §YВсе упомянутые страны увеличивают свое влияние. Китай в большинстве§!\n"
  ITA_befriend_america_TT: "§YАмериканское влияние растет в Италии§!\n"
 
  #Myanmar/Burmas
@@ -805,12 +805,12 @@
  11_BRM_SHN_influence_higher_50_tt: "§Y[BRM.GetNameWithFlag]§! has more than §G50%§! influence in §Y[SHN.GetNameWithFlag]§!"
  11_BRM_WAA_influence_higher_50_tt: "§Y[BRM.GetNameWithFlag]§! has more than §G50%§! influence in §Y[WAA.GetNameWithFlag]§!"
  11_BRM_influence_0_tt: "§Y[BRM.GetNameWithFlag]§! has §Y0%§! influence in §Y[ROOT.GetNameWithFlag]§!"
- 11_BRM_increase_domestic_influence_tt: "Increase independence from foreign influence: §G+40§!\n"
- 11_BRM_decrease_domestic_influence_tt: "Decrease independence from foreign influence: §R10§!\n"
+ 11_BRM_increase_domestic_influence_tt: "Повышение независимости от иностранного влияния: §G+40§!\n"
+ 11_BRM_decrease_domestic_influence_tt: "Снижение независимости от иностранного влияния: §R10§!\n"
  11_BRM_ambitious_demands_tt: "We will demand §Y10§! independence from Burmese influence"
  11_BRM_moderate_demands_tt: "We will demand §Y5§! independence from Burmese influence"
  11_BRM_NCA_tt: "All parties to the conflict in [Root.GetNameDef] have signed the §YNationwide Ceasefire Agreement§!"
- 11_ASEAN_defence_tt: "§RДругие государства-члены не подпишут, если их отношения с Китаем будут слишком крепкими.§!"
+ 11_ASEAN_defence_tt: "§RДругие государства-члены не подпишут соглашение, если их отношения с Китаем будут слишком сильными§!"
 
  #Child Soldiers
  11_child_soldiers_recruitment_6_tt: "§YChild Soldier Recruitment Level§! is §Y5§! or lower"
@@ -824,20 +824,20 @@
  11_child_soldiers_1000_tt: "Reduces our current §YNumber of Child Soldiers§! by §G1000§!"
  11_child_soldiers_5000_tt: "Reduces our current §YNumber of Child Soldiers§! by §G5000§!"
  11_child_soldiers_5000_tt: "Reduces our current §YNumber of Child Soldiers§! by §G5000§!"
- 11_sufficient_bureaucracy_tt: "Имеет, по крайней мере, §YКрупная государственная служба§! или лучше."
+ 11_sufficient_bureaucracy_tt: "Имеет, по крайней мере, §YКрупная государственная служба§! или выше."
  11_0_child_soldiers_tt: "§YКоличество детей-солдат§! §Y0§!"
  11_0_child_soldiers_recruitment_tt: "§YУровень вербовки детей-солдат§! §Y0§! или отрицательный"
 
  #Cyber Warfare
- cyber_police_requirement_tt: "Имеет §YЗначительное финансирование полиции и разведки§! или лучше"
- cyber_police_requirement_1_tt: "Имеет §YБазовое финансирование полиции и разведки§! или лучше"
- cyber_superior_tank_technology_tt: "[FROM.GetnameDef] исследована превосходная технология §YMBT§!"
- cyber_superior_mr_fighter_technology_tt: "[FROM.GetnameDef] исследована превосходная технология §Yскрытного истребителя§!"
+ cyber_police_requirement_tt: "Имеет §YВысокое финансирование полиции и разведки§! или выше"
+ cyber_police_requirement_1_tt: "Has §YBasic Police and Intelligence Funding§! or higher"
+ cyber_superior_tank_technology_tt: "[FROM.GetnameDef] has researched superior §YMBT§! technology"
+ cyber_superior_mr_fighter_technology_tt: "[FROM.GetnameDef] has researched superior §Ystealth fighter§! technology"
  cyber_democrats_tt: "Демократы потеряют §Y2%§! от своей поддержки республиканцев."
  cyber_republicans_tt: "Республиканцы потеряют §Y2%§! от своей поддержки демократов."
- small_influence_5_tt: "Получено §G5§! [ROOT.GetAdjective] влияния\n"
- small_influence_10_tt: "Получено §G10§! [ROOT.GetAdjective] влияния\n"
- small_influence_20_tt: "Получено §G20§! [ROOT.GetAdjective] влияния\n"
+ small_influence_5_tt: "Gains §G5§! [ROOT.GetAdjective] influence\n"
+ small_influence_10_tt: "Gains §G10§! [ROOT.GetAdjective] influence\n"
+ small_influence_20_tt: "Gains §G20§! [ROOT.GetAdjective] influence\n"
  cyber_attack_in_progress_tt: "Кибер-атака не начинается"
  superior_cyber_tt: "Наши вычислительные технологии не отстают от §Y[FROM.GetNameDef]§!"
  CHI_technology_inferior_tt: "Смогут совершать кибератаки на технологически превосходящие страны."
@@ -871,18 +871,18 @@
 
  #China
  CHI_bribe_decisions_tt: "Unlocks §YBribe Taiwanese Officers§! decision\n"
- CHI_increase_coup_support_tt: "Support for a coup in Taiwan increases\n"
- TAI_decrease_coup_support_tt: "Support for the government increases\n"
- TAI_relative_support_tt: "Support for the government outweights support for the coup-plotters\n"
- CHI_small_influence_tt: "Gains §G2§! Chinese influence\n"
- CHI_small_influence_5_tt: "[FROM.GetNameDef] gains §G5§! Chinese influence\n"
- CHI_small_influence_10_tt: "Gains §G10§! Chinese influence\n"
+ CHI_increase_coup_support_tt: "Поддержка переворота на Тайване растет\n"
+ TAI_decrease_coup_support_tt: "Поддержка правительства увеличивается\n"
+ TAI_relative_support_tt: "Поддержка правительства перевешивает поддержку заговорщиков\n"
+ CHI_small_influence_tt: "Получает §G2§! китайского влияния\n"
+ CHI_small_influence_5_tt: "[FROM.GetNameDef] gains §G5§! китайского влияния\n"
+ CHI_small_influence_10_tt: "Получает §G10§! Chinese influence\n"
  CHI_KOR_small_influence_10_tt: "Gains §G10§! Korean influence\n"
- CHI_small_influence_20_tt: "Gains §G20§! Chinese influence\n"
- CHI_small_influence_40_tt: "Gains §G40§! Chinese influence\n"
- JAP_influence_20_tt: "Gains §Y20§! Japanese influence\n"
- CHI_large_influence_60_tt: "Gains §R60§! Chinese influence\n"
- CHI_removes_1_5_from_treasury_TT: "Removes §R$1.5 Billion§! from the Treasury\n"
+ CHI_small_influence_20_tt: "Получает §G20§! китайского влияния\n"
+ CHI_small_influence_40_tt: "Получает §G40§! китайского влияния\n"
+ JAP_influence_20_tt: "Получает §Y20§! Japanese influence\n"
+ CHI_large_influence_60_tt: "Получает §R60§! китайского влияния\n"
+ CHI_removes_1_5_from_treasury_TT: "Будет потрачено §R$1.5 млрд§! из казны\n"
  CHI_TAI_influence_higher_10_tt: "§Y[CHI.GetNameWithFlag]§! has more than §Y10%§! influence in §Y[TAI.GetNameWithFlag]§!\n"
  CHI_TAI_influence_lower_20_tt: "§Y[CHI.GetNameWithFlag]§! has less than §Y20%§! influence in §Y[TAI.GetNameWithFlag]§!\n"
  CHI_TAI_influence_higher_20_tt: "§Y[CHI.GetNameWithFlag]§! has more than §Y20%§! influence in §Y[TAI.GetNameWithFlag]§!\n"
@@ -893,7 +893,7 @@
  CHI_VIE_influence_higher_20_tt: "§Y[CHI.GetNameWithFlag]§! has more than §Y25%§! influence in §Y[VIE.GetNameWithFlag]§!\n"
  CHI_RAJ_influence_higher_20_tt: "§Y[CHI.GetNameWithFlag]§! has more than §Y20%§! influence in §Y[RAJ.GetNameWithFlag]§!\n"
  CHI_NKO_influence_higher_40_tt: "§Y[CHI.GetNameWithFlag]§! has more than §Y40%§! influence in §Y[NKO.GetNameWithFlag]§!"
- CHI_HKG_influence_60_tt: "Gains §G60§! Chinese influence\n"
+ CHI_HKG_influence_60_tt: "Получает §G60§! китайского влияния\n"
  CHI_DPP_tt: "The £TAI_liberalism §YDemocratic Progressive Party§! loses §Y5.00%§! support to the £TAI_conservatism §YKuomintang§!\n"
  CHI_DPP_small_tt: "The £TAI_liberalism §YDemocratic Progressive Party§! loses §Y2.00%§! support to the £TAI_conservatism §YKuomintang§!\n"
  CHI_KMT_small_loss_influence_tt: "The £TAI_conservatism §YKuomintang§! loses §Y2.00%§! support to the £TAI_liberalism §YDemocratic Progressive Party§! due to fears of growing Chinese influence\n"
@@ -976,17 +976,17 @@
  CHI_JAP_warcrimes_tt: "§Y[JAP.Getnamewithflag]§! has not apologized for war crimes"
  CHI_JAP_influence_below_5_tt: "§Y[JAP.GetNameWithFlag]§! has less than §G5%§! influence in §Y[TAI.GetNameWithFlag]§!"
 
- CHI_USA_ventures_tt: "Reduces the future cost of cooperating with §YAmerican§! companies\n"
- CHI_GER_ventures_tt: "Reduces the future cost of cooperating with §YGerman§! companies\n"
- CHI_JAP_ventures_tt: "Reduces the future cost of cooperating with §YJapanese§! companies\n"
- CHI_KOR_ventures_tt: "Reduces the future cost of cooperating with §YKorean§! companies\n"
+ CHI_USA_ventures_tt: "Снижает будущие затраты на сотрудничество с §YAmerican§! companies\n"
+ CHI_GER_ventures_tt: "Снижает будущие затраты на сотрудничество с §YGerman§! companies\n"
+ CHI_JAP_ventures_tt: "Снижает будущие затраты на сотрудничество с §YJapanese§! companies\n"
+ CHI_KOR_ventures_tt: "Снижает будущие затраты на сотрудничество с §YKorean§! companies\n"
 
- CHI_influence_higher_20_tt: "Has more than §Y20%§! [CHI.GetAdjective] influence"
- CHI_influence_higher_25_tt: "Has more than §Y25%§! [CHI.GetAdjective] influence"
- CHI_influence_higher_30_tt: "Has more than §Y30%§! [CHI.GetAdjective] influence"
- CHI_influence_higher_40_tt: "Has more than §Y40%§! [CHI.GetAdjective] influence"
- CHI_influence_higher_50_tt: "Has more than §Y50%§! [CHI.GetAdjective] influence"
- CHI_influence_higher_90_tt: "Has more than §Y90%§! [CHI.GetAdjective] influence"
+ CHI_influence_higher_20_tt: "Имеет более §Y20%§! [CHI.GetAdjective] влияния"
+ CHI_influence_higher_25_tt: "Имеет более §Y25%§! [CHI.GetAdjective] влияния"
+ CHI_influence_higher_30_tt: "Имеет более §Y30%§! [CHI.GetAdjective] влияния"
+ CHI_influence_higher_40_tt: "Имеет более §Y40%§! [CHI.GetAdjective] влияния"
+ CHI_influence_higher_50_tt: "Имеет более §Y50%§! [CHI.GetAdjective] влияния"
+ CHI_influence_higher_90_tt: "Имеет более §Y90%§! [CHI.GetAdjective] влияния"
  CHI_KAZ_railway_tt: "The infrastructure level on the route through the state of §YAlmaty§! in §Y[KAZ.GetNamewithFlag]§! has been increased to level §Y6§! through Chinese investments"
  CHI_UZB_railway_tt: "The infrastructure level on the route through the states of §YFergana§! & §YTransoxiana§! in §Y[UZB.GetNamewithFlag]§! has been increased to level §Y5§! through Chinese investments"
  CHI_KYR_railway_tt: "The infrastructure level on the route through the state of §YTian Shan§! in §Y[KYR.GetNamewithFlag]§! has been increased to level §Y5§! through Chinese investments"
@@ -1003,11 +1003,11 @@
  CHI_SIA_railway_tt: "The infrastructure level on the route through the states of §YIsaan§!, §YCentral Thailand§!, §YSouthern Thailand§! and §YPattani§! in §Y[SIA.GetNamewithFlag]§! has been increased to level §Y6§! through Chinese investments"
  CHI_MAY_railway_tt: "The infrastructure level on the route through §YWestern Malaya§! and §YMalacca§! in §Y[MAY.GetNamewithFlag]§! has been increased to level §Y7§! through Chinese investments"
  CHI_VIE_railway_tt: "The infrastructure level on the route through §YNorthwest Vietnam§!, the §YRed River Delta§!, §YCentral Vietnam§! and §YSouthern Vietnam§! in §Y[VIE.GetNamewithFlag]§! and the §YMekong Plains§! and §YSouthern Khmer§! in §Y[CBD.GetNamewithFlag]§! has been increased to level §Y5§! through Chinese investments"
- signed_up_BRI_tt: "Приняли участие в инициативе "Один пояс и один путь""
- AFG_NOR_tt: "Свергнули правительство талибов"
+ signed_up_BRI_tt: "Has signed up to the Belt and Road Initiative"
+ AFG_NOR_tt: "Свергнул правительство талибов"
 
  CHI_Partnership_tt: "Modify §YPartnership§! by §YUtility Vehicle§!: £production_cost Production Cost §G-10.00%§!"
- CHI_reduce_space_tt: "Сокращение расходов на связанные с космонавтикой акценты\n"
+ CHI_reduce_space_tt: "Сокращает расходы на связанные с космонавтикой акценты\n"
 
  south_china_sea_shared_vietnam_tt: "Любая нефть, которую мы обнаружим отныне, будет передана §Y[VIE.Getnamewithflag]§!\n"
  south_china_sea_shared_malaysia_tt: "Любая нефть, которую мы обнаружим отныне, будет передана §Y[MAY.Getnamewithflag]§!\n"
@@ -1068,14 +1068,14 @@
 
  #France
  FRA_infrastructure_projects_TT: "Из-за огромного количества труда это будет стоить дорого. §YRemoves 5 Billion§!\n"
- FRA_central_decentral_TT: "§RЭто фундаментальные решения. Процесс централизации или децентрализации является довольно дорогостоящим и практически постоянным.§!\n"
- FRA_armed_forces_TT: "§YКаждая реформа будет стоить около ~$10 миллиардов долларов. Убедитесь, что вы сосредоточены должным образом§!\n"
+ FRA_central_decentral_TT: "§RЭто фундаментальные решения. Процесс централизации или децентрализации довольно дорогостоящий и почти постоянный§!\n"
+ FRA_armed_forces_TT: "§YКаждая реформа обойдется примерно в 10 миллиардов долларов. Убедитесь, что вы правильно фокусируетесь§!\n"
  FRA_med_naval_bases_TT: "\nDue to the construction of new naval bases, §Y7.5 billion dollars is removed from the treasury.§!\n"
- FRA_euro_investments_TT: "These countries receive an offer from French companies. They offer control over portions of industries in exchange for return on investments. §YEach country that accepts reduces the treasury by§! §R-1.0§! billion.\n"
+ FRA_euro_investments_TT: "Эти страны получают предложение от французских компаний. Они предлагают контроль над частью отраслей в обмен на возврат инвестиций. §YКаждая принимающая страна сокращает казначейство на §! §R-1.0§! млрд.\n"
  FRA_euro_investments_accept_TT: "§BПринятие этого позволяет французскому влиянию расти.§!\n"
  FRA_euro_investments_cost_TT: "§YОни приняли. Поэтому мы теряем ~$20 миллиардов долларов за сделку.§!\n"
- FRA_competitive_education_TT: "§YНезависимо от того, на каком уровне образования вы находитесь. Это позволит увеличить ваш бюджет на образование.§!\n"
- FRA_european_investments2_TT: "Восточноевропейские автомагистрали и транспортные системы несколько слабы. §YВ обмен мы платим за развитие автомагистралей. Каждая страна, которая принимает, сокращает казначейство:§! §R-5.0§!\n"
+ FRA_competitive_education_TT: "§YНезависимо от того, на каком уровне образования вы находитесь. Этот фокус повысит ваш бюджет на образование.§!\n"
+ FRA_european_investments2_TT: "Восточноевропейские магистрали и транспортные системы несколько слабы. §YВзамен мы платим за развитие автомобильных дорог. Каждая принимающая страна сокращает казначейство на:§! §R-5.0§!\n"
  FRA_euro_investments_2_cost_TT: "§YОни приняли. Поэтому мы потеряли ~$5 миллиардов долларов за эту сделку.§!\n"
  FRA_francosphere_TT: ""
  FRA_a_united_union_TT: "§YОбъединение Союза будет долгим процессом. Если кто-то из других европейских мейджоров решил продвинуть этот путь. Вы не сможете добиваться единой Европы.§!\n"
@@ -1085,18 +1085,18 @@
  FRA_communist_rise_and_seize_TT: "§GThe 'Parti Communiste Français' has seized power!§!\n"
  FRA_nationalist_rise_5_TT: "§YThe Nationalists Gain§! §G5%§! §YSupport!§!\n"
  FRA_nationalist_rise_10_TT: "§YThe Nationalists Gain§! §G10%§! §YSupport!§!\n"
- FRA_censorship_in_education_TT: "§YRegardless of what education standard you are at. Censorship will always reduce your education standards. It also ensure loyalty among the populace..§!\n"
+ FRA_censorship_in_education_TT: "§YНезависимо от того, на каком уровне образования вы находитесь. Цензура всегда будет снижать ваши образовательные стандарты. Это также обеспечивает лояльность населения...§!\n"
  FRA_nationalist_rise_and_seize_TT: "§YНациональный фронт захватывает власть!§!\n"
  FRA_6_billion_TT: "§YИнвестиции в SA обойдутся нам в 6 миллиардов долларов.§!\n"
- FRA_5_billion_TT: "§YСокращение законодательства всегда дорогостоящее. 5 миллиардов требуется, чтобы сократить старые правила.§!\n"
- FRA_gain_influence_TT: "§Y[This.GetName] будет выровнено ближе к франкосфере§!\n"
- FRA_gain_influence_peaceful_TT: "§Y[Prev.GetName] была приближена к нашей сфере§!\n"
- FRA_expanison_tooltip_TT: "§YЭти фокусы не покажут своих истинных эффектов до тех пор, пока вы не закончите коммунистические или националистические деревья.§!\n"
- FRA_french_candian_TT1: "§YFrench Canadian Happiness is Boosted due to French helping the Canadian government.§!\n"
- FRA_french_candian_TT2: "§YFrench Canadian Happiness is Lowered due to the French supporting the Quebecers.§!\n"
- FRA_idea_french_armored_production_TT: "§YRemoves $10.0 Billion from Treasury for the investment.§!\n"
+ FRA_5_billion_TT: "§YReducing legislation is always costly. 5 billion is required to cut back the old regulations.§!\n"
+ FRA_gain_influence_TT: "§Y[This.GetName] will be aligned closer to the Francosphere.§!\n"
+ FRA_gain_influence_peaceful_TT: "§Y[Prev.GetName] has been brought closer to our Sphere§!\n"
+ FRA_expanison_tooltip_TT: "§YЭти фокусы не покажут своего истинного эффекта, пока вы не закончите коммунистические или националистические деревья.§!\n"
+ FRA_french_candian_TT1: "§YФранко-канадское счастье растет благодаря тому, что французы помогают канадскому правительству.§!\n"
+ FRA_french_candian_TT2: "§YФранко-канадское счастье снижается из-за того, что французы поддерживают квебекцев.§!\n"
+ FRA_idea_french_armored_production_TT: "§YБудет взято $10.0 млрд из казны на инвестиции.§!\n"
  ##Things
- customs_union_tt: "§YСоздает таможенный союз.§! \n"
+ customs_union_tt: "§YСоздает Таможенный союз.§! \n"
  common_market_tt: "§YСоздает общий рынок.§! \n"
  economic_union_tt: "§YСоздает экономический союз.§! \n"
  unasur_must_control_tt: "Каждая страна в УНАСУР должна: \n - Иметь совместимые прогнозы §YOR§! \n - Быть в одном союзе §YOR§! \n - Будьте марионетками Бразилии. \n"
@@ -1108,7 +1108,7 @@
  reset_internal_faction_opinion:0 "Будут сброшены все внутренние фракционные мнения. \n"
  set_full_internal_faction_opinions: "Sets all Internal Factions to §GMax§! Opinion"
  airstrike_prepare_tooltip:0 "§R%60§! chance of producing §R3§! missiles\n§G%40§! chance of producing §G5§! missiles"
- airstrike_thingy_tooltip:0 "§R%20§! chance of failing\nIf successful:\n§R%20§! chance of reducing PKK's power by §R2§!\n§G%80§! chance of reducing PKK's power by §G5§!\n\n§GThis decision could also grant us more party popularity and approval rate!§!"
+ airstrike_thingy_tooltip:0 "§R%20§! chance of failing\nIf successful:\n§R%20§! chance of reducing PKK's power by §R2§!\n§G%80§! chance of reducing PKK's power by §G5§!\n\n§GЭто решение также может обеспечить нам большую популярность партии и уровень одобрения!§!"
  got_missiles:0 "Ракетные запасы еще не закончились"
  stockpile_not_full:0 "Мы все еще можем хранить больше ракет"
  investment_propaganda_1_tooltip:0 "§GДает рейтинг одобрения и партийную популярность. Уменьшает мощность PKK на 10 и максимальную мощность на 5, если они все еще рядом.§!"
@@ -1121,8 +1121,8 @@
  battle_for_kirkuk_tt:0 "Есть один шанс из четырех, что мы выиграем битву!"
  tooltip_annexation:0 "Этот выбор приведет к нашей аннексии и положит конец правлению! \n"
  muslim_brotherhood_crackdown_tt:0 "Will set a §RCrackdown§! on the §HMuslim Brotherhood§!\n"
- CHI_raise_influence_by_10_TT:0 "§Y[CHI.GetAdjective]§! Influence Rises by 10.\n"
- RAJ_raise_influence_by_10_TT:0 "§Y[RAJ.GetAdjective]§! Influence Rises by 10.\n"
+ CHI_raise_influence_by_10_TT:0 "§Y[CHI.GetAdjective]§! влияние возрастет на 10.\n"
+ RAJ_raise_influence_by_10_TT:0 "§Y[RAJ.GetAdjective]§! влияние возрастет на 10.\n"
  tooltip_change_flag:0 "\n([ROOT.GetFlag]§Y[ROOT.GetName]§!) Изменяет флаг, чтобы соответствовать [Root.GetRulingParty]\n"
  
  ### Japan
@@ -1214,279 +1214,126 @@
  100_billion_currently_in_treasury_tt: "Has §Y$100 Billion§! in our Treasury"
 
  #Revenues
- 100_million_revenue_tt: "Будет добавлено §Y$100 миллионов§! в нашу казну"
- 150_million_revenue_tt: "Будет добавлено §Y$150 миллионов§! в нашу казну"
- 200_million_revenue_tt: "Будет добавлено §Y$200 миллионов§! в нашу казну"
- 250_million_revenue_tt: "Будет добавлено §Y$250 миллионов§! в нашу казну"
- 300_million_revenue_tt: "Будет добавлено §Y$300 миллионов§! в нашу казну"
- 350_million_revenue_tt: "Будет добавлено §Y$350 миллионов§! в нашу казну"
- 400_million_revenue_tt: "Будет добавлено §Y$400 миллионов§! в нашу казну"
- 450_million_revenue_tt: "Будет добавлено §Y$450 миллионов§! в нашу казну"
- 500_million_revenue_tt: "Будет добавлено §Y$500 миллионов§! в нашу казну"
- 0_375_billion_revenue_tt: "Будет добавлено §Y$0.375 миллиардов§! в нашу казну"
- 0_75_billion_revenue_tt: "Будет добавлено §Y$0.75 миллиардов§! в нашу казну"
- 1_billion_revenue_tt: "Будет добавлено §Y$1 миллиардов§! в нашу казну"
- 1_5_billion_revenue_tt: "Будет добавлено §Y$1.5 миллиардов§! в нашу казну"
- 3_75_billion_revenue_tt: "Будет добавлено §Y$3.75 миллиардов§! в нашу казну"
- 2_billion_revenue_tt: "Будет добавлено §Y$2 миллиардов§! в нашу казну"
- 2_25_billion_revenue_tt: "Будет добавлено §Y$2.25 миллиардов§! в нашу казну"
- 5_billion_revenue_tt: "Будет добавлено §Y$5 миллиардов§! в нашу казну"
- 5_25_billion_revenue_tt: "Будет добавлено §Y$5.25 миллиардов§! в нашу казну"
- 7_5_billion_revenue_tt: "Будет добавлено §Y$7.50 миллиардов§! в нашу казну"
- 8_billion_revenue_tt: "Будет добавлено §Y$8 миллиардов§! в нашу казну"
- 10_billion_revenue_tt: "Будет добавлено §Y$10 миллиардов§! в нашу казну"
- 11_25_billion_revenue_tt: "Будет добавлено §Y$11.25 миллиардов§! в нашу казну"
- 12_75_billion_revenue_tt: "Будет добавлено §Y$12.75 миллиардов§! в нашу казну"
- 15_billion_revenue_tt: "Будет добавлено §Y$15 миллиардов§! в нашу казну"
- 18_75_billion_revenue_tt: "Будет добавлено §Y$18.75 миллиардов§! в нашу казну"
- 20_billion_revenue_tt: "Будет добавлено §Y$20 миллиардов§! в нашу казну"
- 25_billion_revenue_tt: "Будет добавлено §Y$25 миллиардов§! в нашу казну"
- 26_25_billion_revenue_tt: "Будет добавлено §Y$26.25 миллиардов§! в нашу казну"
- 100_billion_revenue_tt: "Будет добавлено §Y$100 миллиардов§! в нашу казну"
+ 100_million_revenue_tt: "Добавит §Y$100 миллионов§! в нашу казну"
+ 150_million_revenue_tt: "Добавит §Y$150 миллионов§! в нашу казну"
+ 200_million_revenue_tt: "Добавит §Y$200 миллионов§! в нашу казну"
+ 250_million_revenue_tt: "Добавит §Y$250 миллионов§! в нашу казну"
+ 300_million_revenue_tt: "Добавит §Y$300 миллионов§! в нашу казну"
+ 350_million_revenue_tt: "Добавит §Y$350 миллионов§! в нашу казну"
+ 400_million_revenue_tt: "Добавит §Y$400 миллионов§! в нашу казну"
+ 450_million_revenue_tt: "Добавит §Y$450 миллионов§! в нашу казну"
+ 500_million_revenue_tt: "Добавит §Y$500 миллионов§! в нашу казну"
+ 0_375_billion_revenue_tt: "Добавит §Y$0.375 миллиардов§! в нашу казну"
+ 0_75_billion_revenue_tt: "Добавит §Y$0.75 миллиардов§! в нашу казну"
+ 1_billion_revenue_tt: "Добавит §Y$1 миллиардов§! в нашу казну"
+ 1_5_billion_revenue_tt: "Добавит §Y$1.5 миллиардов§! в нашу казну"
+ 3_75_billion_revenue_tt: "Добавит §Y$3.75 миллиардов§! в нашу казну"
+ 2_billion_revenue_tt: "Добавит §Y$2 миллиардов§! в нашу казну"
+ 2_25_billion_revenue_tt: "Добавит §Y$2.25 миллиардов§! в нашу казну"
+ 5_billion_revenue_tt: "Добавит §Y$5 миллиардов§! в нашу казну"
+ 5_25_billion_revenue_tt: "Добавит §Y$5.25 миллиардов§! в нашу казну"
+ 7_5_billion_revenue_tt: "Добавит §Y$7.50 миллиардов§! в нашу казну"
+ 8_billion_revenue_tt: "Добавит §Y$8 миллиардов§! в нашу казну"
+ 10_billion_revenue_tt: "Добавит §Y$10 миллиардов§! в нашу казну"
+ 11_25_billion_revenue_tt: "Добавит §Y$11.25 миллиардов§! в нашу казну"
+ 12_75_billion_revenue_tt: "Добавит §Y$12.75 миллиардов§! в нашу казну"
+ 15_billion_revenue_tt: "Добавит §Y$15 миллиардов§! в нашу казну"
+ 18_75_billion_revenue_tt: "Добавит §Y$18.75 миллиардов§! в нашу казну"
+ 20_billion_revenue_tt: "Добавит §Y$20 миллиардов§! в нашу казну"
+ 25_billion_revenue_tt: "Добавит §Y$25 миллиардов§! в нашу казну"
+ 26_25_billion_revenue_tt: "Добавит §Y$26.25 миллиардов§! в нашу казну"
+ 100_billion_revenue_tt: "Добавит §Y$100 миллиардов§! в нашу казну"
  #Expenses
- 250_million_expense_tt: "Будет потрачено §Y$250 миллионов§! из нашей казны"
- 450_million_expense_tt: "Будет потрачено §Y$450 миллионов§! из нашей казны"
- 0_5_billion_expense_tt: "Будет потрачено §Y$0.5 миллиардов§! из нашей казны"
- 1_5_billion_expense_tt: "Будет потрачено §Y$1.5 миллиардов§! из нашей казны"
- 1_billion_expense_tt: "Будет потрачено §Y$1 миллиардов§! из нашей казны"
- 1_4_billion_expense_tt: "Будет потрачено §Y$1.4 миллиардов§! из нашей казны"
- 2_billion_expense_tt: "Будет потрачено §Y$2 миллиардов§! из нашей казны"
- 2.5_billion_expense_tt: "Будет потрачено §Y$2.5 миллиардов§! из нашей казны"
- 3_billion_expense_tt: "Будет потрачено §Y$3 миллиардов§! из нашей казны"
- 3_5_billion_expense_tt: "Будет потрачено §Y$3.5 миллиардов§! из нашей казны"
- 4_billion_expense_tt: "Будет потрачено §Y$4 миллиардов§! из нашей казны"
- 4.5_billion_expense_tt: "Будет потрачено §Y$4.5 миллиардов§! из нашей казны"
- 5_billion_expense_tt: "Будет потрачено §Y$5 миллиардов§! из нашей казны"
- 6_billion_expense_tt: "Будет потрачено §Y$6 миллиардов§! из нашей казны"
- 7_billion_expense_tt: "Будет потрачено §Y$7 миллиардов§! из нашей казны"
- 7.5_billion_expense_tt: "Будет потрачено §Y$7.5 миллиардов§! из нашей казны"
- 8_billion_expense_tt: "Будет потрачено §Y$8 миллиардов§! из нашей казны"
- 9_billion_expense_tt: "Будет потрачено §Y$9 миллиардов§! из нашей казны"
- 10_billion_expense_tt: "Будет потрачено §Y$10 миллиардов§! из нашей казны"
- 11_billion_expense_tt: "Будет потрачено §Y$11 миллиардов§! из нашей казны"
- 12_billion_expense_tt: "Будет потрачено §Y$12 миллиардов§! из нашей казны"
- 12_5_billion_expense_tt: "Будет потрачено §Y$12.5 миллиардов§! из нашей казны"
- 12_75_billion_expense_tt: "Будет потрачено §Y$12.75 миллиардов§! из нашей казны"
- 13_billion_expense_tt: "Будет потрачено §Y$13 миллиардов§! из нашей казны"
- 14_billion_expense_tt: "Будет потрачено §Y$14 миллиардов§! из нашей казны"
- 15_billion_expense_tt: "Будет потрачено §Y$15 миллиардов§! из нашей казны"
- 16_billion_expense_tt: "Будет потрачено §Y$16 миллиардов§! из нашей казны"
- 17_billion_expense_tt: "Будет потрачено §Y$17 миллиардов§! из нашей казны"
- 17_50_billion_expense_tt: "Будет потрачено §Y$17.50 миллиардов§! из нашей казны"
- 18_billion_expense_tt: "Будет потрачено §Y$18 миллиардов§! из нашей казны"
- 19_billion_expense_tt: "Будет потрачено §Y$19 миллиардов§! из нашей казны"
- 20_billion_expense_tt: "Будет потрачено §Y$20 миллиардов§! из нашей казны"
- 21_billion_expense_tt: "Будет потрачено §Y$21 миллиардов§! из нашей казны"
- 22_5_billion_expense_tt: "Будет потрачено §Y$22.5 миллиардов§! из нашей казны"
- 25_billion_expense_tt: "Будет потрачено §Y$25 миллиардов§! из нашей казны"
- 27_5_billion_expense_tt: "Будет потрачено §Y$27.5 миллиардов§! из нашей казны"
- 30_billion_expense_tt: "Будет потрачено §Y$30 миллиардов§! из нашей казны"
- 32_billion_expense_tt: "Будет потрачено §Y$32 миллиардов§! из нашей казны"
- 35_billion_expense_tt: "Будет потрачено §Y$35 миллиардов§! из нашей казны"
- 40_billion_expense_tt: "Будет потрачено §Y$40 миллиардов§! из нашей казны"
- 45_billion_expense_tt: "Будет потрачено §Y$45 миллиардов§! из нашей казны"
- 50_billion_expense_tt: "Будет потрачено §Y$50 миллиардов§! из нашей казны"
- 55_billion_expense_tt: "Будет потрачено §Y$55 миллиардов§! из нашей казны"
- 60_billion_expense_tt: "Будет потрачено §Y$60 миллиардов§! из нашей казны"
- 70_billion_expense_tt: "Будет потрачено §Y$70 миллиардов§! из нашей казны"
- 80_billion_expense_tt: "Будет потрачено §Y$80 миллиардов§! из нашей казны"
- 90_billion_expense_tt: "Будет потрачено §Y$90 миллиардов§! из нашей казны"
- 100_billion_expense_tt: "Будет потрачено §Y$100 миллиардов§! из нашей казны"
- 150_billion_expense_tt: "Будет потрачено §Y$150 миллиардов§! из нашей казны"
- 170_billion_expense_tt: "Будет потрачено §Y$170 миллиардов§! из нашей казны"
- 180_billion_expense_tt: "Будет потрачено §Y$180 миллиардов§! из нашей казны"
- 200_billion_expense_tt: "Будет потрачено §Y$200 миллиардов§! из нашей казны"
- 1_trillion_expense_tt: "Будет потрачено §Y$1.0 триллион§! из нашей казны"
+ 250_million_expense_tt: "Удалит §Y$250 миллионов§! из нашей казны"
+ 450_million_expense_tt: "Удалит §Y$450 миллионов§! из нашей казны"
+ 0_5_billion_expense_tt: "Удалит §Y$0.5 миллиардов§! из нашей казны"
+ 1_5_billion_expense_tt: "Удалит §Y$1.5 миллиардов§! из нашей казны"
+ 1_billion_expense_tt: "Удалит §Y$1 миллиардов§! из нашей казны"
+ 1_4_billion_expense_tt: "Удалит §Y$1.4 миллиардов§! из нашей казны"
+ 2_billion_expense_tt: "Удалит §Y$2 миллиардов§! из нашей казны"
+ 2.5_billion_expense_tt: "Удалит §Y$2.5 миллиардов§! из нашей казны"
+ 3_billion_expense_tt: "Удалит §Y$3 миллиардов§! из нашей казны"
+ 3_5_billion_expense_tt: "Удалит §Y$3.5 миллиардов§! из нашей казны"
+ 4_billion_expense_tt: "Удалит §Y$4 миллиардов§! из нашей казны"
+ 4.5_billion_expense_tt: "Удалит §Y$4.5 миллиардов§! из нашей казны"
+ 5_billion_expense_tt: "Удалит §Y$5 миллиардов§! из нашей казны"
+ 6_billion_expense_tt: "Удалит §Y$6 миллиардов§! из нашей казны"
+ 7_billion_expense_tt: "Удалит §Y$7 миллиардов§! из нашей казны"
+ 7.5_billion_expense_tt: "Удалит §Y$7.5 миллиардов§! из нашей казны"
+ 8_billion_expense_tt: "Удалит §Y$8 миллиардов§! из нашей казны"
+ 9_billion_expense_tt: "Удалит §Y$9 миллиардов§! из нашей казны"
+ 10_billion_expense_tt: "Удалит §Y$10 миллиардов§! from our Treasury"
+ 11_billion_expense_tt: "Удалит §Y$11 миллиардов§! из нашей казны"
+ 12_billion_expense_tt: "Удалит §Y$12 миллиардов§! из нашей казны"
+ 12_5_billion_expense_tt: "Удалит §Y$12.5 миллиардов§! из нашей казны"
+ 12_75_billion_expense_tt: "Удалит §Y$12.75 миллиардов§! из нашей казны"
+ 13_billion_expense_tt: "Удалит §Y$13 миллиардов§! из нашей казны"
+ 14_billion_expense_tt: "Удалит §Y$14 миллиардов§! из нашей казны"
+ 15_billion_expense_tt: "Удалит §Y$15 миллиардов§! из нашей казны"
+ 16_billion_expense_tt: "Удалит §Y$16 миллиардов§! из нашей казны"
+ 17_billion_expense_tt: "Удалит §Y$17 миллиардов§! из нашей казны"
+ 17_50_billion_expense_tt: "Удалит §Y$17.50 миллиардов§! из нашей казны"
+ 18_billion_expense_tt: "Удалит §Y$18 миллиардов§! из нашей казны"
+ 19_billion_expense_tt: "Удалит §Y$19 миллиардов§! из нашей казны"
+ 20_billion_expense_tt: "Удалит §Y$20 миллиардов§! из нашей казны"
+ 21_billion_expense_tt: "Удалит §Y$21 миллиардов§! из нашей казны"
+ 22_5_billion_expense_tt: "Удалит §Y$22.5 миллиардов§! из нашей казны"
+ 25_billion_expense_tt: "Удалит §Y$25 миллиардов§! из нашей казны"
+ 27_5_billion_expense_tt: "Удалит §Y$27.5 миллиардов§! из нашей казны"
+ 30_billion_expense_tt: "Удалит §Y$30 миллиардов§! из нашей казны"
+ 32_billion_expense_tt: "Удалит §Y$32 миллиардов§! из нашей казны"
+ 35_billion_expense_tt: "Удалит §Y$35 миллиардов§! из нашей казны"
+ 40_billion_expense_tt: "Удалит §Y$40 миллиардов§! из нашей казны"
+ 45_billion_expense_tt: "Удалит §Y$45 миллиардов§! из нашей казны"
+ 50_billion_expense_tt: "Удалит §Y$50 миллиардов§! из нашей казны"
+ 55_billion_expense_tt: "Удалит §Y$55 миллиардов§! из нашей казны"
+ 60_billion_expense_tt: "Удалит §Y$60 миллиардов§! из нашей казны"
+ 70_billion_expense_tt: "Удалит §Y$70 миллиардов§! из нашей казны"
+ 80_billion_expense_tt: "Удалит §Y$80 миллиардов§! из нашей казны"
+ 90_billion_expense_tt: "Удалит §Y$90 миллиардов§! из нашей казны"
+ 100_billion_expense_tt: "Удалит §Y$100 миллиардов§! из нашей казны"
+ 150_billion_expense_tt: "Удалит §Y$150 миллиардов§! из нашей казны"
+ 170_billion_expense_tt: "Удалит §Y$170 миллиардов§! из нашей казны"
+ 180_billion_expense_tt: "Удалит §Y$180 миллиардов§! из нашей казны"
+ 200_billion_expense_tt: "Удалит §Y$200 миллиардов§! из нашей казны"
+ 1_trillion_expense_tt: "Удалит §Y$1.0 триллион§! из нашей казны"
 
  ##Influence Gain
- gain_5_domestic_influence_TT: "Gain 5 §YDomestic Influence§!\n"
- gain_10_domestic_influence_TT: "Gain 10 §YDomestic Influence§!\n"
- gain_20_domestic_influence_TT: "Gain 20 §YDomestic Influence§!\n"
- gain_30_domestic_influence_TT: "Gain 30 §YDomestic Influence§!\n"
- gain_40_domestic_influence_TT: "Gain 40 §YDomestic Influence§!\n"
- gain_50_domestic_influence_TT: "Gain 50 §YDomestic Influence§!\n"
- gain_10_RAJ_influence_tt: "Gain §G10§! [RAJ.GetAdjective] influence\n"
+ gain_5_domestic_influence_TT: "Получит 5 §YВнутреннее влияние§!\n"
+ gain_10_domestic_influence_TT: "Получит 10 §YВнутреннее влияние§!\n"
+ gain_20_domestic_influence_TT: "Получит 20 §YВнутреннее влияние§!\n"
+ gain_30_domestic_influence_TT: "Получит 30 §YВнутреннее влияние§!\n"
+ gain_40_domestic_influence_TT: "Получит 40 §YВнутреннее влияние§!\n"
+ gain_50_domestic_influence_TT: "Получит 50 §YВнутреннее влияние§!\n"
+ gain_10_RAJ_influence_tt: "Получит §G10§! [RAJ.GetAdjective] влияния\n"
 
                                                                         
                                                                         
- small_influence_50_tt: "Gains §G50§! [ROOT.GetAdjective] influence\n"
- FROM_influence_50_tt: "Gains §R50§! [FROM.GetAdjective] influence\n"
+ small_influence_50_tt: "Добавит §G50§! [ROOT.GetAdjective] влияния\n"
+ FROM_influence_50_tt: "Добавит §R50§! [FROM.GetAdjective] влияния\n"
 
  #Debt
- add_1_billion_debt_tt: "Gains §R$1 Billion§! in debt\n"
- add_5_billion_debt_tt: "Gains §R$5 Billion§! in debt\n"
- subtract_6_billion_debt_tt: "§G$6 Billion§! in debt is written off\n"
- subtract_11_billion_debt_tt: "§G$11 Billion§! in debt is written off\n"
- 30_billion_debt_tt: "Has more than §Y$30 Billion§! in debt\n"
+ add_1_billion_debt_tt: "Получит §R$1 млрд§! в долг\n"
+ add_5_billion_debt_tt: "Получит §R$5 млрд§! в долг\n"
+ subtract_6_billion_debt_tt: "§G$6 млрд§! долга списывается\n"
+ subtract_11_billion_debt_tt: "§G$11 млрд§! долга списывается\n"
+ 30_billion_debt_tt: "Имеет более чем §Y$30 млрд§! долга\n"
 
  #Poland#
- POL_newpath_TT: "§YДля того, чтобы успешно пройти этот путь, Вам необходимо использовать как Фокус, так и Политическую Систему!§!"
+ POL_newpath_TT: "§YДля того, чтобы успешно пройти этот путь, вам необходимо использовать как фокус, так и политическую систему!§!"
  POL_PO_TT: "§YТакой фокус позволит партии "Гражданская платформа" захватить власть в Польше!§!"
  POL_monarchist_empowered_TT: "§YМонархисты захватывают власть в Польше!§!"
  POL_PIS_TT: "§YЭто позволит партии "Закон и Справедливость" прийти к власти в Польше!§!"
- POL_farmerincrease_TT: "§Фермеры! §Увеличьте их мнение§! правительства§!"
- POL_russianfort_TT: "§YЭтот фокус добавит укреплений к нашей границе с Калининградом!"
- POL_radicalcamp_TT: "§YЭто позволит Национальному радикальному лагерю захватить власть в Польше!§!\n"
- POL_polish_influence_5_TT: "§Y[POL.GetAdjective]§! Influence Rises.§!\n"
- POL_polish_influence_10_TT: "§Y[POL.GetAdjective]§! Influence Rises.§!\n"
- POL_lit_addmoney_10_TT: "Будет добавлено §Y$10 миллиардов§! в их казну§!\n"
- POL_form_plc_TT: "§YПольша станет Польшей-Литвой и получит притязания на литовской земле.§!\n"
+ POL_farmerincrease_TT: "§YФермеры§! §Gповысят мнение§! о правительстве§!"
+ POL_russianfort_TT: "§YЭто добавит укреплений к нашей границе с Калининградом!"
+ POL_radicalcamp_TT: "§YЭто позволит Национал-радикальному лагерю взять власть в Польше!§!\n"
+ POL_polish_influence_5_TT: "§Y[POL.GetAdjective]§! влияние растет.§!\n"
+ POL_polish_influence_10_TT: "§Y[POL.GetAdjective]§! влияние растет.§!\n"
+ POL_lit_addmoney_10_TT: "Добавит §Y$10 млрд§! в казну§!\n"
+ POL_form_plc_TT: "§YПольша станет Польшей-Литвой и получит базирование на литовской земле.§!\n"
  POL_reunification_TT: "§BЧем выше влияние на Литву, тем выше шансы, что они примут Ваше предложение!§!\n"
 
-        
-                       
-                         
-                                                                                
-                                                                                  
-                                                                                  
-                                                                                 
-                                                                                 
-                                       
-           
-             
-                                                                                             
-                                                                                              
-                                                                                                                              
-                                                                                                               
-          
-                                                                                               
-                                                                                               
-                                                                                                
-                                                                                                  
-                                                                                                
-                                                                                                
-            
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                      
-                                                                                                          
-                                                                                                          
-               
-       
-                                                                                                    
-                                                                                                    
-                                                                                                      
-       
-                                                                                                    
-                                                                                                    
-                       
-          
-                                                                                                       
-                                                                                                                
-       
-                                                                                                             
-                                                                                                             
-                  
-                                                                                                                      
-                    
-      
-                                                                                                     
-                                                                                                     
-        
-                                                                                                      
-                                                                                                      
-       
-       
-                                                                                                      
-                                                                                                      
-       
-                                                                                                       
-                                                                                                       
-             
-                                                                                                
-                                                                                                        
-                  
-                                                                                                                                                                                                                                                           
-                                                                                                                                                                                          
-            
-                                                                     
-                                                                       
-                                  
-
-                       
-                                                                                    
-                                                                                
-                                                                                                                
-                                                                                     
-                                                                            
-                                                                 
-                                                                                                      
-                                                                                
-                                                        
-                                                                                                       
                                                          
-                                                                                                              
-
-                                                                   
-                                                                          
-               
-                                                                                                          
-                                                                         
-                                                           
-
-          
-                                                                                                    
-                                                                                                    
-                                                                                                      
-                                                                                                     
-                                                                                                     
-                                                                                                     
-          
-                                                                                                
-                                                                                                
-                                                                                                  
-                                                                                                 
-                                                                                                 
-                                                                                                 
-
-          
-                                                                                          
-                                                                                          
-                                                                                          
-
-                                                                                      
-                                                                                      
-                                                                                      
-
-                        
-                                                                                                                              
-                                                                                                                               
-                                                                                                                                 
-                                                                                                                               
-                                                                                                                                
-                                                                                                                                   
-                                                                                                                                   
-                                                                                                                                      
-                                                                                                                                     
-                                                                                                                                     
-                  
-                                                                                                           
-                                                                                                           
-                                                                                                             
-                                                                                                                
-                                                                                                                
-                                                                                                                  
-                     
-                                                                                                                      
-                                                                                                                      
-                                                                                                                        
-                                                                                                                       
-                                                                                                                       
-                                                                                                                           
-                                                                                                                           
-                                                                                                                             
-                                                                                                                            
-                                                                                                                            
-                           
-                                                                                                                         
-                                                                                                                         
-                                                                                                                           
-                                                                                                                          
-                                                                                                                          
-                                                                                                                              
-                                                                                                                              
-                                                                                                                                
                                                                                                                                
                                                                                                                                
 
@@ -1622,7 +1469,7 @@
  ##эффекты
  UKR_try_to_reach_an_agreement_TT: "§YФормирует коалицию с коммунистами.§!\n"
  UKR_crimea_tooltip_TT: "§YАкцент будет иметь свои последствия в зависимости от того, что решит Россия§!\n"
- UKR_reorganize_the_national_guard_focus_TT: "§YРазблокировано решение о переоргнации Национальной гвардии Украины.§!\n"
+ UKR_reorganize_the_national_guard_focus_TT: "§YРазблокировано решение о переорганизации Национальной гвардии Украины.§!\n"
  UKR_hyperloop_project_focus_TT: "Строит максимальную инфраструктуру от §YКиева§! до §YЗапорожье§!\n"
  UKR_infrastructure_project_TT: "Эффекты изменятся, как только у вас будет §YИнфраструктурные проекты§! или §YИнфраструктурные проекты 2§!\n"
  UKR_baltic_black_sea_dialogue_focus_TT: "§YТакой фокус даст любые страны, поддерживающие Черноморский Союз, взаимные гарантии§!\n"
@@ -1631,8 +1478,8 @@
  UKR_revive_the_black_sea_fleet_effect_TT: "Снимает с казначейства $1.0"
  UKR_temp_focus_placeholder_until_tech_TT: "Это просто временные эффекты до тех пор, пока техника Nuke не будет прочитана."
  ##Триггеры
- UKR_nato_major_influence_greater_than_10_percent_TT: "Требуется больше чем §Y10%§! Влияние от §Y[ENG.GetNameWithFlag]§!, §Y[USA.GetNameWithFlag]§!, §Y[GER.GetNameWithFlag]§!, или §Y[FRA.GetNameWithFlag]§!"
- UKR_east_major_influence_greater_than_10_perecnt_TT: "Требуется больше чем §Y10%§! Влияние от §Y[SOV.GetNameWithFlag]§! или §Y[CHI.GetNameWithFlag]§!"
+ UKR_nato_major_influence_greater_than_10_percent_TT: "Требуется больше, чем §Y10%§! влияния от §Y[ENG.GetNameWithFlag]§!, §Y[USA.GetNameWithFlag]§!, §Y[GER.GetNameWithFlag]§!, или §Y[FRA.GetNameWithFlag]§!"
+ UKR_east_major_influence_greater_than_10_perecnt_TT: "Требуется больше, чем §Y10%§! влияния от §Y[SOV.GetNameWithFlag]§! или §Y[CHI.GetNameWithFlag]§!"
 
  ###Английские подсказки
  ##Прибыли/убытки от партии
@@ -1651,11 +1498,11 @@
 
 
  ##Швитерсланд
- SWI_italian_forts_TT: "Будет потрачено §Y$5.6 Миллиард§! из нашей казны\n"
- SWI_german_forts_TT: "Будет потрачено §Y$2.2 Миллиард§! из нашей казны\n"
- SWI_french_forts_TT: "Будет потрачено §Y$3.2 Миллиард§! из нашей казны\n"
+ SWI_italian_forts_TT: "Удалить §Y$5.6 Миллиард§! из нашей казны\n"
+ SWI_german_forts_TT: "Удалить §Y$2.2 Миллиард§! из нашей казны\n"
+ SWI_french_forts_TT: "Удалить §Y$3.2 Миллиард§! из нашей казны\n"
  SWI_additional_military_facilities_TT: "§RЕсли вы контролируете Австрию, этот фокус добавит больше военных заводов.§!.\nСтоимость каждой фабрики, построенной с учетом этой цели,§Y$5 Billion§! в нашу казну\n"
 
  ##
  ##Iran
-PER_increase_influence_5_TT: "Увеличение иранского влияния на 5"
+PER_increase_influence_5_TT: "Увеличить 5 иранское влияние"

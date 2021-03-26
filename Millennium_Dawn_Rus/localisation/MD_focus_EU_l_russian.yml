@@ -612,8 +612,8 @@
 
 
  
- EU704: "Rejoin"
- EU704_desc: "Leaving the Union doesn't mean leaving forever. A country can rejoin after an Exit."
+ EU704: "Присоединение"
+ EU704_desc: "Уйти из Союза не значит уйти навсегда. Страна может воссоединиться после выхода."
  ### Focus Availability Tooltip Loc ###
  tooltip_focus_EU001_availability:0 ""
  tooltip_focus_EU002_availability:0 "§Y[ROOT.GetNameWithFlag]§! является потенциальным членом ЕС, но еще не имеет статуса кандидата в члены ЕС."

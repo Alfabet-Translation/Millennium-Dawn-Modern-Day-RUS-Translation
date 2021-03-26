@@ -1,13 +1,17 @@
 ﻿l_russian:
  MD_RULES:0 "Правила Millennium Dawn"
+
+ RULE_REMOVE_MICRO_STATES: "Удаление микрогосударств"
+ RULE_YES_RULE_REMOVE_MICRO_STATES_DESC: "Удаление микрогосударств должно повысить производительность машин нижнего уровня.\nБольшинство карибских государств будут присоединены к Великобритании, Багамские острова - к США, Тринидад - к Венесуэле, а все микрогосударства Европы - к их ближайшему благодетелю."
+ RULE_NO_RULE_REMOVE_MICRO_STATES_DESC: "Удаление микрогосударств должно повысить производительность машин нижнего уровня.\n"
  
  RULE_RELEASE_VATICAN_STATE:0 "Освободить Ватикан"
- RULE_YES_RELEASE_VATICAN_STATE_DESC:0 "Ватикан станет игровой страной. В игре откройте консоль и введите «tag HLS», ​​чтобы играть за него."
- RULE_NO_RELEASE_VATICAN_STATE_DESC:0 "Ватикан не будет играбельной страной."
+ RULE_YES_RELEASE_VATICAN_STATE_DESC:0 "Ватикан станет игровой страной. В игре откройте консоль и введите «tag HLS», ​​чтобы играть за него"
+ RULE_NO_RELEASE_VATICAN_STATE_DESC:0 "Ватикан не будет играбельной страной"
  
  RULE_DISABLE_NUKES: "Отключить ядерное оружие"
- RULE_YES_DISABLE_NUKES_DESC: "Ядерное оружие не будет разрешено."
- RULE_NO_DISABLE_NUKES_DESC: "Ядерное оружие не будет разрешено."
+ RULE_YES_DISABLE_NUKES_DESC: "Ядерное оружие не будет разрешено"
+ RULE_NO_DISABLE_NUKES_DESC: "Ядерное оружие не будет разрешено"
  
  RULE_DISABLE_NATO:0 "Отключить НАТО"
  RULE_YES_DISABLE_NATO_DESC:0 "НАТО будет отключена при загрузке в игру"
@@ -18,10 +22,10 @@
  RULE_NO_DISABLE_EU_DESC:0 "Европейский Союз будет существовать как есть"
  
  RULE_DISABLE_ANTI_BULLY:0 "Отключить систему антитравли"
- RULE_YES_ANTI_BULLY_DESC:0 "Отключите систему антитравли, которая позволит вам быть поджигателем войн без штрафов"
+ RULE_YES_ANTI_BULLY_DESC:0 "Отключите систему антитравли, которая позволит вам быть разжигателем войн без штрафов"
  RULE_NO_ANTI_BULLY_DESC:0 "Система антитравли будет включена"
  
- RULE_SALAFIST_BRANCH: "Включить Salfist Branch"
+ RULE_SALAFIST_BRANCH: "Включить Салафитскую ветвь"
  RULE_YES_SALAFIST_BRANCH_DESC: "Включает ветвь салафитов в общем дереве всех наций"
  RULE_NO_SALAFIST_BRANCH_DESC: "Салафитская ветвь в общем древе суннитских народов"
  
@@ -29,25 +33,28 @@
  RULE_YES_MD_CHAOS_MODE_DESC:0 "Включает режим MD Chaos"
  RULE_NO_MD_CHAOS_MODE_DESC:0 "Отключает режим MD Chaos"
  
- RULE_ENABLE_DIVISION_LIMITER: "Enable AI Division Limiter"
- RULE_NO_ENABLE_DIVISION_LIMITER_DESC: "Disabled AI Division Limiter\n\nBy default the AI will not be limited in the number of units it can produce. If you wish to limit the divisions for performance reasons please enable me!"
- RULE_YES_ENABLE_DIVISION_LIMITER_DESC: "Enabled AI Division Limiter\n\nWhen I am enabled the AI will be less likely to produce units allowing for more of a streamline experienced to allow you the player to play with relative peace!"
+ RULE_ENABLE_DIVISION_LIMITER: "Включить ограничитель дивизий AI"
+ RULE_NO_ENABLE_DIVISION_LIMITER_DESC: "Выключить ограничитель дивизий AI\n\nПо умолчанию ИИ не будет ограничен в количестве единиц, которые он может производить. Если вы хотите ограничить дивизии по соображениям производительности, сделайте это!"
+ RULE_YES_ENABLE_DIVISION_LIMITER_DESC: "Включить ограничитель дивизий AI\n\nКогда функция будет включена, ИИ будет с меньшей вероятностью производить юниты, что позволит более опытному игроку управлять с относительным спокойствием!"
+ RULE_OPTION_POTATO_EDITION: "Картофельное издание"
+ RULE_POTATO_EDITION_DIVISION_LIMITER_DESC: "Включает ограничитель дивизий AI "Potato Edition"\n\nЕще больше ограничивает ИИ по соображениям производительности\n"
+
  RULE_ALLOW_CHEAT_DECISIONS:0 "Разрешить чит-решения"
  RULE_YES_ALLOW_CHEAT_DECISIONS_DESC:0 "Решения для читов включены"
  RULE_NO_ALLOW_CHEAT_DECISIONS_DESC:0 "Чит-решения отключены"
  
- RULE_ALLOW_TOGGLING_CHEAT_DECISIONS:0 "§Y(Multiplayer)§! (Необязательный) Разрешить переключать решения читерства во всем мире"
- RULE_YES_ALLOW_TOGGLING_CHEAT_DECISIONS_DESC:0 "Включено переключение глобальных чит-решений\n§YПРИМЕЧАНИЕ:§! Любая нация в мире может переключать чит-решения, и последствия таковы §Yglobal§!. Появится событие, сообщающее, какая нация его переключает.\n§YВы должны убедиться, что вам разрешено использовать решение в многопользовательской игре!§!\n\n§YПРИМЕЧАНИЕ:§! Вам также нужно включить правило игры «Разрешить чит-решения», если вы хотите использовать читы!"
- RULE_NO_ALLOW_TOGGLING_CHEAT_DECISIONS_DESC:0 "Глобальные чит-решения отключены\n§YПРИМЕЧАНИЕ:§! Любая нация в мире может переключать чит-решения, и последствия таковы §Yglobal§!. Появится событие, сообщающее, какая нация его переключает.\n§YВы должны убедиться, что вам разрешено использовать решение в многопользовательской игре!§!\n\n§YПРИМЕЧАНИЕ:§! Вам также нужно включить правило игры «Разрешить чит-решения», если вы хотите использовать читы!"
- RULE_ALLOW_RECALL_INTERVENTION_FORCES: "Разрешить отозвать силы вмешательства"
- RULE_YES_ALLOW_INTERVENTION_FORCES: "§YПРИМЕЧАНИЕ: Это не сбалансировано и является лишь временной мерой для того, чтобы делать все, что вы хотите. Любые проблемы с волонтерами и другие вопросы не являются нашей заботой.§! Позволяет тебе отозвать силы вмешательства из стран.\n"
+ RULE_ALLOW_TOGGLING_CHEAT_DECISIONS:0 "§Y(Multiplayer)§! Читерство в мире"
+ RULE_YES_ALLOW_TOGGLING_CHEAT_DECISIONS_DESC:0 "(не обязательно) Включено переключение глобальных чит-решений\n§YПРИМЕЧАНИЕ:§! Любая нация в мире может переключать чит-решения, и последствия §Yглобальны§!. Появится событие, сообщающее, какая нация его переключает.\n§YВы должны убедиться, что вам разрешено использовать решение в многопользовательской игре!§!\n\n§YПРИМЕЧАНИЕ:§! Вам также нужно включить правило игры «Разрешить чит-решения», если вы хотите использовать читы!"
+ RULE_NO_ALLOW_TOGGLING_CHEAT_DECISIONS_DESC:0 "(не обязательно) Глобальные чит-решения отключены\n§YПРИМЕЧАНИЕ:§! Любая нация в мире может переключать чит-решения, и последствия §Yглобальны§!. Появится событие, сообщающее, какая нация его переключает.\n§YВы должны убедиться, что вам разрешено использовать решение в многопользовательской игре!§!\n\n§YПРИМЕЧАНИЕ:§! Вам также нужно включить правило игры «Разрешить чит-решения», если вы хотите использовать читы!"
+ RULE_ALLOW_RECALL_INTERVENTION_FORCES: "Разрешить отзыв сил вмешательства"
+ RULE_YES_ALLOW_INTERVENTION_FORCES: "§YПРИМЕЧАНИЕ: Это не сбалансировано и является лишь временной мерой для того, чтобы делать все, что вы хотите. Любые проблемы с волонтерами и другие вопросы не являются нашей заботой.§! Позволяет игроку отозвать силы вмешательства из стран.\n"
  RULE_NO_ALLOW_INTERVENTION_FORCES: "§YПо умолчанию§!. Не позволяет отозвать силы вмешательства из внешних конфликтов."
- RULE_OPTION_MD_DEFAULT: "Поведение ИИ по умолчанию"
+ RULE_OPTION_MD_DEFAULT: "По умолчанию"
  RULE_OPTION_MD_DEFAULT_AI_DESC: "ИИ будет выбирать фокусы случайным образом с небольшим акцентом на исторический выбор. Мировое состояние и статус страны немного повлияют на выбор"
  AI_CHAOS: "Хаотическое поведение ИИ"
- AI_CHAOS_DESC: "ИИ всегда будет выбирать совершенно случайный фокус из всех доступных в настоящее время фокусов. Все фокусы равны, максимальная путаница гарантирована."
+ AI_CHAOS_DESC: "ИИ всегда будет выбирать совершенно случайный фокус из всех доступных в настоящее время. Все фокусы равны, максимальная путаница гарантирована"
  RULE_OPTION_RANDOM: "Случайное поведение ИИ"
- RULE_OPTION_RANDOM_DESC: "ИИ будет случайным образом выбирать нехаотический путь."
+ RULE_OPTION_RANDOM_DESC: "ИИ будет случайным образом выбирать нехаотический путь"
 
  ###Country AI Game Rules
  RUS_AI_BEHAVIOR:0 "@SOV Российская Федерация"
@@ -62,9 +69,9 @@
  
  USA_AI_BEHAVIOR:0 "@USA Соедённые Штаты Америки"
  RULE_OPTION_STATUS_QUO:0 "Статус-кво"
- RULE_OPTION_STATUS_QUO_AI_DESC:0 "Соединенные Штаты будут стремиться сохранить свой статус-кво и держать страну в узде."
+ RULE_OPTION_STATUS_QUO_AI_DESC:0 "США будут стремиться сохранить свой статус-кво и держать страну в узде"
  RULE_OPTION_POLITICAL_REFORM:0 "Политические реформы"
- RULE_OPTION_POLITICAL_REFORM_AI_DESC:0 "Соединенные Штаты начнут проводить все более масштабные реформы политической системы. В конечном счете это позволит более мелким партиям участвовать в выборах в большем количестве.\n"
+ RULE_OPTION_POLITICAL_REFORM_AI_DESC:0 "США начнут проводить все более масштабные реформы политической системы. В конечном счете, это позволит более мелким партиям участвовать в выборах в большем количестве.\n"
  RULE_OPTION_POLITICAL_REVOULUTION:0 "Политическая революция"
  RULE_OPTION_POLITICAL_REVOULUTION_AI_DESC:0 "Огонь революции будет зажжен в народе. Она может идти одним из двух путей: национализм и подъем правых популистов в Соединенных Штатах или подъем коммунистических Штатов Америки."
  
@@ -75,14 +82,14 @@
  RULE_OPTION_PDP_EMPOWERED:0 "Народно-демократическая партия"
  RULE_OPTION_PDP_EMPOWERED_AI_DESC:0 "Народно-демократическая партия - одна из крупнейших партий Нигерии. Она выступает, в первую очередь, за христианскую сторону религиозного спектра и неприсоединившихся идеологий."
  RULE_OPTION_ANPP_EMPOWERED:0 "Все-нигерийская народная партия"
- RULE_OPTION_ANPP_EMPOWERED_AI_DESC:0 "Все нигерийская народная партия (или Прогрессивный демократический конгресс в 2017 году) является основной оппозиционной партией в 2000 году в Нигерии. Важно отметить, что они очень похожи на социал-демократию в Европе и выступают за проведение крупных реформ в стране Нигерия."
+ RULE_OPTION_ANPP_EMPOWERED_AI_DESC:0 "Нигерийская народная партия (или Прогрессивный демократический конгресс в 2017 году) является основной оппозиционной партией в 2000 году в Нигерии. Важно отметить, что они очень похожи на социал-демократию в Европе и выступают за проведение крупных реформ в стране."
  
  #France
  FRA_AI_BEHAVIOR_MD:0 "@FRA Республика Франция"
  RULE_OPTION_FRA_HISTORICAL:0 "Историческое поведение ИИ"
  RULE_OPTION_FRA_HISTORICAL_DESC:0 "Франция останется с Западом и одним из лидеров ЕС. Франция будет стараться приблизить Европейский Союз к большей централизации, сохраняя при этом свое влияние в своих старых колониях."
  RULE_OPTION_FRA_EGALITE:0 "Равенство"
- RULE_OPTION_FRA_EGALITE_DESC:0 "Франция выберет равенства и пойдет по пути марксизма."
+ RULE_OPTION_FRA_EGALITE_DESC:0 "Франция выберет равенство и пойдет по пути марксизма."
  RULE_OPTION_FRA_FRATERNITE:0 "Братство"
  RULE_OPTION_FRA_FRATERNITE_DESC:0 "Франция выберет Братство и будет стремиться доминировать в Европе."
  
@@ -133,40 +140,57 @@
 
  #Saudi Arabia
  SAU_AI_BEHAVIOR: "@SAU Королевство Саудовская Аравия"
- RULE_OPTION_GLOBAL_JIHAD_GCC_FIRST: "Глобальный джихад - GCC First"
+ RULE_OPTION_GLOBAL_JIHAD_GCC_FIRST: "Глобальный джихад - GCC Первая"
  RULE_OPTION_GLOBAL_JIHAD_GCC_FIRST_AI_DESC: "Саудовская Аравия попытается реформировать свою экономику и объединить ССАГПЗ как супергосударство. Затем саудовская монархия будет свергнута восстанием "Аль-Каиды", что приведет к созданию радикального исламского государства, стремящегося распространять свою фундаменталистскую идеологию насильственными методами."
  RULE_OPTION_GLOBAL_JIHAD: "Глобальный джихад"
  RULE_OPTION_GLOBAL_JIHAD_AI_DESC: "Саудовская монархия будет свергнута восстанием "Аль-Каиды", что приведет к созданию радикального исламского государства, стремящегося распространять свою фундаменталистскую идеологию насильственными методами."
  RULE_OPTION_ISLAMIC_AWAKENING: "Исламское пробуждение"
  RULE_OPTION_ISLAMIC_AWAKENING_AI_DESC: "Влияние "Братьев-мусульман" на Сахву, или "Движение пробуждения", окажет успешное давление на саудовскую монархию, чтобы она уступила место плюралистической исламской демократии."
- RULE_OPTION_RETURN_OF_THE_BAATH: "Возвращение Баата"
+ RULE_OPTION_RETURN_OF_THE_BAATH: "Возвращение Бааса"
  RULE_OPTION_RETURN_OF_THE_BAATH_AI_DESC: "Саудовская Аравия будет постепенно либерализовываться, предоставляя возможность уникальной идеологии социалистического арабского национализма партии Баас закрепиться в стране. Баасовая Аравия затем будет стремиться изгнать иностранные войска с Ближнего Востока, а также расширить свою территорию."
  RULE_OPTION_SHIA_REVIVAL: "Возрождение шиитов"
  RULE_OPTION_SHIA_REVIVAL_AI_DESC: "Шииты Саудовской Аравии воспользуются возможностью, предоставляемой политической либерализацией, чтобы захватить Саудовскую Аравию, приведя страну в соответствие с Ираном и Россией."
 #UK
- BRI_AI_BEHAVIOR: "@ENG United Kingdom"
- RULE_OPTION_EUROPEAN_FUTURE: "A European Future"
- RULE_OPTION_EUROPEAN_FUTURE_AI_DESC: "The United Kingdom is not what it once was. No longer can Britain claim to be a global superpower. But that does not mean that the British people must no longer play a role on the world stage, with the European project providing hope for the preservation of Britain's place in the world as part of a broader community of nations committed to a shared set of ideals."
- RULE_OPTION_RED_REPUBLIC: "The Red Republic"
- RULE_OPTION_RED_REPUBLIC_AI_DESC: "For the entirety of its history, Great Britain has been subjugated by monarchs, aristocrats and nobles. The British class system is one of the most infamous in the world, with Britain's working poor suffering as the wealthy grow richer. A revolution has been long in the making."
- RULE_OPTION_RULE_BRITANNIA: "Rule Britannia"
- RULE_OPTION_RULE_BRITANNIA_AI_DESC: "Once, this sceptered isle was known and feared the world over. The British monarch presided over the empire upon which the sun never set. Now however, Britain's international position has fallen into decline. A mere lackey of the United States, a shadow of its former self. The time has come for the British Empire to be restored."
+ BRI_AI_BEHAVIOR: "@ENG Великобритания"
+ RULE_OPTION_EUROPEAN_FUTURE: "Европейское будущее"
+ RULE_OPTION_EUROPEAN_FUTURE_AI_DESC: "Великобритания уже не та, что была когда-то. Британия больше не может претендовать на роль мировой сверхдержавы. Но это не означает, что британский народ больше не должен играть роль на мировой арене, а европейский проект дает надежду на сохранение места Великобритании в мире как части более широкого сообщества наций, приверженных общему набору идеалов."
+ RULE_OPTION_RED_REPUBLIC: "Красная Республика"
+ RULE_OPTION_RED_REPUBLIC_AI_DESC: "На протяжении всей своей истории Великобритания была покорена монархами, аристократами и дворянами. Британская классовая система-одна из самых печально известных в мире, и британская рабочая беднота страдает по мере того, как богатые становятся богаче. Революция уже давно назревает."
+ RULE_OPTION_RULE_BRITANNIA: "Правь Британией"
+ RULE_OPTION_RULE_BRITANNIA_AI_DESC: "Когда-то этот остров со скипетром был известен и внушал страх всему миру. Британский монарх правил империей, над которой никогда не заходило солнце. Однако теперь международное положение Великобритании пришло в упадок. Простой лакей Соединенных Штатов, тень самого себя. Пришло время восстановить Британскую империю."
 
  #Greece
- GRE_AI_BEHAVIOR: "@GRE Greece"
- RULE_HELLENIC_REPUBLIC: "Historical"
- RULE_HELLENIC_REPUBLIC_DESC: "Greece will mantain Democracy and will attempt to solve the Greek debt crisis by means of austerity measures"
- RULE_OPTION_KKE: "KKE"
- RULE_OPTION_KKE_DESC: "After discontent at the government grows due to the problems caused by the debt crisis the people will strengthen the Communist Party Of Greece and will attempt to create a Communist state"
- RULE_OPTION_GOLDEN_DAWN: "Golden Dawn"
- RULE_OPTION_GOLDEN_DAWN_DESC: "After discontent at the government grows due to the problems caused by the debt crisis the people will strengthen the Nationalist Golden Dawn party and will attempt to create a powerful Greek state"
+ GRE_AI_BEHAVIOR: "@GRE Греция"
+ RULE_HELLENIC_REPUBLIC: "Исторический"
+ RULE_HELLENIC_REPUBLIC_DESC: "Греция сохранит демократию и попытается решить греческий долговой кризис с помощью мер жесткой экономии."
+ RULE_OPTION_KKE: "КПГ"
+ RULE_OPTION_KKE_DESC: "После того как недовольство правительством вырастет из-за проблем, вызванных долговым кризисом, народ усилит Коммунистическую партию Греции и попытается создать коммунистическое государство."
+ RULE_OPTION_GOLDEN_DAWN: "Золотая заря"
+ RULE_OPTION_GOLDEN_DAWN_DESC: "После того как недовольство правительством вырастет из-за проблем, вызванных долговым кризисом, народ усилит националистическую партию "Золотая заря" и попытается создать мощное греческое государство."
 
  #Edgy Flags
- RULE_ALLOW_EDGY_FLAGS: "Allow controversial fascist flags"
- RULE_ALLOW_EDGY_FLAGS_BLOCKED_DESC: "Will use substitute 'safe' fascist flags for certain nations."
- RULE_ALLOW_EDGY_FLAGS_ALLOWED_DESC: "Will use 'accurate' flags of fascist movements. WARNING: LIKELY TO CAUSE DEMONETISATION"
+ RULE_ALLOW_EDGY_FLAGS: "Разрешить фашистские флаги"
+ RULE_ALLOW_EDGY_FLAGS_BLOCKED_DESC: "Будут использовать заменители "безопасных" фашистских флагов для определенных наций"
+ RULE_ALLOW_EDGY_FLAGS_ALLOWED_DESC: "Будут использовать точные исторические флаги фашистских движений и партий. ПРЕДУПРЕЖДЕНИЕ: МОЖЕТ ПРИВЕСТИ К ДЕМОНЕТИЗАЦИИ"
 
  #Edgy Flags
- RULE_ALLOW_MULTIPLE_FORMABLES: "Allow multiple of the same formable"
- RULE_ALLOW_MULTIPLE_FORMABLES_BLOCKED_DESC: "Only allow a specific formable to be formed by one nation."
- RULE_ALLOW_MULTIPLE_FORMABLES_ALLOWED_DESC: "Allow the same formable to be formed by any nation that meet the conditions (can have rival Arab Unions). Flags are set up so it is likely they will be unique, however not guarenteed."
+ RULE_ALLOW_MULTIPLE_FORMABLES: "Несколько одинаковых формирований"
+ RULE_ALLOW_MULTIPLE_FORMABLES_BLOCKED_DESC: "Позволить лишь конкретному формированию быть сформированным одной нацией"
+ RULE_ALLOW_MULTIPLE_FORMABLES_ALLOWED_DESC: "Позвольте же формированиям быть доступными любой нации, которая удовлетворяет условиям (может иметь соперничающие арабские союзы). Флаги настроены так, что вполне вероятно, что они будут уникальными, но не гарантированно."
+
+#Random Ideologies
+ MD_RANDOM_RULES: "Правила рандомайзера"
+ RULE_RANDOM_IDEOLOGIES: "Рандомизация идеологий"
+ RULE_RANDOM_IDEOLOGIES_NO_DESC: "Все народы сохраняют свое историческое мировоззрение"
+ RULE_RANDOM_IDEOLOGIES_YES_DESC: "Все нации теперь будут иметь случайный политический взгляд"
+
+ #Random Religions
+ RULE_RANDOM_RELIGION: "Рандомизация религий"
+ RULE_RANDOM_RELIGION_NO_DESC: "Все народы сохраняют свои исторические религии"
+ RULE_RANDOM_RELIGION_YES_DESC: "Все народы имеют рандомизированные религии"
+
+ #Internal Factions
+ RULE_RANDOM_INTERNAL_FACTIONS: "Рандомизация внутренних фракций"
+ RULE_RANDOM_INTERNAL_FACTIONS_NO_DESC: "Все народы сохраняют свои исторические внутренние фракции"
+ RULE_RANDOM_INTERNAL_FACTIONS_YES_DESC: "Все нации имеют рандомизированные внутренние фракции"
+

@@ -23,7 +23,7 @@
  SER_fight_the_corruption:0 "Борьба с коррупцией"
  SER_fight_the_corruption_desc:0 "В процессе"
 
- SER_recognize_kosovo:0 "Признать Косово"
+ SER_recognize_kosovo:0 "Признание Косово"
  SER_recognize_kosovo_desc:0 "В процессе"
 
  SER_give_more_autonomy_to_kosovo:0 "Дать больше автономии Косово"
@@ -44,19 +44,19 @@
  SER_the_euro:0 "Евро"
  SER_the_euro_desc:0 "В процессе"
 
- SER_the_budapest_belgrad_sofia_line:0 "Будапешт Белград София"
+ SER_the_budapest_belgrad_sofia_line:0 "Будапешт-Белград-София"
  SER_the_budapest_belgrad_sofia_line_desc:0 "В процессе"
 
- SER_seek_foreign_industrial_investments:0 "Искать иностранные промышленные инвестиции"
+ SER_seek_foreign_industrial_investments:0 "Поиск иностранных промыш. инвестиций"
  SER_seek_foreign_industrial_investments_desc:0 "В процессе"
 
- SER_fiat_investments:0 "Инвестиции Фиат"
+ SER_fiat_investments:0 "Инвестиции Fiat"
  SER_fiat_investments_desc:0 "В процессе"
 
- SER_volkswagen_investments:0 "Инвестиции Фольксваген"
+ SER_volkswagen_investments:0 "Инвестиции Volkswagen"
  SER_volkswagen_investments_desc:0 "В процессе"
 
- SER_improve_the_welfare_system:0 "Улучшить систему социального обеспечения"
+ SER_improve_the_welfare_system:0 "Улучшение системы соц. обеспечения"
  SER_improve_the_welfare_system_desc:0 "В процессе"
 
  SER_university_of_belgrad:0 "Белградский университет"
@@ -80,7 +80,7 @@
  SER_befriend_neighbours:0 "Подружиться с соседями"
  SER_befriend_neighbours_desc:0 "В процессе"
 
- SER_develop_national_car_industry:0 "Развивать нац. автомоб. промышленность"
+ SER_develop_national_car_industry:0 "Развивать нац. автопром"
  SER_develop_national_car_industry_desc:0 "В процессе"
 
  SER_zastava_automobili:0 "Автозавод Застава"
@@ -134,7 +134,7 @@
  SER_befriend_montenegro:0 "Подружиться с Черногорией"
  SER_befriend_montenegro_desc:0 "В процессе"
 
- SER_invite_montenegro_to_csto:0 "Пригласить Черногорию в Csto"
+ SER_invite_montenegro_to_csto:0 "Пригласить Черногорию в CSTO"
  SER_invite_montenegro_to_csto_desc:0 "В процессе"
 
  SER_the_conscription_reform:0 "Реформа по призыву"
@@ -146,13 +146,13 @@
  SER_promote_the_nationalism:0 "Продвигать национализм"
  SER_promote_the_nationalism_desc:0 "В процессе"
 
- SER_put_an_end_to_liberty_of_speech:0 "Положить конец свободе слова"
+ SER_put_an_end_to_liberty_of_speech:0 "Конец свободе слова"
  SER_put_an_end_to_liberty_of_speech_desc:0 "В процессе"
 
  SER_limit_the_freedom_of_religion:0 "Ограничить свободу вероисповедания"
  SER_limit_the_freedom_of_religion_desc:0 "В процессе"
 
- SER_claim_the_old_yugoslavian_borders:0 "Требовать старых югославских границ"
+ SER_claim_the_old_yugoslavian_borders:0 "Требование старых югославских границ"
  SER_claim_the_old_yugoslavian_borders_desc:0 "В процессе"
 
  SER_secure_the_access_to_the_see:0 "Безопасный доступ к морю"
@@ -170,22 +170,22 @@
  SER_strengthen_the_slavic_identity:0 "Укрепить славянскую идентичность"
  SER_strengthen_the_slavic_identity_desc:0 "В процессе"
 
- SER_nationalism_befriend_russia:0 "Национализм - подружиться с Россией"
+ SER_nationalism_befriend_russia:0 "Национализм - дружба с Россией"
  SER_nationalism_befriend_russia_desc:0 "В процессе"
 
- SER_improve_the_research_budget:0 "Увеличить бюджет исследований"
+ SER_improve_the_research_budget:0 "Увеличение бюджета исследований"
  SER_improve_the_research_budget_desc:0 "В процессе"
 
- SER_zastava_arms:0 "Застава Оружие"
+ SER_zastava_arms:0 "Zastava Arms"
  SER_zastava_arms_desc:0 "В процессе"
 
- SER_krusik_valjevo:0 "Крусик Валево"
+ SER_krusik_valjevo:0 "Krusik Valjevo"
  SER_krusik_valjevo_desc:0 "В процессе"
 
  SER_srbijagas:0 "Сербиягаз"
  SER_srbijagas_desc:0 "В процессе"
 
- SER_nicolas_tesla_powerplant:0 "Силовая установка Николаса Тесла"
+ SER_nicolas_tesla_powerplant:0 "Силовая установка Николы Теслы"
  SER_nicolas_tesla_powerplant_desc:0 "В процессе"
 
  SER_expend_the_industrial_zones:0 "Расходы на промышленные зоны"
@@ -218,7 +218,7 @@
  SER_influence_bulgaria:0 "Влияние в Болгарии"
  SER_influence_bulgaria_desc:0 "В процессе"
 
- SER_stage_a_coup_in_bulgaria:0 "Устроить переворот в Болгарии"
+ SER_stage_a_coup_in_bulgaria:0 "Переворот в Болгарии"
  SER_stage_a_coup_in_bulgaria_desc:0 "В процессе"
 
  SER_ultimatum_to_greece:0 "Ультиматум Греции"
@@ -239,7 +239,7 @@
  SER_influence_the_neighbours:0 "Влияние соседей"
  SER_influence_the_neighbours_desc:0 "В процессе"
 
- SER_enhance_panslavic_feeling:0 "Улучшение панславистских настроений"
+ SER_enhance_panslavic_feeling:0 "Усиление панславистских настроений"
  SER_enhance_panslavic_feeling_desc:0 "В процессе"
 
  SER_finance_communist_group_in_the_balkans:0 "Финансовая коммунистическая группа на Балканах"
@@ -275,31 +275,31 @@
  SER_rally_albania:0 "Митинг Албании"
  SER_rally_albania_desc:0 "В процессе"
 
- SER_integrated_rail_network:0 "Интегрированная железнодорожная сеть"
+ SER_integrated_rail_network:0 "Интегрированная ж/д сеть"
  SER_integrated_rail_network_desc:0 "В процессе"
 
  SER_the_balkanic_academy:0 "Балканская академия"
  SER_the_balkanic_academy_desc:0 "В процессе"
 
- SER_stage_a_coup_in_slovenia:0 "Устроить переворот в Словении"
+ SER_stage_a_coup_in_slovenia:0 "Переворот в Словении"
  SER_stage_a_coup_in_slovenia_desc:0 "В процессе"
 
  SER_invite_slovenia_in_the_union:0 "Пригласитеь Словению в Союз"
  SER_invite_slovenia_in_the_union_desc:0 "В процессе"
 
- SER_open_relations_with_abroad_communist_country:0 "Открытые отношения с зарубежной коммунистической страной"
+ SER_open_relations_with_abroad_communist_country:0 "Отношения с зарубежной коммунистической страной"
  SER_open_relations_with_abroad_communist_country_desc:0 "В процессе"
 
- SER_centralize_the_rail_network_in_serbia:0 "Централизация железнодорожной сети в Сербии"
+ SER_centralize_the_rail_network_in_serbia:0 "Централизация ж/д сети в Сербии"
  SER_centralize_the_rail_network_in_serbia_desc:0 "В процессе"
 
- SER_nationalize_the_automobile_industry:0 "Национализация автомобильной промышленности"
+ SER_nationalize_the_automobile_industry:0 "Национализация автопрома"
  SER_nationalize_the_automobile_industry_desc:0 "В процессе"
 
- SER_developp_krusik_valjevo:0 "Развивать Krusik Valjevo"
+ SER_developp_krusik_valjevo:0 "Развитие Krusik Valjevo"
  SER_developp_krusik_valjevo_desc:0 "В процессе"
 
- SER_liberate_the_bosnian_people:0 "Освободить боснийский народ"
+ SER_liberate_the_bosnian_people:0 "Освобождение боснийцев"
  SER_liberate_the_bosnian_people_desc:0 "В процессе"
 
  SER_stage_a_coup_in_croatia:0 "Устроить переворот в Хорватии"
@@ -311,31 +311,31 @@
  SER_form_the_socialist_federal_republic_of_yugoslavia:0 "Социалистическая Федеративная Республика Югославия"
  SER_form_the_socialist_federal_republic_of_yugoslavia_desc:0 "В процессе"
 
- SER_stage_a_coup_in_slovenia2:0 "Устроить переворот в Словении"
+ SER_stage_a_coup_in_slovenia2:0 "Переворот в Словении"
  SER_stage_a_coup_in_slovenia2_desc:0 "В процессе"
 
  SER_align_slovenia_by_force:0 "Присоединить Словению силой"
  SER_align_slovenia_by_force_desc:0 "В процессе"
 
- SER_liberate_the_macedonian_people:0 "Освободить македонский народ"
+ SER_liberate_the_macedonian_people:0 "Освобождение македонцев"
  SER_liberate_the_macedonian_people_desc:0 "В процессе"
 
  SER_the_international_revolution:0 "Международная революция"
  SER_the_international_revolution_desc:0 "В процессе"
 
- SER_planified_economy:0 "Планируемая экономика"
+ SER_planified_economy:0 "Плановая экономика"
  SER_planified_economy_desc:0 "В процессе"
 
  SER_proletarian_youth:0 "Пролетарская молодежь"
  SER_proletarian_youth_desc:0 "В процессе"
 
- SER_rebuild_the_country:0 "Восстановить страну"
+ SER_rebuild_the_country:0 "Восстановление страны"
  SER_rebuild_the_country_desc:0 "В процессе"
 
  SER_improve_serbian_railway:0 "Улучшение сербской железной дороги"
  SER_improve_serbian_railway_desc:0 "В процессе"
 
- SER_modernization_of_the_iron_gate_dam:0 "Модернизация плотины 'Железные Ворота'"
+ SER_modernization_of_the_iron_gate_dam:0 "Модернизация плотины "Железные Ворота""
  SER_modernization_of_the_iron_gate_dam_desc:0 "В процессе"
 
  SER_developp_the_coal_industry:0 "Развитие угольной промышленности"
@@ -365,7 +365,7 @@
  SER_Generic_16_IC_slot_desc:0 "Чем больше экономика, тем больше университетов, исследовательских институтов и исследований в частных компаниях. Это позволяет нам расширять количество проектов исследований и разработок, которые мы проводим одновременно."
  SER_Generic_30_IC_slot:0 "Региональная экономическая мощь: +исследование"
  SER_Generic_30_IC_slot_desc:0 "Чем больше экономика, тем больше университетов, исследовательских институтов и исследований в частных компаниях. Это позволяет нам расширять количество проектов исследований и разработок, которые мы проводим одновременно."
- SER_Generic_50_IC_slot:0 "Крупная реги. экономическая мощь: +исследование"
+ SER_Generic_50_IC_slot:0 "Крупная рег. экономическая мощь: +исследование"
  SER_Generic_50_IC_slot_desc:0 "Чем больше экономика, тем больше университетов, исследовательских институтов и исследований в частных компаниях. Это позволяет нам расширять количество проектов исследований и разработок, которые мы проводим одновременно."
  SER_Generic_85_IC_slot:0 "Крупная экономическая мощь: +исследование"
  SER_Generic_85_IC_slot_desc:0 "Чем больше экономика, тем больше университетов, исследовательских институтов и исследований в частных компаниях. Это позволяет нам расширять количество проектов исследований и разработок, которые мы проводим одновременно."

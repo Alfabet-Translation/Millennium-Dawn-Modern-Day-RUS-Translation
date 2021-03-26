@@ -1,6 +1,6 @@
 ﻿l_russian:
 
- ### Language for dynamically displaying countries below the normal event text - Orignally made to display how nations vote in supranational organizations, but can be extended to any usage
+ ### Язык для динамического отображения стран ниже обычного текста события - Первоначально созданный для отображения того, как страны голосуют в наднациональных организациях, но может быть расширен до любого использования
  
  #Normally used like this within an immediate or option section - custom_effect_tooltip = script.0.newline
  
@@ -22,7 +22,7 @@
  script.0.positive:0 "§Gпозитивное§! "
  script.0.enthusiastic:0 "§Gвосторженное§! "
  script.0.Root_opinion_of_adj:0 "§YМнение§! о [Root.GetAdjective] правительстве: "
- script.0.from:0 "from "
+ script.0.from:0 "из "
  script.0.providing:0 "это обеспечивает "
  script.0.massive:0 "огромный "
  script.0.large:0 "большой "
@@ -128,14 +128,14 @@
  script.0.the_military:0 "§YВоенные§! "
  script.0.intelligence_community:0 "§YРазведывательные службы§! "
  script.0.isi_pakistan:0 "§YПМР§! "
- script.0.VEVAK:0 "§YВЕВАК§! "
+ script.0.VEVAK:0 "§YVEVAK§! "
  script.0.the_bazaar:0 "§YВосточный базар§! "
  script.0.the_donju:0 "§YДонжу§! "
  script.0.saudi_royal_family:0 "§YРасширенная королевская семья§! "
  script.0.foreign_jihadis:0 "§YИностранные джихадисты§! "
  script.0.IRGC:0 "§YСепах§! "
  script.0.iranian_quds_force:0 "§YИранские силы Кудс§! "
- script.0.wall_street:0 "§YУолл стрит§! "
+ script.0.wall_street:0 "§YУолл-стрит§! "
  script.0.chaebols:0 "§YЧеболь§! "
  
  script.0.display_subtract_pp_100:0 "\n§YПолитическая власть§! §R-100§!"

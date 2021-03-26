@@ -6,16 +6,16 @@
  EMBARGO_SEND_DESC_USA: "Вступление §Y[This.GetNameWithFlag]§! уменьшит торговое влияние и мнение с §Y[This.GetNameWithFlag]§! на §R100§!. Если у них также есть §YUSAID§! он будет отозван.\n\nЭто не ограничивает страну в поиске ресурсов другими способами."
  EMBARGO_SEND_DESC_EVERYONE: "Вступление §Y[This.GetNameWithFlag]§! уменьшит торговое влияние и мнение с §Y[This.GetNameWithFlag]§! с помощью §R100§!.\n\nЭто не ограничивает страну в поиске ресурсов другими способами."
 
- LIFT_EMBARGO_COUNTRY_TITLE: "Снять Эмбарго"
+ LIFT_EMBARGO_COUNTRY_TITLE: "Снять эмбарго"
  LIFT_EMBARGO_COUNTRY_ACTION_DESC: "Снятие эмбарго с этой страны позволит нормализовать экономические отношения и торговые связи."
  LIFT_EMBARGO_TOOLTIP: "Снятие §Y[This.GetNameWithFlag]§! эмбарго"
  LIFT_EMBARGO_SEND_DESC: "Снятие блокады с §Y[This.GetNameWithFlag]§! увеличит торговое влияние и отношения на §G100§!. Однако, §Y[This.GetNameWithFlag]§! получит мнение §R-50§! в связи с недавно введенным эмбарго.\n"
  ##Taken from Yard1's mod
  RECALL_VOLUNTEERS_TITLE: "Вспомнить о силе вмешательства"
  RECALL_VOLUNTEERS_ACTION_DESC: "В какой-то момент мы можем отозвать нашу интервенционную группу."
- RECALL_VOLUNTEERS_TOOLTIP: "§Y[This.GetNameWithFlag]§! §Rдолжны иметь активные силы вмешательства от нас, чтобы мы могли отступить.§!"
+ RECALL_VOLUNTEERS_TOOLTIP: "§Y[This.GetNameWithFlag]§! §R должны иметь активные силы вмешательства от нас, чтобы мы могли отступить.§!"
  RECALL_VOLUNTEERS_TOOLTIP_G: "§Y[This.GetNameWithFlag]§! должны иметь активные силы вмешательства от нас, чтобы мы могли отступить."
- RECALL_VOLUNTEERS_SEND_DESC: "Битва §Y[This.GetNameWithFlag]§! оказалась не в нашей битве. Пришло время вывести наши силы из конфликта.\n\n§YЭта акция выведет наши силы вмешательства из §Y[This.GetNameWithFlag]§!"
+ RECALL_VOLUNTEERS_SEND_DESC: "Битва §Y[This.GetNameWithFlag]§! оказалась не в наших интересах. Пришло время вывести наши силы из конфликта.\n\n§YЭта акция выведет наши силы вмешательства из §Y[This.GetNameWithFlag]§!"
 
  #TRADE AGREEMENT
  base_trade_condition: "Базовая зависимость от торгового соглашения"
