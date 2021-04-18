@@ -95,25 +95,25 @@
  SER_balkan_cooperation_invite_bulgaria:0 "Балканское сотрудничество приглашает Болгарию"
  SER_balkan_cooperation_invite_bulgaria_desc:0 "В процессе"
 
- SER_the_eastern_path:0 "Восточный Путь"
+ SER_the_eastern_path:0 "Восточный путь"
  SER_the_eastern_path_desc:0 "В процессе"
 
  SER_free_trade_with_russia:0 "Свободная торговля с Россией"
  SER_free_trade_with_russia_desc:0 "В процессе"
 
- SER_befriend_vladimir:0 "Подружиться с Владимиром"
+ SER_befriend_vladimir:0 "Дружба с Владимиром"
  SER_befriend_vladimir_desc:0 "В процессе"
 
- SER_rehold_elections:0 "Повторить выборы"
+ SER_rehold_elections:0 "Повторение выборов"
  SER_rehold_elections_desc:0 "В процессе"
 
- SER_befrind_bricks:0 "Подружиться с Бриксом"
+ SER_befrind_bricks:0 "Дружба с Бриксом"
  SER_befrind_bricks_desc:0 "В процессе"
 
  SER_china_investments:0 "Китайские инвестиции"
  SER_china_investments_desc:0 "В процессе"
 
- SER_apply_for_csto:0 "Подать заявку в Csto"
+ SER_apply_for_csto:0 "Подать заявку в CSTO"
  SER_apply_for_csto_desc:0 "В процессе"
 
  SER_joint_military_exercises:0 "Совместные военные учения"
@@ -131,25 +131,25 @@
  SER_refuse_kosovo_independance:0 "Отказаться от независимости Косово"
  SER_refuse_kosovo_independance_desc:0 "В процессе"
 
- SER_befriend_montenegro:0 "Подружиться с Черногорией"
+ SER_befriend_montenegro:0 "Дружба с Черногорией"
  SER_befriend_montenegro_desc:0 "В процессе"
 
- SER_invite_montenegro_to_csto:0 "Пригласить Черногорию в CSTO"
+ SER_invite_montenegro_to_csto:0 "Приглашение Черногории в CSTO"
  SER_invite_montenegro_to_csto_desc:0 "В процессе"
 
- SER_the_conscription_reform:0 "Реформа по призыву"
+ SER_the_conscription_reform:0 "Реформа призыва"
  SER_the_conscription_reform_desc:0 "В процессе"
 
- SER_arrest_the_leader_of_opposition:0 "Арестовать лидера оппозиции"
+ SER_arrest_the_leader_of_opposition:0 "Арест лидера оппозиции"
  SER_arrest_the_leader_of_opposition_desc:0 "В процессе"
 
- SER_promote_the_nationalism:0 "Продвигать национализм"
+ SER_promote_the_nationalism:0 "Продвижение национализма"
  SER_promote_the_nationalism_desc:0 "В процессе"
 
  SER_put_an_end_to_liberty_of_speech:0 "Конец свободе слова"
  SER_put_an_end_to_liberty_of_speech_desc:0 "В процессе"
 
- SER_limit_the_freedom_of_religion:0 "Ограничить свободу вероисповедания"
+ SER_limit_the_freedom_of_religion:0 "Ограничение свободы вероисповедания"
  SER_limit_the_freedom_of_religion_desc:0 "В процессе"
 
  SER_claim_the_old_yugoslavian_borders:0 "Требование старых югославских границ"
@@ -167,7 +167,7 @@
  SER_protect_serbian_minorities_in_kosovo:0 "Защита сербских меньшинств в Косово"
  SER_protect_serbian_minorities_in_kosovo_desc:0 "В процессе"
 
- SER_strengthen_the_slavic_identity:0 "Укрепить славянскую идентичность"
+ SER_strengthen_the_slavic_identity:0 "Укрепление славянской идентичности"
  SER_strengthen_the_slavic_identity_desc:0 "В процессе"
 
  SER_nationalism_befriend_russia:0 "Национализм - дружба с Россией"
@@ -203,7 +203,7 @@
  SER_invade_slovenia:0 "Вторжение в Словению"
  SER_invade_slovenia_desc:0 "В процессе"
 
- SER_retake_nothern_macedonia:0 "Вернуть Северную Македонию"
+ SER_retake_nothern_macedonia:0 "Возврат Северной Македонии"
  SER_retake_nothern_macedonia_desc:0 "В процессе"
 
  SER_claim_greek_macedonia:0 "Претензии на Греческую Македонию"
@@ -230,7 +230,7 @@
  SER_nostalgia_of_the_past:0 "Ностальгия прошлого"
  SER_nostalgia_of_the_past_desc:0 "В процессе"
 
- SER_refuse_to_give_milosevic_to_the_un:0 "Отказаться выдавать Милошевича ООН"
+ SER_refuse_to_give_milosevic_to_the_un:0 "Отказ выдавать Милошевича ООН"
  SER_refuse_to_give_milosevic_to_the_un_desc:0 "В процессе"
 
  SER_enhance_multi_ethnic_feeling:0 "Улучшение многоэтнических настроений"
@@ -251,16 +251,16 @@
  SER_the_montenegro_negociations:0 "Черногорские переговоры"
  SER_the_montenegro_negociations_desc:0 "В процессе"
 
- SER_ask_bosnia_to_join_the_union:0 "Попросить Боснию вступить в Союз"
+ SER_ask_bosnia_to_join_the_union:0 "Просьба к Боснии вступить в Союз"
  SER_ask_bosnia_to_join_the_union_desc:0 "В процессе"
 
- SER_ask_croatia_to_join_the_union:0 "Попросить Хорватию вступить в Союз"
+ SER_ask_croatia_to_join_the_union:0 "Просьба к Хорватии вступить в Союз"
  SER_ask_croatia_to_join_the_union_desc:0 "В процессе"
 
  SER_form_the_socialist_union_of_yugoslavia:0 "Форма социалистического союза Югославии"
  SER_form_the_socialist_union_of_yugoslavia_desc:0 "В процессе"
 
- SER_invite_slovenia:0 "Пригласить Словению"
+ SER_invite_slovenia:0 "Приглашение Словении"
  SER_invite_slovenia_desc:0 "В процессе"
 
  SER_infleunce_bulgaria_communism:0 "Влияние в Болгарии"
@@ -284,7 +284,7 @@
  SER_stage_a_coup_in_slovenia:0 "Переворот в Словении"
  SER_stage_a_coup_in_slovenia_desc:0 "В процессе"
 
- SER_invite_slovenia_in_the_union:0 "Пригласитеь Словению в Союз"
+ SER_invite_slovenia_in_the_union:0 "Приглашение Словении в Союз"
  SER_invite_slovenia_in_the_union_desc:0 "В процессе"
 
  SER_open_relations_with_abroad_communist_country:0 "Отношения с зарубежной коммунистической страной"
@@ -302,10 +302,10 @@
  SER_liberate_the_bosnian_people:0 "Освобождение боснийцев"
  SER_liberate_the_bosnian_people_desc:0 "В процессе"
 
- SER_stage_a_coup_in_croatia:0 "Устроить переворот в Хорватии"
+ SER_stage_a_coup_in_croatia:0 "Переворот в Хорватии"
  SER_stage_a_coup_in_croatia_desc:0 "В процессе"
 
- SER_align_croatia_by_force:0 "Присоединить Хорватию силой"
+ SER_align_croatia_by_force:0 "Присоединение Хорватии силой"
  SER_align_croatia_by_force_desc:0 "В процессе"
 
  SER_form_the_socialist_federal_republic_of_yugoslavia:0 "Социалистическая Федеративная Республика Югославия"

@@ -263,20 +263,20 @@
  ################
 
  ### effect tooltips ###
- tooltip_POTEF_bonus_effect: "(Note: effects only shown for current EU member states)\n§GBonus effect§!:"
- tooltip_POTEF_is_alpine: "when §Y[AUS.GetNameWithFlag]§! or §Y[SWI.GetNameWithFlag]§! is §YPresident of the European Federation (POTEF)§!"
- tooltip_POTEF_is_german: "when §Y[GER.GetNameWithFlag]§! is §YPresident of the European Federation (POTEF)§!"
- tooltip_POTEF_is_french: "when §Y[FRA.GetNameWithFlag]§! is §YPresident of the European Federation (POTEF)§!"
- tooltip_POTEF_is_benelux: "when §Y[HOL.GetNameWithFlag]§!, §Y[BEL.GetNameWithFlag]§! or §Y[LUX.GetNameWithFlag]§! is §YPresident of the European Federation (POTEF)§!"
- tooltip_POTEF_is_iberian: "when §Y[SPR.GetNameWithFlag]§!, §Y[POR.GetNameWithFlag]§! or §Y[CAT.GetNameWithFlag]§! is §YPresident of the European Federation (POTEF)§!"
- tooltip_POTEF_is_british: "when §Y[ENG.GetNameWithFlag]§!, §Y[SCO.GetNameWithFlag]§!, §Y[WAS.GetNameWithFlag]§! or §Y[IRE.GetNameWithFlag]§! is §YPresident of the European Federation (POTEF)§!"
- tooltip_POTEF_is_nordic: "when §Y[DEN.GetNameWithFlag]§!, §Y[NOR.GetNameWithFlag]§!, §Y[SWE.GetNameWithFlag]§!, §Y[FIN.GetNameWithFlag]§! or §Y[ICE.GetNameWithFlag]§! is §YPresident of the European Federation (POTEF)§!"
- tooltip_POTEF_is_mediterranean: "when §Y[ITA.GetNameWithFlag]§!, §Y[MLT.GetNameWithFlag]§!, §Y[GRE.GetNameWithFlag]§!, §Y[CYP.GetNameWithFlag]§!, §Y[SCL.GetNameWithFlag]§! or §Y[CRE.GetNameWithFlag]§! is §YPresident of the European Federation (POTEF)§!"
- tooltip_POTEF_is_balkan: "when §Y[SLV.GetNameWithFlag]§!, §Y[CRO.GetNameWithFlag]§!, §Y[BOS.GetNameWithFlag]§!, §Y[SER.GetNameWithFlag]§!, §Y[MNT.GetNameWithFlag]§!, §Y[ALB.GetNameWithFlag]§!, §Y[FYR.GetNameWithFlag]§! or §Y[KOS.GetNameWithFlag]§! is §YPresident of the European Federation (POTEF)§!"
- tooltip_POTEF_is_black_sea: "when §Y[ROM.GetNameWithFlag]§!, §Y[BUL.GetNameWithFlag]§!, §Y[MLV.GetNameWithFlag]§!, §Y[TUR.GetNameWithFlag]§! or §Y[UKR.GetNameWithFlag]§! is §YPresident of the European Federation (POTEF)§!"
- tooltip_POTEF_is_caucasus: "when §Y[GEO.GetNameWithFlag]§!, §Y[ARM.GetNameWithFlag]§! or §Y[AZE.GetNameWithFlag]§! is §YPresident of the European Federation (POTEF)§!"
- tooltip_POTEF_is_visegrad: "when §Y[POL.GetNameWithFlag]§!, §Y[CZE.GetNameWithFlag]§!, §Y[SLO.GetNameWithFlag]§!, §Y[HUN.GetNameWithFlag]§! or §Y[BLR.GetNameWithFlag]§! is §YPresident of the European Federation (POTEF)§!"
- tooltip_POTEF_is_baltic: "when §Y[EST.GetNameWithFlag]§!, §Y[LAT.GetNameWithFlag]§! or §Y[LIT.GetNameWithFlag]§! is §YPresident of the European Federation (POTEF)§!"
+ tooltip_POTEF_bonus_effect: "(Примечание: эффекты показаны только для текущих государств-членов ЕС)\n§GБонус эффект§!:"
+ tooltip_POTEF_is_alpine: "когда §Y[AUS.GetNameWithFlag]§! или §Y[SWI.GetNameWithFlag]§! §YПрезидент Европейской Федерации (POTEF)§!"
+ tooltip_POTEF_is_german: "когда §Y[GER.GetNameWithFlag]§! §YПрезидент Европейской Федерации (POTEF)§!"
+ tooltip_POTEF_is_french: "когда §Y[FRA.GetNameWithFlag]§! §YПрезидент Европейской Федерации (POTEF)§!"
+ tooltip_POTEF_is_benelux: "когда §Y[HOL.GetNameWithFlag]§!, §Y[BEL.GetNameWithFlag]§! или §Y[LUX.GetNameWithFlag]§! §YПрезидент Европейской Федерации (POTEF)§!"
+ tooltip_POTEF_is_iberian: "когда §Y[SPR.GetNameWithFlag]§!, §Y[POR.GetNameWithFlag]§! или §Y[CAT.GetNameWithFlag]§! §YПрезидент Европейской Федерации (POTEF)§!"
+ tooltip_POTEF_is_british: "когда §Y[ENG.GetNameWithFlag]§!, §Y[SCO.GetNameWithFlag]§!, §Y[WAS.GetNameWithFlag]§! или §Y[IRE.GetNameWithFlag]§! §YПрезидент Европейской Федерации (POTEF)§!"
+ tooltip_POTEF_is_nordic: "когда §Y[DEN.GetNameWithFlag]§!, §Y[NOR.GetNameWithFlag]§!, §Y[SWE.GetNameWithFlag]§!, §Y[FIN.GetNameWithFlag]§! или §Y[ICE.GetNameWithFlag]§! §YПрезидент Европейской Федерации (POTEF)§!"
+ tooltip_POTEF_is_mediterranean: "когда §Y[ITA.GetNameWithFlag]§!, §Y[MLT.GetNameWithFlag]§!, §Y[GRE.GetNameWithFlag]§!, §Y[CYP.GetNameWithFlag]§!, §Y[SCL.GetNameWithFlag]§! или §Y[CRE.GetNameWithFlag]§! §YПрезидент Европейской Федерации (POTEF)§!"
+ tooltip_POTEF_is_balkan: "когда §Y[SLV.GetNameWithFlag]§!, §Y[CRO.GetNameWithFlag]§!, §Y[BOS.GetNameWithFlag]§!, §Y[SER.GetNameWithFlag]§!, §Y[MNT.GetNameWithFlag]§!, §Y[ALB.GetNameWithFlag]§!, §Y[FYR.GetNameWithFlag]§! или §Y[KOS.GetNameWithFlag]§! §YПрезидент Европейской Федерации (POTEF)§!"
+ tooltip_POTEF_is_black_sea: "когда §Y[ROM.GetNameWithFlag]§!, §Y[BUL.GetNameWithFlag]§!, §Y[MLV.GetNameWithFlag]§!, §Y[TUR.GetNameWithFlag]§! или §Y[UKR.GetNameWithFlag]§! §YПрезидент Европейской Федерации (POTEF)§!"
+ tooltip_POTEF_is_caucasus: "когда §Y[GEO.GetNameWithFlag]§!, §Y[ARM.GetNameWithFlag]§! или §Y[AZE.GetNameWithFlag]§! §YПрезидент Европейской Федерации (POTEF)§!"
+ tooltip_POTEF_is_visegrad: "когда §Y[POL.GetNameWithFlag]§!, §Y[CZE.GetNameWithFlag]§!, §Y[SLO.GetNameWithFlag]§!, §Y[HUN.GetNameWithFlag]§! или §Y[BLR.GetNameWithFlag]§! §YПрезидент Европейской Федерации (POTEF)§!"
+ tooltip_POTEF_is_baltic: "когда §Y[EST.GetNameWithFlag]§!, §Y[LAT.GetNameWithFlag]§! или §Y[LIT.GetNameWithFlag]§! §YПрезидент Европейской Федерации (POTEF)§!"
 
  ### trigger tooltips ###
  tooltip_focus_POTEF203_trigger: "Находится во фракции §YЕвропейский Союз Обороны§!"
@@ -293,7 +293,7 @@
  contest_silk_road: "Конкурс "Шелковый путь""
  latin_cousins: "Латинские кузены"
  historical_friends_HKG: "Британский заморский гражданин"
- breach_of_Sino_British_Joint_Declaration: "Нарушение Китайско-британской декларации"
+ breach_of_Sino_British_Joint_Declaration: "Нарушение китайско-британской декларации"
 
  #######################
  ### POTEF Elections ###
@@ -326,21 +326,21 @@
 
 
  ### news events ###
- EU_POTEF_news.1.t: "[FROM.GetLeader] является кандидатом на выборы ПОТЕФ"
+ EU_POTEF_news.1.t: "[FROM.GetLeader] является кандидатом на выборы POTEF"
  EU_POTEF_news.1.d: "[FROM.GetLeader] лидер [FROM.GetNameWithFlag] был объявлен кандидатом на выборы Президента Европейской Федерации (POTEF)."
  EU_POTEF_news.1.a: "Хорошо."
 
- EU_POTEF_news.2.t: "Результат выборов в [GetYear] ПОТЕФ"
- EU_POTEF_news.2.d: "The leader of [FROM.GetNameWithFlag] [FROM.GetLeader] has won the President of the European Federation (POTEF) elections. As POTEF [FROM.GetLeader] will lead the European Federation for the next [?FROM.POTEF_years|0] year(s)."
+ EU_POTEF_news.2.t: "Результат выборов в [GetYear] POTEF"
+ EU_POTEF_news.2.d: "Лидер [FROM.GetNameWithFlag] [FROM.GetLeader] победил на выборах президента Европейской Федерации (POTEF). В качестве POTEF [FROM.GetLeader] возглавит Европейскую федерацию на следующие [?FROM.POTEF_years|0] лет."
  EU_POTEF_news.2.a: "Хорошо."
  ### EU_POTEF_news.3 and EU_POTEF_news.4 used as focus events
 
- EU_POTEF_news.5.t: "[FROM.GetLeader] campaing in [FROM.FROM.GetName] was successful"
- EU_POTEF_news.5.d: "[FROM.GetLeader] campaigned successful in [FROM.FROM.GetNameWithFlag] for President of the European Federation (POTEF) elections."
+ EU_POTEF_news.5.t: "[FROM.GetLeader] агитация в [FROM.FROM.GetName] была успешной"
+ EU_POTEF_news.5.d: "[FROM.GetLeader] агитировал удачно в [FROM.FROM.GetNameWithFlag] для выборов Президента Европейской Федерации (POTEF)."
  EU_POTEF_news.5.a: "Хорошо."
 
- EU_POTEF_news.6.t: "[FROM.GetLeader] campaing in [FROM.FROM.GetName] was unsuccessful"
- EU_POTEF_news.6.d: "[FROM.GetLeader] campaigned unsuccessful in [FROM.FROM.GetNameWithFlag] for President of the European Federation (POTEF) elections."
+ EU_POTEF_news.6.t: "[FROM.GetLeader] агитация в [FROM.FROM.GetName] не удалась"
+ EU_POTEF_news.6.d: "[FROM.GetLeader] агитировал неудачно в [FROM.FROM.GetNameWithFlag] для выборов Президента Европейской Федерации (POTEF)."
  EU_POTEF_news.6.a: "Хорошо."
 
  #EU_POTEF_trigger_test_1_desc: "[?global.POTEF_pop_vote_total|0]\n[?THIS.POTEF_winner_value|3]\n[?THIS.POTEF_winner|0]\n[?POTEF_winner_array^0|0]\n[?POTEF_winner_array^1|0]\n[?POTEF_winner_array^2|0]\n[?POTEF_winner_array^3|0]"
@@ -350,7 +350,7 @@
  tooltip_EU_POTEF_nominee_trigger: "[ROOT.GetNameWithFlag] входит в тройку влиятельных лиц во всех государствах-членах с одной и той же правящей партией."
  tooltip_EU_POTEF_nominee_trigger_2: "У партии [ROOT.GetLeader] §Yне объявился кандидат§! на выборы президента Европейской федерации (POTEF)."
 
- tooltip_EU_POTEF_campaign_in_member_state_effect: "Chance to raise the popularity of the political group supporting [ROOT.GetLeader] about 5% in [FROM.GetNameWithFlag]. The chance depends on the §Yinfluence§! of [ROOT.GetNameWithFlag] on [FROM.GetNameWithFlag], §YEuroscepticism§!, the §Yruling party§! and the §YPOTEF nominee§! of [FROM.GetNameWithFlag]."
+ tooltip_EU_POTEF_campaign_in_member_state_effect: "Шанс повысить популярность политической группы поддержки [ROOT.GetLeader] на 5% в [FROM.GetNameWithFlag]. Шанс зависит от §Yвлияния§! [ROOT.GetNameWithFlag] на [FROM.GetNameWithFlag], §YЕвроскептицизма§!, §Yправящей партии§! и §Yкандидата POTEF§! [FROM.GetNameWithFlag]."
 
  ### POTEF scripted localisation ###
  show_POTEF_polls_loc_key: "POTEF polls:\nTerm by majority:\n§Y5-year-term§!: §Gabsolute§! majority of Popular Vote §GAND§! Member State Wins\n§Y3-year-term§!: one §Gabsolute§! AND one §Orelative§! majority\n§Y2-year-term§!: §Orelative§! majority of Popular Vote §OAND§! Member State Wins\n§Y1-year-term§!: §Orelative§! majority of Popular Vote\n\nTotal Vote: [?global.POTEF_pop_vote_total|§Y0]§YK§!\nPolitical group: §YPopular Vote§! - §CPopular Vote Ratio§! - §GMember State Wins§! - §YNominee§!\n\n[EU_POTEF_Western_Autocracy]\n[EU_POTEF_conservatism]\n[EU_POTEF_liberalism]\n[EU_POTEF_socialism]\n[EU_POTEF_Communist-State]\n[EU_POTEF_anarchist_communism]\n[EU_POTEF_Conservative]\n[EU_POTEF_Autocracy]\n[EU_POTEF_Mod_Vilayat_e_Faqih]\n[EU_POTEF_Vilayat_e_Faqih]\n[EU_POTEF_Kingdom]\n[EU_POTEF_Caliphate]\n[EU_POTEF_Neutral_Muslim_Brotherhood]\n[EU_POTEF_Neutral_Autocracy]\n[EU_POTEF_Neutral_conservatism]\n[EU_POTEF_oligarchism]\n[EU_POTEF_Neutral_Libertarian]\n[EU_POTEF_Neutral_green]\n[EU_POTEF_neutral_Social]\n[EU_POTEF_Neutral_Communism]\n[EU_POTEF_Nat_Populism]\n[EU_POTEF_Nat_Fascism]\n[EU_POTEF_Nat_Autocracy]\n[EU_POTEF_Monarchist]\n"

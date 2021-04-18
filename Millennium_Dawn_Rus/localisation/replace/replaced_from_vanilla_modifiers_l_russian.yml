@@ -41,7 +41,7 @@
  MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR:0 "Корабли военно-морской верфи"
  MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR_DESC:0 "Это эффективно увеличивает объем работы, которую каждая военно-морская верфь может выполнять в час."
  MODIFIER_INDUSTRY_AIR_DAMAGE_FACTOR:0 "Уязвимость промышленности от бомбардировки"
- MODIFIER_INDUSTRY_AIR_DAMAGE_FACTOR_DESC:0 "Благодаря рассеянию наших производств, промышленность меньше пострадает от вражеских бомбардировок."
+ MODIFIER_INDUSTRY_AIR_DAMAGE_FACTOR_DESC:0 "Благодаря рассредоточению наших производств, промышленность меньше пострадает от вражеских бомбардировок."
  MODIFIER_INDUSTRY_REPAIR_FACTOR:0 "Скорость восстановления производства"
  MODIFIER_INDUSTRY_REPAIR_FACTOR_DESC:0 "Ускоряет ремонт §Hгражданская фабрика§!."
  MODIFIER_LEND_LEASE_TENSION_LIMIT:0 "Лимит напряженности для ленд-лиза"

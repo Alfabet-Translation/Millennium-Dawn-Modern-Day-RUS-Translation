@@ -1,5 +1,5 @@
 ﻿l_russian:
- TT_AVAILABLE_AS_DEFENCE_COMPANY:0 "Available as §YDefence Company§!:\n"
+ TT_AVAILABLE_AS_DEFENCE_COMPANY:0 "Доступно как §YОборонная компания§!:\n"
  
  AST_bae_systems_australia_ship_company:0 "BAE Systems Australia"
  AST_asc_ship_company:0 "ASC"
@@ -191,7 +191,7 @@
  SAF_denel_land_systems_vehicle_company:0 "Денельские наземные системы"
  SAF_land_systems_omc_vehicle_company:0 "Land Systems OMC"
  SAF_denel_dynamics_infantry_weapon_company:0 "Denel Dynamics"
- SAU_military_industries_corporation_infantry_weapon_company: "Military Industries Corporation"
+ SAU_military_industries_corporation_infantry_weapon_company: "Военно-промышленная корпорация"
  SAU_abdallah_al_faris_vehicle_company: "Abdallah al Faris"
  SWI_mowag_vehicle_company:0 "MOWAG"
  SWI_ruag_infantry_weapon_company:0 "RUAG"
@@ -210,8 +210,8 @@
  SPR_navantia_submarine_company:0 "Navantia"
  SPR_airbus_defence_aircraft_company:0 "Airbus Defence"
  SPR_airbus_helicopters_helicopter_company:0 "Airbus Helicopters"
- SUD_military_industry_corporation_infantry_weapon_company:0 "Military Industry Corporation"
- SUD_military_industry_corporation_vehicle_company:0 "Military Industry Corporation"
+ SUD_military_industry_corporation_infantry_weapon_company:0 "Военно-промышленная корпорация"
+ SUD_military_industry_corporation_vehicle_company:0 "Военно-промышленная корпорация"
  SWE_bae_systems_hagglunds_vehicle_company:0 "BAE Systems Hägglunds"
  SWE_bae_systems_bofors_vehicle_company:0 "BAE Systems Bofors"
  SWE_saab_bofors_dynamics_infantry_weapon_company:0 "Saab Bofors Dynamics"

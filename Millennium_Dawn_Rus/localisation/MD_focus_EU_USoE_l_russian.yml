@@ -361,7 +361,7 @@
  EU_USoE_westernize_decision: "Вестернизация [FROM.GetName]"
  EU_USoE_westernize_decision_desc: "Вестернизация [FROM.GetName] дипломатией или силой, зависит от [FROM.GetName]."
 
- EU_USoE_create_eurosphere_decision: "Создать Евросоюз"
+ EU_USoE_create_eurosphere_decision: "Создать Евросферу"
  EU_USoE_create_eurosphere_decision_desc: "[ROOT.GetNameWithFlag] распространит свое влияние на создание Евросоюза."
  
  ### Environmental Imperialism ###
@@ -371,63 +371,63 @@
  EU_environmental_imperialism_category_desc: "Европа зеленая, но мир все еще темный и серый. Европе необходимо распространить свою политику и технологии по всему миру и дать отпор империи ископаемых энергоносителей, которые разрушают планету." 
 
 
- EU_USoE_environmental_imperialism_decision: "Спрос экологические реформы"
- EU_USoE_environmental_imperialism_decision_desc: "We need to save the planet. If §Y[FROM.GetNameWithFlag]§! doesn't do the neccessary §GEnvironmental Reforms§! by themself, we need to force them to do so. They need to have at least one §YBiofuel Refinery§! for every state they own. If §Y[FROM.GetNameWithFlag]§! doesn't fulfill our demands within a month, we will impose §REnvironmental Sanctions§! on them."
+ EU_USoE_environmental_imperialism_decision: "Спрос на экологические реформы"
+ EU_USoE_environmental_imperialism_decision_desc: "Мы должны спасти планету. Если §Y[FROM.GetNameWithFlag]§! не проводят необходимых §GЭкологических реформ§! сами, то мы должны заставить их сделать это. У них должен быть хотя бы один §YБиотопливный завод§! для каждого региона, которым они владеют. Если §Y[FROM.GetNameWithFlag]§! не выполнит требований в течение месяца, мы наложим §RЭкологические санкции§! на них."
 
  EU_USoE_environmental_imperialism_mission: "Экологические реформы"
- EU_USoE_environmental_imperialism_mission_desc: "§YEurope§! demands §GEnvironmental Reforms§! from us to save the planet. If we don't build or reconstruct at least one §YBiofuel Refinery§! for every state we own within a month, they will impose §REnvironmental Sanctions§! on us."
- EU_USoE_environmental_imperialism_restructure_industry_decision: "Green Energy Reconstruction"
- EU_USoE_environmental_imperialism_restructure_industry_decision: "To fulfil the European §GEnvironmental Reform§! demands we need to reconstruct some of our §Civilian Industry§! to renewable energy producer (§YBiofuel Refinery§!)."
+ EU_USoE_environmental_imperialism_mission_desc: "§YЕвропа§! требует §GЭкологических реформ§! от нас, чтобы спасти планету. Если мы не построим или не реконструируем хотя бы один §YБиотопливный завод§! за каждый регион, которым мы владеем в течение 1 месяца, они наложат §RЭкологические санкции§! на нас."
+ EU_USoE_environmental_imperialism_restructure_industry_decision: "Реконструкция зеленой энергетики"
+ EU_USoE_environmental_imperialism_restructure_industry_decision: "Чтобы выполнить требования европейской §GЭкологической реформы§!, которые мы должны соблюсти, некоторые из наших объектов §Гражданской промышленности§! должны стать производителями возобновляемой энергии (§YБиотопливный завод§!)."
  EU_USoE_break_environmental_sanctions_decision: "Нарушить экологические санкции"
- EU_USoE_break_environmental_sanctions_decision_desc: "Europe has imposed Environmental Sanctions on us. We need to break them with all means - political and military. But this will give [FROM.GetNameWithFlag] a wargoal on us. So we need to ally with other countries sanctioned from [FROM.GetNameWithFlag]."
+ EU_USoE_break_environmental_sanctions_decision_desc: "Европа ввела против нас экологические санкции. Мы должны сломить их всеми средствами - политическими и военными. Но это даст [FROM.GetNameWithFlag] цель войны с нами. Поэтому нам нужно вступать в союз с другими странами, подвергшимися санкциям со стороны [FROM.GetNameWithFlag]."
 
  #Europe
- EU_USoE_environmental_imperialism_show_europe: "Environmental Imperialism in Europe"
- EU_USoE_environmental_imperialism_show_europe_desc: "Environmental Imperialism in Europe"
- EU_USoE_environmental_imperialism_hide_europe: "Hide Environmental Imperialism in Europe"
- EU_USoE_environmental_imperialism_hide_europe_desc: "Hide Environmental Imperialism in Europe"
+ EU_USoE_environmental_imperialism_show_europe: "Экологический империализм в Европе"
+ EU_USoE_environmental_imperialism_show_europe_desc: "Экологический империализм в Европе"
+ EU_USoE_environmental_imperialism_hide_europe: "Скрыть Экологический империализм в Европе"
+ EU_USoE_environmental_imperialism_hide_europe_desc: "Скрыть Экологический империализм в Европе"
 
  #North America
- EU_USoE_environmental_imperialism_show_north_america: "Environmental Imperialism in North America"
- EU_USoE_environmental_imperialism_show_north_america_desc: "Environmental Imperialism in North America"
- EU_USoE_environmental_imperialism_hide_north_america: "Hide Environmental Imperialism in North America"
- EU_USoE_environmental_imperialism_hide_north_america_desc: "Hide Environmental Imperialism in North America"
+ EU_USoE_environmental_imperialism_show_north_america: "Экологический империализм в Северной Америке"
+ EU_USoE_environmental_imperialism_show_north_america_desc: "Экологический империализм в Северной Америке"
+ EU_USoE_environmental_imperialism_hide_north_america: "Скрыть Экологический империализм в Северной Америке"
+ EU_USoE_environmental_imperialism_hide_north_america_desc: "Скрыть Экологический империализм в Северной Америке"
  
  #South America
- EU_USoE_environmental_imperialism_show_south_america: "Environmental Imperialism in South America"
- EU_USoE_environmental_imperialism_show_south_america_desc: "Environmental Imperialism in South America"
- EU_USoE_environmental_imperialism_hide_south_america: "Hide Environmental Imperialism in South America"
- EU_USoE_environmental_imperialism_hide_south_america_desc: "Hide Environmental Imperialism in South America"
+ EU_USoE_environmental_imperialism_show_south_america: "Экологический империализм в Южной Америке"
+ EU_USoE_environmental_imperialism_show_south_america_desc: "Экологический империализм в Южной Америке"
+ EU_USoE_environmental_imperialism_hide_south_america: "Скрыть Экологический империализм в Южной Америке"
+ EU_USoE_environmental_imperialism_hide_south_america_desc: "Скрыть Экологический империализм в Южной Америке"
 
  #Africa
- EU_USoE_environmental_imperialism_show_africa: "Environmental Imperialism in Africa"
- EU_USoE_environmental_imperialism_show_africa_desc: "Environmental Imperialism in Africa"
- EU_USoE_environmental_imperialism_hide_africa: "Hide Environmental Imperialism in Africa"
- EU_USoE_environmental_imperialism_hide_africa_desc: "Hide Environmental Imperialism in Africa"
+ EU_USoE_environmental_imperialism_show_africa: "Экологический империализм в Африке"
+ EU_USoE_environmental_imperialism_show_africa_desc: "Экологический империализм в Африке"
+ EU_USoE_environmental_imperialism_hide_africa: "Скрыть Экологический империализм в Африке"
+ EU_USoE_environmental_imperialism_hide_africa_desc: "Скрыть Экологический империализм в Африке"
 
  #Asia
- EU_USoE_environmental_imperialism_show_asia: "Environmental Imperialism in Asia"
- EU_USoE_environmental_imperialism_show_asia_desc: "Environmental Imperialism in Asia"
- EU_USoE_environmental_imperialism_hide_asia: "Hide Environmental Imperialism in Asia"
- EU_USoE_environmental_imperialism_hide_asia_desc: "Hide Environmental Imperialism in Asia"
+ EU_USoE_environmental_imperialism_show_asia: "Экологический империализм в Азии"
+ EU_USoE_environmental_imperialism_show_asia_desc: "Экологический империализм в Азии"
+ EU_USoE_environmental_imperialism_hide_asia: "Скрыть Экологический империализм в Азии"
+ EU_USoE_environmental_imperialism_hide_asia_desc: "Скрыть Экологический империализм в Азии"
 
  #Middle East
- EU_USoE_environmental_imperialism_show_middle_east: "Environmental Imperialism in Middle East"
- EU_USoE_environmental_imperialism_show_middle_east_desc: "Environmental Imperialism in Middle East"
- EU_USoE_environmental_imperialism_hide_middle_east: "Hide Environmental Imperialism in Middle East"
- EU_USoE_environmental_imperialism_hide_middle_east_desc: "Hide Environmental Imperialism in Middle East"
+ EU_USoE_environmental_imperialism_show_middle_east: "Экологический империализм на Ближнем Востоке"
+ EU_USoE_environmental_imperialism_show_middle_east_desc: "Экологический империализм на Ближнем Востоке"
+ EU_USoE_environmental_imperialism_hide_middle_east: "Скрыть Экологический империализм на Ближнем Востоке"
+ EU_USoE_environmental_imperialism_hide_middle_east_desc: "Скрыть Экологический империализм на Ближнем Востоке"
 
  #Pacific
- EU_USoE_environmental_imperialism_show_pacific: "Environmental Imperialism in Pacific"
- EU_USoE_environmental_imperialism_show_pacific_desc: "Environmental Imperialism in Pacific"
- EU_USoE_environmental_imperialism_hide_pacific: "Hide Environmental Imperialism in Pacific"
- EU_USoE_environmental_imperialism_hide_pacific_desc: "Hide Environmental Imperialism in Pacific"
+ EU_USoE_environmental_imperialism_show_pacific: "Экологический империализм в Тихом океане"
+ EU_USoE_environmental_imperialism_show_pacific_desc: "Экологический империализм в Тихом океане"
+ EU_USoE_environmental_imperialism_hide_pacific: "Скрыть Экологический империализм в Тихом океане"
+ EU_USoE_environmental_imperialism_hide_pacific_desc: "Скрыть Экологический империализм в Тихом океане"
 
  #Oceania
- EU_USoE_environmental_imperialism_show_oceania: "Environmental Imperialism in Oceania"
- EU_USoE_environmental_imperialism_show_oceania_desc: "Environmental Imperialism in Oceania"
- EU_USoE_environmental_imperialism_hide_oceania: "Hide Environmental Imperialism in Oceania"
- EU_USoE_environmental_imperialism_hide_oceania_desc: "Hide Environmental Imperialism in Oceania"
+ EU_USoE_environmental_imperialism_show_oceania: "Экологический империализм в Океании"
+ EU_USoE_environmental_imperialism_show_oceania_desc: "Экологический империализм в Океании"
+ EU_USoE_environmental_imperialism_hide_oceania: "Скрыть Экологический империализм в Океании"
+ EU_USoE_environmental_imperialism_hide_oceania_desc: "Скрыть Экологический империализм в Океании"
 
 
 
@@ -436,19 +436,19 @@
  ################
 
  ### effect tooltips ###
- tooltip_USoE_capital: "Decision §YCapital of Europe§! becomes available."
- tooltip_USoE_westernize_THIS: "becomes target of §YWesternization decision§! from §Y[ROOT.GetNameWithFlag]§!"
- tooltip_create_eurosphere: "§Y[ROOT.GetNameWithFlag]§! spreads its influence on every neigbor country in §YEurope§!, §YMiddle East§! and §YAfrica§! with influence < 50%."
- tooltip_USoE_environmental_imperialism: "Get §YEnvironmental Imperialism decisions§! on every §Yregional power and above§!."
- tooltip_focus_USoE503: "Get §YEnvironmental Imperialism decisions§! on every §Yregional power and above§! in §YNorth America§!."
- tooltip_focus_USoE504: "Get §YEnvironmental Imperialism decisions§! on every §Yregional power and above§! in §YSouth America§!."
- tooltip_focus_USoE505: "Get §YEnvironmental Imperialism decisions§! on every §Yregional power and above§! in §YEurope§!."
- tooltip_focus_USoE506: "Get §YEnvironmental Imperialism decisions§! on every §Yregional power and above§! in §YAfrica§!."
- tooltip_focus_USoE507: "Get §YEnvironmental Imperialism decisions§! on every §Yregional power and above§! in §YMiddle East§!."
- tooltip_focus_USoE508: "Get §YEnvironmental Imperialism decisions§! on every §Yregional power and above§! in §YAsia§!."
- tooltip_focus_USoE509: "Get §YEnvironmental Imperialism decisions§! on every §Yregional power and above§! in §YOceania§!."
- tooltip_focus_USoE510: "Get §YEnvironmental Imperialism decisions§! on every §Yregional power and above§! in the §YPacific§!."
- tooltip_green_energy_reconstruction: "§YFor each Biofuel Refinery converted§!: costs $§R-1§! §Ybillion§! and §Y[THIS.Neutral_green_L]§! gain §G5%§! support (stops when > 50%)."
+ tooltip_USoE_capital: "Решение §YСтолица Европы§! становится доступным."
+ tooltip_USoE_westernize_THIS: "становится целью §Yрешения вестернизации§! §Y[ROOT.GetNameWithFlag]§!"
+ tooltip_create_eurosphere: "§Y[ROOT.GetNameWithFlag]§! распространяет свое влияние на каждую соседнюю страну в §YЕвропе§!, на §YБлижнем востоке§! и в §YАфрике§! с влиянием < 50%."
+ tooltip_USoE_environmental_imperialism: "Будут получены §Yрешения экологического империализма§! на каждой §Yрегиональной власти и выше§!."
+ tooltip_focus_USoE503: "Будут получены §Yрешения экологического империализма§! на каждой §Yрегиональной власти и выше§! в §YСеверной Америке§!."
+ tooltip_focus_USoE504: "Будут получены §Yрешения экологического империализма§! на каждой §Yрегиональной власти и выше§! в §YЮжной Америке§!."
+ tooltip_focus_USoE505: "Будут получены §Yрешения экологического империализма§! на каждой §Yрегиональной власти и выше§! в §YЕвропе§!."
+ tooltip_focus_USoE506: "Будут получены §Yрешения экологического империализма§! на каждой §Yрегиональной власти и выше§! в §YАфрике§!."
+ tooltip_focus_USoE507: "Будут получены §Yрешения экологического империализма§! на каждой §Yрегиональной власти и выше§! в §YБлижнем востоке§!."
+ tooltip_focus_USoE508: "Будут получены §Yрешения экологического империализма§! на каждой §Yрегиональной власти и выше§! в §YАзии§!."
+ tooltip_focus_USoE509: "Будут получены §Yрешения экологического империализма§! на каждой §Yрегиональной власти и выше§! в §YОкеании§!."
+ tooltip_focus_USoE510: "Будут получены §Yрешения экологического империализма§! на каждой §Yрегиональной власти и выше§! в §YТихом океане§!."
+ tooltip_green_energy_reconstruction: "§YДля каждого переоборудованного биотопливного завода§!: стоимость $§R-1§! §Yмлрд§! и §Y[THIS.Neutral_green_L]§! получит §G5%§! поддержки (остановится, когда > 50%)."
  tooltip_EU_USoE_environmental_puppet: "§Y[ROOT.GetNameWithFlag]§! will be considered as §YEnvironmental Puppet§!."
  tooltip_USoE403_effect: "§Y[THIS.anarchist_communism_L]§! sizes power!"
  tooltip_USoE404_effect: "Sets §YCorruption Level§! to §YNegligible Corruption§!."
